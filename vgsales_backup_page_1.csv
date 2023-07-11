@@ -1,0 +1,1001 @@
+Rank,Name,Platform,Publisher,Developer,Critic_Score,User_Score,NA_Sales,PAL_Sales,JP_Sales,Other_Sales,Global_Sales,Year,Genre
+1,Tetris,Series,The Tetris Company  ,Alexey Pajitnov  ,,,,,,,,1988,Puzzle
+2,Pokemon,Series,Nintendo  ,Game Freak  ,,,,,,,,1998,Role-Playing
+3,Super Mario,Series,Nintendo  ,Nintendo  ,,,,,,,,1983,Platform
+4,Call of Duty,Series,Activision  ,Infinity Ward  ,,,,,,,,2003,Shooter
+5,Grand Theft Auto,Series,Rockstar Games  ,Rockstar North  ,,,,,,,,1998,Action-Adventure
+6,FIFA,Series,EA Sports  ,Extended Play Productions (1991-1997)  ,,,,,,,,1993,Sports
+7,Minecraft,Series,Mojang  ,Mojang  ,,,,,,,,2011,Sandbox
+8,Minecraft,All,Mojang  ,Mojang AB  ,,,,,,,,2011,Action-Adventure
+9,Lego,Series,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,,,,,,1997,Action-Adventure
+10,Assassin's Creed,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2007,Action-Adventure
+11,The Sims,Series,Electronic Arts  ,Maxis  ,,,,,,,,2000,Simulation
+12,Grand Theft Auto V,All,Rockstar Games  ,Rockstar North  ,,,,,,,,2013,Action-Adventure
+13,Final Fantasy,Series,Square  ,Square  ,,,,,,,,1987,Role-Playing
+14,Mario Kart,Series,Nintendo  ,Nintendo  ,,,,,,,,1992,Racing
+15,Need for Speed,Series,Electronic Arts  ,EA Black Box  ,,,,,,,,1994,Racing
+16,Resident Evil,Series,Capcom  ,Capcom  ,,,,,,,,1996,Action-Adventure
+17,Tomb Raider,Series,Eidos Interactive  ,Core Design  ,,,,,,,,1996,Action-Adventure
+18,The Legend of Zelda,Series,Nintendo  ,Nintendo  ,,,,,,,,1987,Action-Adventure
+19,NBA 2K,Series,2K Games  ,Visual Concepts  ,,,,,,,,1999,Sports
+20,Madden NFL,Series,Electronic Arts  ,Park Place Productions  ,,,,,,,,1988,Sports
+21,Wii/Nintendo Sports,Series,Nintendo  ,Nintendo  ,,,,,,,,2006,Sports
+22,Pro Evolution Soccer/eFootball,Series,Konami  ,Konami  ,,,,,,,,1995,Sports
+23,Sonic the Hedgehog,Series,Sega  ,Sonic Team  ,,,,,,,,1991,Platform
+24,Monster Hunter,Series,Capcom  ,Capcom  ,,,,,,,,2004,Role-Playing
+25,The Elder Scrolls,Series,Bethesda Softworks  ,Bethesda Softworks  ,,,,,,,,1994,Role-Playing
+26,Gran Turismo,Series,Sony Interactive Entertainment  ,Polyphony Digital  ,,,,,,,,1998,Racing
+27,Dragon Quest,Series,Square  ,ArtePiazza  ,,,,,,,,1986,Role-Playing
+28,Wii Sports,Wii,Nintendo  ,Nintendo EAD  ,7.7,,41.36,29.02,3.77,8.51,82.65,2006,Sports
+29,Halo,Series,Microsoft Game Studios  ,Bungie  ,,,,,,,,2001,Shooter
+30,Borderlands,Series,2K Games  ,Gearbox Software  ,,,,,,,,2009,Shooter
+31,Mortal Kombat,Series,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,,,,,,,,1992,Fighting
+32,Battlefield,Series,Electronic Arts  ,EA DICE  ,,,,,,,,2002,Shooter
+33,Animal Crossing,Series,Nintendo  ,Nintendo  ,,,,,,,,2002,Simulation
+34,PUBG,Series,PUBG Corporation  ,PUBG Corporation  ,,,,,,,,2017,Shooter
+35,Red Dead,Series,Rockstar Games  ,Rockstar San Diego  ,,,,,,,,2004,Action-Adventure
+36,The Witcher,Series,CD Projekt  ,CD Projekt Red Studio  ,,,,,,,,2007,Role-Playing
+37,Worms,Series,Team17  ,Team17  ,,,,,,,,1995,Strategy
+38,Super Smash Bros.,Series,Nintendo  ,Nintendo  ,,,,,,,,1999,Fighting
+39,Mario Party,Series,Nintendo  ,Hudson Soft  ,,,,,,,,1999,Party
+40,Just Dance,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2009,Music
+41,PlayerUnknown's Battlegrounds,All,PUBG Corporation  ,PUBG Corporation  ,,,,,,,,2017,Shooter
+42,WWE 2K,Series,2K Games  ,Visual Concepts  ,,,,,,,,2000,Fighting
+43,Dragon Ball,Series,Bandai  ,Tose  ,,,,,,,,1986,Role-Playing
+44,Civilization,Series,Microprose  ,Firaxis Games  ,,,,,,,,1991,Strategy
+45,God of War,Series,Sony Interactive Entertainment  ,SIE Santa Monica Studio  ,,,,,,,,2005,Action
+46,Counter-Strike,Series,Valve  ,Valve  ,,,,,,,,2000,Shooter
+47,Donkey Kong,Series,Nintendo  ,Nintendo  ,,,,,,,,1981,Platform
+48,The Oregon Trail,Series,MECC  ,MECC  ,,,,,,,,2071,Education
+49,The Elder Scrolls V: Skyrim,All,Bethesda Softworks  ,Bethesda Game Studios  ,,,,,,,,2011,Role-Playing
+50,Metal Gear,Series,Konami  ,Konami  ,,,,,,,,1987,Action-Adventure
+51,Harry Potter/Wizarding World,Series,Electronic Arts  ,Griptonite Games  ,,,,,,,,2001,Action-Adventure
+52,Diablo,Series,Blizzard Entertainment  ,Blizzard North  ,,,,,,,,1997,Role-Playing
+53,Tekken,Series,Namco  ,Bandai Namco Studios  ,,,,,,,,1994,Fighting
+54,Mario Kart 8 Deluxe,NS,Nintendo  ,Nintendo EPD  ,9.3,,5.05,4.98,2.11,0.91,13.05,2017,Racing
+55,Lego Star Wars,Series,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,,,,,,2005,Action-Adventure
+56,Red Dead Redemption 2,All,Rockstar Games  ,Rockstar Studios  ,,,,,,,,2018,Action-Adventure
+57,Far Cry,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2004,Shooter
+58,Street Fighter,Series,Capcom  ,Capcom  ,,,,,,,,1987,Fighting
+59,The Walking Dead: Telltale Games Series,Series,Telltale Games  ,Telltale Games  ,,,,,,,,2012,Adventure
+60,Bejeweled,Series,PopCap Games  ,PopCap Games  ,,,,,,,,2001,Puzzle
+61,Crash Bandicoot,Series,Sony Interactive Entertainment  ,Naughty Dog  ,,,,,,,,1996,Platform
+62,The Witcher 3: Wild Hunt,All,Warner Bros. Interactive Entertainment  ,CD Projekt Red Studio  ,,,,,,,,2015,Role-Playing
+63,Warriors,Series,KOEI  ,Omega Force  ,,,,,,,,1997,Action
+64,Kirby,Series,Nintendo  ,HAL Laboratory  ,,,,,,,,1992,Platform
+65,Fallout,Series,Bethesda Softworks  ,Interplay Entertainment  ,,,,,,,,1997,Role-Playing
+66,Terraria,Series,505 Games  ,Re-Logic  ,,,,,,,,2011,Action-Adventure
+67,Terraria,All,Re-Logic  ,Re-Logic  ,,,,,,,,2011,Platform
+68,Uncharted,Series,Sony Interactive Entertainment  ,Naughty Dog  ,,,,,,,,2007,Shooter
+69,Wii Fit,Series,Nintendo  ,Nintendo  ,,,,,,,,2008,Misc
+70,Star Wars: Battlefront,Series,LucasArts  ,Pandemic Studios  ,,,,,,,,2004,Shooter
+71,Total War,Series,Sega  ,Creative Assembly  ,,,,,,,,2000,Strategy
+72,Spider-Man,Series,Parker Brothers  ,Parker Brothers  ,,,,,,,,1982,Action-Adventure
+73,Animal Crossing: New Horizons,NS,Nintendo  ,Nintendo  ,,,,,,,,2020,Simulation
+74,BioShock,Series,2K Games  ,Irrational Games  ,,,,,,,,2007,Shooter
+75,Gears of War,Series,Microsoft Game Studios  ,Epic Games  ,,,,,,,,2006,Shooter
+76,World of WarCraft,Series,Blizzard Entertainment  ,Blizzard Entertainment  ,,,,,,,,2004,MMO
+77,Super Mario Bros.,NES,Nintendo  ,Nintendo EAD  ,10.0,8.2,29.08,3.58,6.81,0.77,40.24,1985,Platform
+78,Counter-Strike: Global Offensive,PC,Valve  ,Valve Corporation  ,,,,,,,,2012,Shooter
+79,Guitar Hero,Series,Activision  ,Harmonix  ,,,,,,,,2005,Music
+80,Medal of Honor,Series,Electronic Arts  ,"2015, Inc.  ",,,,,,,,1999,Shooter
+81,Mega Man,Series,Capcom  ,Capcom  ,,,,,,,,1987,Platform
+82,Mario Kart Wii,Wii,Nintendo  ,Nintendo EAD  ,8.2,9.1,15.91,12.92,3.8,3.35,35.98,2008,Racing
+83,The Last of Us,Series,Sony Interactive Entertainment  ,Naughty Dog  ,,,,,,,,2013,Action-Adventure
+84,PLAYERUNKNOWN'S BATTLEGROUNDS,PC,PUBG Corporation  ,PUBG Corporation  ,,,,,,,,2017,Shooter
+85,Kingdom Hearts,Series,Square Enix  ,Square  ,,,,,,,,2002,Role-Playing
+86,Tom Clancy's Rainbow Six,Series,Ubisoft  ,Ubisoft  ,,,,,,,,1998,Shooter
+87,Souls,Series,Bandai Namco Entertainment  ,From Software  ,,,,,,,,2009,Role-Playing
+88,Brain Age,Series,Nintendo  ,Nintendo  ,,,,,,,,2006,Puzzle
+89,NBA Live,Series,EA Sports  ,EA Canada  ,,,,,,,,1994,Sports
+90,Tom Clancy's Ghost Recon,Series,Ubisoft  ,Red Storm Entertainment  ,,,,,,,,2001,Shooter
+91,Marvel's Spider-Man,Series,Sony Interactive Entertainment  ,Insomniac Games  ,,,,,,,,2018,Action-Adventure
+92,Dark Souls,Series,Bandai Namco Entertainment  ,From Software  ,,,,,,,,2011,Role-Playing
+93,Football Manager,Series,Sega  ,Sports Interactive  ,,,,,,,,2004,Simulation
+94,Minecraft,PC,Mojang  ,Mojang AB  ,10.0,,,,,,,2010,Misc
+95,Wii Sports Resort,Wii,Nintendo  ,Nintendo EAD  ,8.0,8.8,15.61,10.99,3.29,3.02,32.9,2009,Sports
+96,Half-life,Series,Valve  ,Valve  ,,,,,,,,1998,Shooter
+97,Horizon,Series,Sony Interactive Entertainment  ,Guerrilla Games  ,,,,,,,,2017,Action-Adventure
+98,Saints Row,Series,THQ  ,Volition  ,,,,,,,,2006,Sandbox
+99,The Legend of Zelda: Breath of the Wild,All,Nintendo  ,Nintendo  ,,,,,,,,2017,Action-Adventure
+100,Pokémon Red / Green / Blue Version,GB,Nintendo  ,Game Freak  ,9.4,,11.27,8.89,10.22,1.0,31.37,1998,Role-Playing
+101,Tony Hawk's,Series,Activision  ,Neversoft  ,,,,,,,,1999,Sports
+102,Super Smash Bros. Ultimate,NS,Nintendo  ,Bandai Namco Games  ,9.4,9.7,4.22,1.72,2.41,0.61,8.95,2018,Fighting
+103,Call of Duty: Black Ops II,All,Activision  ,Treyarch  ,,,,,,,,2012,Shooter
+104,Tom Clancy's Splinter Cell,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2002,Action-Adventure
+105,Age of Empires,Series,Microsoft  ,Ensemble Studios  ,,,,,,,,1997,Strategy
+106,Ratchet & Clank,Series,Sony Interactive Entertainment  ,Insomniac Games  ,,,,,,,,2002,Shooter
+107,New Super Mario Bros.,DS,Nintendo  ,Nintendo EAD  ,9.1,8.1,11.28,9.19,6.5,2.89,29.85,2006,Platform
+108,New Super Mario Bros. Wii,Wii,Nintendo  ,Nintendo EAD  ,8.6,9.2,14.53,7.01,4.7,2.27,28.51,2009,Platform
+109,Tetris,GB,Nintendo  ,Bullet Proof Software  ,,,23.2,2.26,4.22,0.58,30.26,1989,Puzzle
+110,Call of Duty: Black Ops,All,Activision  ,Treyarch  ,,,,,,,,2010,Shooter
+111,Call of Duty: Modern Warfare,All,Activision  ,Infinity Ward  ,,,,,,,,2019,Shooter
+112,Call of Duty: Modern Warfare 3,All,Activision  ,Infinity Ward  ,,,,,,,,2011,Shooter
+113,Command & Conquer,Series,Electronic Arts  ,Westwood Studios  ,,,,,,,,1995,Strategy
+114,Diablo III,All,Blizzard Entertainment  ,Blizzard Entertainment  ,,,,,,,,2015,Role-Playing
+115,Dying Light,Series,Techland  ,Techland  ,,,,,,,,2015,Action-Adventure
+116,James Bond,Series,Parker Bros.  ,Richard Shepherd Software  ,,,,,,,,1983,Action-Adventure
+117,Mario & Sonic at the Olympic Games,Series,Sega  ,Sega  ,,,,,,,,2007,Sports
+118,The Legend of Zelda: Breath of the Wild,NS,Nintendo  ,Nintendo EPD  ,9.9,10.0,4.54,2.94,1.26,0.73,9.46,2017,Action-Adventure
+119,Wii Play,Series,Nintendo  ,Nintendo  ,,,,,,,,2007,Party
+120,Devil May Cry,Series,Capcom  ,Capcom  ,,,,,,,,2001,Action
+121,Splatoon,Series,Nintendo  ,Nintendo  ,,,,,,,,2015,Shooter
+122,Nintendogs,Series,Nintendo  ,Nintendo  ,,,,,,,,2005,Simulation
+123,Duck Hunt,NES,Nintendo  ,Nintendo R&D1  ,,,26.93,0.63,0.28,0.47,28.31,1985,Shooter
+124,Naruto: Ultimate Ninja,Series,Bandai Namco Entertainment  ,CyberConnect2  ,,,,,,,,2006,Fighting
+125,Wii Play,Wii,Nintendo  ,Nintendo EAD  ,5.9,4.5,13.96,9.18,2.93,2.85,28.92,2007,Misc
+126,Farming Simulator,Series,Astragon  ,Giants Software  ,,,,,,,,2008,Simulation
+127,Tales of,Series,Namco  ,Bandai Namco Studios  ,,,,,,,,1998,Role-Playing
+128,Grand Theft Auto: San Andreas,All,Rockstar Games  ,Rockstar North  ,,,,,,,,2004,Action-Adventure
+129,Yoshi,Series,Nintendo  ,Nintendo  ,,,,,,,,1992,Platform
+130,Portal,Series,Valve  ,Valve  ,,,,,,,,2007,Puzzle
+131,Borderlands 2,All,2K Games  ,Gearbox Software  ,,,,,,,,2012,Shooter
+132,FIFA 18,All,Electronic Arts  ,EA Vancouver  ,,,,,,,,2017,Sports
+133,Rayman,Series,Ubisoft  ,Ubisoft  ,,,,,,,,1995,Platform
+134,Pokémon Sword / Shield,NS,Nintendo  ,Game Freak  ,,,,,,,,2019,Role-Playing
+135,Super Mario Odyssey,NS,Nintendo  ,Nintendo EPD  ,9.9,,5.1,3.75,2.02,0.84,11.71,2017,Platform
+136,Grand Theft Auto IV,All,Rockstar Games  ,Rockstar North  ,,,,,,,,2008,Action-Adventure
+137,Human: Fall Flat,All,Curve Digital  ,No Brakes Games  ,,,,,,,,2016,Platform
+138,Puyo Puyo,Series,Sega  ,Compile  ,,,,,,,,2002,Puzzle
+139,Tiger Woods PGA Tour,Series,EA Sports  ,EA Redwood Shores  ,,,,,,,,1998,Sports
+140,Batman: Arkham,Series,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,,,,,,,,2009,Action-Adventure
+141,Jikkyo Powerful Pro Yakyu,Series,Konami  ,Konami  ,,,,,,,,1994,Sports
+142,Kinect Adventures!,X360,Microsoft Game Studios  ,Good Science Studio  ,6.7,,15.09,4.97,0.24,1.81,22.1,2010,Party
+143,Petz,Series,PF.Magic  ,PF Magic  ,,,,,,,,1995,Simulation
+144,Nintendogs,DS,Nintendo  ,Nintendo EAD  ,8.4,,9.05,10.96,1.93,2.74,24.68,2005,Simulation
+145,Mario Kart DS,DS,Nintendo  ,Nintendo EAD  ,9.1,9.4,9.71,7.51,4.13,1.91,23.26,2005,Racing
+146,Pokémon Gold / Silver Version,GB,Nintendo  ,Game Freak  ,9.2,,9.0,6.18,7.2,0.71,23.1,2000,Role-Playing
+147,God of War (2018),All,Sony Interactive Entertainment  ,SIE Santa Monica Studio  ,,,,,,,,2018,Action
+148,Terraria,PC,Re-Logic  ,Re-Logic  ,8.8,,,0.13,,0.01,0.14,2011,Platform
+149,Yakuza,Series,Sega  ,Sega  ,,,,,,,,2006,Action-Adventure
+150,Call of Duty: Modern Warfare 2,All,Activision  ,Infinity Ward  ,,,,,,,,2009,Shooter
+151,Wii Fit,Wii,Nintendo  ,Nintendo EAD  ,7.9,,8.92,8.03,3.6,2.15,22.7,2008,Sports
+152,Luigi's Mansion,Series,Nintendo  ,Nintendo  ,,,,,,,,2001,Action-Adventure
+153,Teenage Mutant Ninja Turtles,Series,Konami  ,Konami  ,,,,,,,,1989,Action-Adventure
+154,Monster Hunter: World,All,Capcom  ,Capcom  ,,,,,,,,2018,Role-Playing
+155,Microsoft Flight Simulator,Series,Microsoft  ,Sublogic  ,,,,,,,,1982,Simulation
+156,Pokémon Scarlet / Violet,NS,Nintendo  ,Game Freak  ,,,,,,,,2022,Role-Playing
+157,SpongeBob SquarePants,Series,THQ  ,Vicarious Visions  ,,,,,,,,2001,Action-Adventure
+158,Yu-Gi-Oh!,Series,Konami  ,Konami  ,,,,,,,,2002,Strategy
+159,Castlevania,Series,Konami  ,Konami  ,,,,,,,,1986,Action-Adventure
+160,Dynasty Warriors,Series,KOEI  ,Omega Force  ,,,,,,,,1997,Action
+161,Wii Fit Plus,Wii,Nintendo  ,Nintendo EAD  ,8.0,,9.01,8.51,2.53,1.76,21.81,2009,Sports
+162,Imagine,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2007,Simulation
+163,Final Fantasy X/X-2,All,Square  ,Square  ,,,,,,,,2001,Role-Playing
+164,Naruto: Ultimate Ninja Storm,Series,Namco Bandai Games  ,CyberConnect2  ,,,,,,,,2008,Fighting
+165,Super Mario World,SNES,Nintendo  ,Nintendo EAD  ,8.5,,12.78,3.75,3.54,0.55,20.61,1991,Platform
+166,The Lord of the Rings,Series,Melbourne House  ,Beam Software  ,,,,,,,,1982,Action-Adventure
+167,Elden Ring,All,Bandai Namco Entertainment  ,From Software  ,,,,,,,,2022,Action-Adventure
+168,Grand Theft Auto V,PS3,Rockstar Games  ,Rockstar North  ,9.4,,6.37,9.85,0.99,3.12,20.32,2013,Action
+169,Super Robot Wars,Series,Bandai  ,Banpresto  ,,,,,,,,1991,Role-Playing
+170,Cyberpunk 2077,All,CD Projekt Red Studio  ,CD Projekt Red Studio  ,,,,,,,,2020,Role-Playing
+171,Dying Light,All,Warner Bros. Interactive Entertainment  ,Techland  ,,,,,,,,2015,Action-Adventure
+172,Fallout 4,All,Bethesda Softworks  ,Bethesda Game Studios  ,,,,,,,,2015,Role-Playing
+173,FIFA 19,All,EA Sports  ,EA Vancouver  ,,,,,,,,2018,Sports
+174,Frogger,Series,Konami  ,Konami  ,,,,,,,,1981,Action
+175,Gundam,Series,Bandai  ,Banpresto  ,,,,,,,,1997,Action-Adventure
+176,Horizon: Zero Dawn,All,Sony Interactive Entertainment  ,Guerrilla Games  ,,,,,,,,2017,Action-Adventure
+177,Lemmings,Series,Psygnosis  ,DMA Design  ,,,,,,,,1991,Puzzle
+178,Marvel's Spider-Man,PS4,Sony Interactive Entertainment  ,Insomniac Games  ,9.1,,3.64,3.39,0.32,1.41,8.76,2018,Action-Adventure
+179,Prince of Persia,Series,Ubisoft  ,Broderbund  ,,,,,,,,1989,Action-Adventure
+180,Rayman Raving Rabbids,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2006,Action-Adventure
+181,SimCity,Series,Maxis  ,Maxis  ,,,,,,,,1989,Simulation
+182,Simple,Series,Agetec  ,Bandai Namco Studios  ,,,,,,,,2002,Misc
+183,SingStar,Series,Sony Interactive Entertainment  ,London Studios  ,,,,,,,,2004,Music
+184,Sniper Elite,Series,Rebellion Developments  ,Rebellion Developments  ,,,,,,,,2005,Shooter
+185,Spyro,Series,Sony Interactive Entertainment  ,Insomniac Games  ,,,,,,,,1998,Platform
+186,Stardew Valley,Series,Chucklefish  ,ConcernedApe  ,,,,,,,,2016,Simulation
+187,Stardew Valley,All,ConcernedApe  ,ConcernedApe  ,,,,,,,,2016,Simulation
+188,Tom Clancy's The Division,Series,Ubisoft  ,Massive Entertainment  ,,,,,,,,2016,Shooter
+189,Watch Dogs,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2014,Action-Adventure
+190,God of War (2018),PS4,Sony Interactive Entertainment  ,SIE Santa Monica Studio  ,9.7,10.0,2.83,2.17,0.13,1.02,6.15,2018,Action
+191,Grand Theft Auto V,PS4,Rockstar Games  ,Rockstar North  ,9.7,,6.06,9.71,0.6,3.02,19.39,2014,Action
+192,Super Mario Party,NS,Nintendo  ,"Nd Cube Co., Ltd.  ",7.3,,2.12,1.64,0.85,0.36,4.97,2018,Party
+193,StarCraft,Series,Blizzard Entertainment  ,Blizzard Entertainment  ,,,,,,,,1998,Strategy
+194,Brain Age: Train Your Brain in Minutes a Day,DS,Nintendo  ,Nintendo SDD  ,8.1,,4.74,9.21,4.16,2.04,20.16,2006,Misc
+195,Call of Duty: Ghosts,All,Activision  ,Infinity Ward  ,,,,,,,,2013,Shooter
+196,Driver,Series,GT Interactive  ,Ubisoft Reflections  ,,,,,,,,1999,Racing
+197,WarCraft,Series,Blizzard Entertainment  ,Blizzard Entertainment  ,,,,,,,,1994,Strategy
+198,Mario Kart 7,3DS,Nintendo  ,Nintendo EAD / Retro Studios  ,8.2,,6.03,5.35,3.0,1.11,15.49,2011,Racing
+199,Midnight Club,Series,Rockstar Games  ,Rockstar San Diego  ,,,,,,,,2000,Racing
+200,Persona,Series,Atlus  ,Atlus  ,,,,,,,,1996,Role-Playing
+201,Super Mario Land,GB,Nintendo  ,Nintendo R&D1  ,,,10.83,2.71,4.18,0.42,18.14,1989,Platform
+202,Ace Combat,Series,Namco  ,Namco  ,,,,,,,,1995,Simulation
+203,Professor Layton,Series,Nintendo  ,Level-5  ,,,,,,,,2008,Adventure
+204,The Elder Scrolls Online,All,Bethesda Softworks  ,ZeniMax Online Studios  ,,,,,,,,2014,Role-Playing
+205,Metroid,Series,Nintendo  ,Nintendo  ,,,,,,,,1987,Action-Adventure
+206,Need for Speed: Most Wanted,All,Electronic Arts  ,EA Canada  ,,,,,,,,2005,Racing
+207,Pokémon Diamond / Pearl Version,DS,Nintendo  ,Game Freak  ,8.6,,6.38,4.47,6.04,1.36,18.25,2007,Role-Playing
+208,Grand Theft Auto: Vice City,All,Rockstar Games  ,Rockstar North  ,,,,,,,,2002,Action-Adventure
+209,Grand Theft Auto: San Andreas,PS2,Rockstar Games  ,Rockstar North  ,9.5,,9.43,0.4,0.41,10.57,20.81,2004,Action
+210,Super Mario Bros. 3,NES,Nintendo  ,Nintendo R&D2  ,,,9.54,3.44,3.84,0.46,17.28,1990,Platform
+211,RollerCoaster Tycoon,Series,Hasbro Interactive  ,Chris Sawyer Productions  ,,,,,,,,1999,Simulation
+212,Borderlands 3,All,2K Games  ,Gearbox Software  ,,,,,,,,2019,Shooter
+213,SoulCalibur,Series,Namco  ,Project Soul  ,,,,,,,,1996,Fighting
+214,Zuma,Series,PopCap Games  ,Oberon Media  ,,,,,,,,2003,Puzzle
+215,Zuma,All,PopCap Games  ,Oberon Media  ,,,,,,,,2003,Puzzle
+216,Garry's Mod,PC,Valve  ,Facepunch Studios  ,,,,,,,,2006,Misc
+217,Pokemon Mystery Dungeon,Series,Nintendo  ,Chunsoft  ,,,,,,,,2006,Role-Playing
+218,Pokémon X/Y,3DS,Nintendo  ,Game Freak  ,8.9,9.3,5.68,5.06,4.4,0.99,16.13,2013,Role-Playing
+219,Hitman,Series,Eidos Interactive  ,IO Interactive  ,,,,,,,,2000,Action-Adventure
+220,Mario Tennis,Series,Nintendo  ,Nintendo  ,,,,,,,,1995,Sports
+221,Deus Ex,Series,Eidos Interactive  ,Ion Storm  ,,,,,,,,2000,Role-Playing
+222,Pokémon Sun/Moon,3DS,Nintendo  ,Game Freak  ,9.0,,6.02,4.34,3.82,0.99,15.17,2016,Role-Playing
+223,Uncharted 4: A Thief's End,PS4,Sony Interactive Entertainment  ,Naughty Dog  ,9.2,,4.49,3.93,0.21,1.7,10.33,2016,Action
+224,Pokémon Ruby / Sapphire Version,GBA,Nintendo  ,Game Freak  ,8.8,,6.06,3.9,5.38,0.5,15.85,2003,Role-Playing
+225,Grand Theft Auto: Vice City,PS2,Rockstar Games  ,Rockstar North  ,9.6,,8.41,5.49,0.47,1.78,16.15,2002,Action
+226,Dead Island,Series,Deep Silver  ,Techland  ,,,,,,,,2011,Action-Adventure
+227,FIFA 11,All,EA Sports  ,EA Canada  ,,,,,,,,2010,Sports
+228,Mass Effect,Series,Electronic Arts  ,BioWare  ,,,,,,,,2007,Role-Playing
+229,The Sims,All,Electronic Arts  ,Maxis  ,,,,,,,,2000,Simulation
+230,The Witcher 3: Wild Hunt,PC,Warner Bros. Interactive Entertainment  ,CD Projekt Red Studio  ,,,0.29,0.55,,0.07,0.91,2015,Role-Playing
+231,Grand Theft Auto V,X360,Rockstar Games  ,Rockstar North  ,,,9.06,5.33,0.06,1.42,15.86,2013,Action
+232,Call of Duty 4: Modern Warfare,All,Activision  ,Infinity Ward  ,,,,,,,,2007,Shooter
+233,Call of Duty: World at War,All,Activision  ,Treyarch  ,,,,,,,,2008,Shooter
+234,Pokémon Black / White Version,DS,Nintendo  ,Game Freak  ,8.6,9.0,5.51,3.2,5.66,0.8,15.18,2011,Role-Playing
+235,Need for Speed: Carbon,All,Electronic Arts  ,EA Canada  ,,,,,,,,2006,Racing
+236,Momotaro Dentetsu,Series,Konami  ,Hudson Soft  ,,,,,,,,1988,Board Game
+237,New Super Mario Bros. U Deluxe,NS,Nintendo  ,Nintendo EPD  ,,6.6,,,,,,2019,Platform
+238,Fire Emblem,Series,Nintendo  ,Intelligent Systems  ,,,,,,,,2003,Strategy
+239,Ring Fit Adventure,NS,Nintendo  ,Nintendo EPD  ,,,,,,,,2019,Misc
+240,Dragon Ball Xenoverse,Series,Bandai Namco Games  ,Dimps Corporation  ,,,,,,,,2015,Fighting
+241,Call of Duty: Black Ops 3,PS4,Activision  ,Treyarch  ,,,6.18,6.05,0.41,2.44,15.09,2015,Shooter
+242,"Pokémon: Let's Go, Pikachu/Eevee",NS,Nintendo  ,Game Freak  ,,,,,,,,2018,Role-Playing
+243,Counter-Strike: Source,PC,VU Games  ,Valve Software  ,9.3,,,0.07,,0.01,0.08,2004,Shooter
+244,Assassin's Creed IV: Black Flag,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2013,Action-Adventure
+245,Backyard Sports,Series,Humongous Entertainment  ,Humongous Entertainment  ,,,,,,,,1997,Sports
+246,Barbie,Series,Hi Tech Expressions  ,Imagineering  ,,,,,,,,1991,Action-Adventure
+247,Battlefield 3,All,Electronic Arts  ,EA DICE  ,,,,,,,,2011,Shooter
+248,Burnout,Series,EA Sports  ,Criterion Games  ,,,,,,,,2001,Racing
+249,Dead Rising,Series,Capcom  ,Capcom  ,,,,,,,,2006,Action-Adventure
+250,Famista,Series,Namco  ,Namco  ,,,,,,,,1986,Sports
+251,Gex,Series,BMG Interactive Entertainment  ,Crystal Dynamics  ,,,,,,,,1995,Platform
+252,Hogwarts Legacy,All,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,,,,,,,,2023,Role-Playing
+253,Just Cause,Series,Eidos Interactive  ,Avalanche Studios  ,,,,,,,,2006,Shooter
+254,Mario & Sonic at the Olympic Games,All,Sega  ,Sega Sports R&D  ,,,,,,,,2007,Sports
+255,Mortal Kombat 11,All,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,,,,,,,,2019,Fighting
+256,Need for Speed: Underground,All,Electronic Arts  ,EA Black Box  ,,,,,,,,2003,Racing
+257,Red Dead Redemption,All,Rockstar Games  ,Rockstar San Diego  ,,,,,,,,2010,Action-Adventure
+258,Sonic the Hedgehog,GEN,Sega  ,Sonic Team  ,,,3.03,0.91,0.26,0.13,4.34,1991,Platform
+259,Theme Park,All,Bullfrog Productions  ,Bullfrog Productions  ,,,,,,,,1994,Simulation
+260,Pokémon Brilliant Diamond / Shining Pearl,NS,Nintendo  ,Game Freak  ,,,,,,,,2021,Role-Playing
+261,Gran Turismo 3: A-Spec,PS2,Sony Computer Entertainment  ,Polyphony Digital  ,9.3,,6.85,5.09,1.87,1.16,14.98,2001,Racing
+262,Brain Age 2: More Training in Minutes a Day,DS,Nintendo  ,Nintendo SDD  ,8.0,,3.43,5.36,5.32,1.18,15.29,2007,Misc
+263,Pokémon Legends: Arceus,NS,Nintendo  ,Game Freak  ,,,,,,,,2022,Role-Playing
+264,Call of Duty: Modern Warfare 3,X360,Activision  ,Infinity Ward  ,8.7,,9.07,4.29,0.13,1.33,14.82,2011,Shooter
+265,Call of Duty: Black Ops,X360,Activision  ,Treyarch  ,8.8,,9.76,3.73,0.11,1.14,14.74,2010,Shooter
+266,Metro,Series,THQ  ,4a-games  ,,,,,,,,2010,Shooter
+267,Pokémon Yellow: Special Pikachu Edition,GB,Nintendo  ,Game Freak  ,8.7,,5.89,5.04,3.12,0.59,14.64,1999,Role-Playing
+268,Pokémon Omega Ruby/Pokémon Alpha Sapphire,3DS,Nintendo  ,Game Freak  ,,,4.78,3.98,3.15,0.82,12.73,2014,Role-Playing
+269,FIFA 13,All,EA Sports  ,EA Canada  ,,,,,,,,2012,Sports
+270,Grand Theft Auto III,All,Rockstar Games  ,Rockstar North  ,,,,,,,,2001,Action-Adventure
+271,Halo 3,X360,Microsoft Game Studios  ,Bungie Studios  ,9.6,9.5,7.97,2.81,0.13,1.21,12.13,2007,Shooter
+272,Lego Batman,Series,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,,,,,,2008,Action-Adventure
+273,Everybody's Golf,Series,Sony Interactive Entertainment  ,Camelot Software  ,,,,,,,,1998,Sports
+274,Final Fantasy VII,All,Sony Computer Entertainment  ,Square  ,,,,,,,,1997,Role-Playing
+275,Street Fighter II,All,Capcom  ,Capcom  ,,,,,,,,1991,Fighting
+276,Mafia,Series,2K Games  ,Illusion Softworks  ,,,,,,,,2002,Action-Adventure
+277,NBA 2K20,All,2K Sports  ,Visual Concepts  ,,,,,,,,2019,Sports
+278,Star Wars Battlefront (2015),All,Electronic Arts  ,EA DICE  ,,,,,,,,2015,Shooter
+279,Yo-kai Watch,Series,Nintendo  ,Level 5  ,,,,,,,,2015,Role-Playing
+280,Portal,All,Valve  ,Valve  ,,,,,,,,2007,Puzzle
+281,Red Dead Redemption 2,PS4,Rockstar Games  ,Rockstar Games  ,9.8,,5.26,6.21,0.21,2.26,13.94,2018,Action-Adventure
+282,Call of Duty: Black Ops II,X360,Activision  ,Treyarch  ,,,8.27,4.32,0.07,1.2,13.86,2012,Shooter
+283,Call of Duty: Black Ops II,PS3,Activision  ,Treyarch  ,,,4.99,5.88,0.65,2.28,13.8,2012,Shooter
+284,Resident Evil 5,All,Capcom  ,Capcom  ,,,,,,,,2009,Action-Adventure
+285,Call of Duty: Modern Warfare 2,X360,Activision  ,Infinity Ward  ,9.5,9.0,8.54,3.63,0.08,1.28,13.53,2009,Shooter
+286,Guild Wars,Series,NCSoft  ,ArenaNet  ,,,,,,,,2005,MMO
+287,New Super Mario Bros. 2,3DS,Nintendo  ,Nintendo  ,7.5,,3.95,4.07,2.59,0.72,11.33,2012,Platform
+288,Call of Duty: WWII,PS4,Activision  ,Sledgehammer Games  ,8.0,,4.67,6.21,0.4,2.12,13.4,2017,Shooter
+289,Call of Duty: Modern Warfare 3,PS3,Activision  ,Infinity Ward  ,8.8,,5.54,5.78,0.49,1.54,13.35,2011,Shooter
+290,Paper Mario,Series,Nintendo  ,Intelligent Systems  ,,,,,,,,2001,Role-Playing
+291,Super Smash Bros. Brawl,Wii,Nintendo  ,Project Sora  ,9.2,9.7,6.64,2.57,2.67,1.03,12.91,2008,Fighting
+292,Splatoon 2,NS,Nintendo  ,Nintendo EPD  ,8.2,,1.9,1.8,3.01,0.34,7.04,2017,Shooter
+293,Rock Band,Series,MTV Games  ,Harmonix  ,,,,,,,,2007,Music
+294,Grand Theft Auto III,PS2,Rockstar Games  ,DMA Design  ,9.5,,6.99,4.51,0.3,1.3,13.1,2001,Action
+295,Portal 2,PC,Valve  ,Valve Software  ,9.7,,0.33,0.33,,0.1,0.75,2011,Shooter
+296,Animal Crossing: New Leaf,3DS,Nintendo  ,Nintendo EAD  ,8.6,,2.46,3.06,4.9,0.48,10.9,2013,Simulation
+297,ARMA,Series,505 Games  ,Bohemia Interactive  ,,,,,,,,2007,Shooter
+298,Minecraft,X360,Microsoft Studios  ,Mojang  ,,,5.96,2.94,0.02,0.9,9.82,2013,Misc
+299,Monster Hunter Rise,All,Capcom  ,Capcom  ,,,,,,,,2021,Action-Adventure
+300,Scribblenauts,Series,Warner Bros. Interactive Entertainment  ,5th Cell  ,,,,,,,,2009,Puzzle
+301,Stardew Valley,PC,Chucklefish  ,ConcernedApe  ,9.2,,,,,,,2016,Simulation
+302,Super Mario 3D Land,3DS,Nintendo  ,Nintendo EAD Tokyo  ,8.9,,5.1,3.46,2.15,0.85,11.56,2011,Platform
+303,Luigi's Mansion 3,NS,Nintendo  ,"Next Level Games, Inc.  ",,,,,,,,2019,Action-Adventure
+304,Super Mario Galaxy,Wii,Nintendo  ,Nintendo EAD Tokyo  ,9.7,9.6,6.06,3.38,1.2,0.76,11.4,2007,Platform
+305,Pokémon Heart Gold / Soul Silver Version,DS,Nintendo  ,Game Freak  ,8.6,,4.34,2.72,3.96,0.76,11.78,2010,Role-Playing
+306,Call of Duty: Black Ops,PS3,Activision  ,Treyarch  ,8.7,,6.01,4.4,0.48,1.78,12.67,2010,Shooter
+307,Grand Theft Auto V,PC,Rockstar Games  ,Rockstar North  ,,,0.48,0.76,,0.1,1.33,2015,Action
+308,Resident Evil 4,All,Capcom  ,Capcom  ,,,,,,,,2005,Action-Adventure
+309,Fable,Series,Microsoft Game Studios  ,Big Blue Box  ,,,,,,,,2004,Role-Playing
+310,Batman: Arkham City,All,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,,,,,,,,2011,Action-Adventure
+311,Myst,Series,Broderbund  ,"Cyan, Inc.  ",,,,,,,,1993,Adventure
+312,Rust,All,Facepunch Studios  ,Facepunch Studios  ,,,,,,,,2018,Action-Adventure
+313,The Witcher 3: Wild Hunt,PS4,Warner Bros. Interactive Entertainment  ,CD Projekt Red Studio  ,,,1.48,2.82,0.28,0.81,5.39,2015,Role-Playing
+314,Mario Golf,Series,Nintendo  ,Nintendo  ,,,,,,,,1991,Sports
+315,Mario & Luigi,Series,Nintendo  ,AlphaDream  ,,,,,,,,2003,Role-Playing
+316,Wario,Series,Nintendo  ,Nintendo  ,,,,,,,,1994,Platform
+317,7 Days to Die,All,The Fun Pimps   ,The Fun Pimps  ,,,,,,,,2013,Role-Playing
+318,Assassin's Creed III,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2012,Action-Adventure
+319,Assetto Corsa,All,Kunos Simulazioni  ,Kunos Simulazioni  ,,,,,,,,2014,Racing
+320,Bomberman,Series,Konami  ,Hudson Soft  ,,,,,,,,1987,Puzzle
+321,Cities: Skylines,All,Paradox Interactive   ,Colossal Order  ,,,,,,,,2015,Simulation
+322,Cooking Mama,Series,Majesco Entertainment  ,Cooking Mama Limited  ,,,,,,,,2006,Simulation
+323,Diablo III,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.0,,2.5,2.23,,0.53,5.26,2012,Role-Playing
+324,Half-Life 2,PC,VU Games  ,Valve Software  ,9.7,,2.28,0.02,0.08,,2.37,2004,Shooter
+325,Jak and Daxter,Series,Sony Interactive Entertainment  ,Naughty Dog  ,,,,,,,,2001,Action-Adventure
+326,Left 4 Dead,Series,Valve  ,Valve  ,,,,,,,,2008,Shooter
+327,Little Nightmares,Series,Bandai Namco Entertainment  ,Tarsier Studios  ,,,,,,,,2017,Platform
+328,NBA 2K19,All,2K Sports  ,Visual Concepts  ,,,,,,,,2018,Sports
+329,Pokémon FireRed / LeafGreen Version,GBA,Nintendo  ,Game Freak  ,8.3,,4.34,2.65,3.15,0.35,10.49,2004,Role-Playing
+330,Resident Evil 7,All,Capcom  ,Capcom  ,,,,,,,,2017,Action-Adventure
+331,SOCOM,Series,Sony Interactive Entertainment  ,Zipper Interactive  ,,,,,,,,2002,Shooter
+332,World of Warcraft,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.2,8.0,0.12,6.24,,,6.35,2004,MMO
+333,Gran Turismo 5,PS3,Sony Computer Entertainment  ,Polyphony Digital  ,8.3,,2.96,4.87,0.81,2.1,10.75,2010,Racing
+334,Super Mario 64,N64,Nintendo  ,Nintendo EAD  ,9.7,9.2,6.91,2.85,1.91,0.23,11.89,1996,Platform
+335,Resident Evil 2 (2019),All,Capcom  ,Capcom  ,,,,,,,,2019,Action-Adventure
+336,FIFA 18,PS4,EA Sports  ,EA Vancouver  ,8.3,,1.27,8.64,0.15,1.73,11.8,2017,Sports
+337,The Last of Us Remastered,PS4,Sony Computer Entertainment  ,Naughty Dog  ,9.5,,2.7,2.86,0.11,1.1,6.77,2014,Action-Adventure
+338,Gran Turismo 4,PS2,Sony Computer Entertainment  ,Polyphony Digital  ,8.7,,3.01,0.01,1.1,7.53,11.66,2005,Racing
+339,Animal Crossing: Wild World,DS,Nintendo  ,Nintendo EAD  ,8.5,,2.5,3.46,5.33,0.86,12.14,2005,Simulation
+340,The Room,Series,Fireproof Games  ,Fireproof Games  ,,,,,,,,2012,Puzzle
+341,Max Payne,Series,Rockstar Games  ,Remedy Entertainment  ,,,,,,,,2001,Shooter
+342,Super Mario 3D World + Bowser's Fury,NS,Nintendo  ,Nintendo  ,,,,,,,,2021,Platform
+343,Taiko no Tatsujin,Series,Namco  ,Bandai Namco Studios  ,,,,,,,,2004,Music
+344,Dragon Age,Series,Electronic Arts  ,BioWare  ,,,,,,,,2009,Role-Playing
+345,Super Mario Land 2: 6 Golden Coins,GB,Nintendo  ,Nintendo R&D1  ,9.0,,6.16,2.04,2.69,0.29,11.18,1992,Platform
+346,Wii Party,Series,Nintendo  ,NDcube  ,,,,,,,,2010,Party
+347,Grand Theft Auto IV,X360,Rockstar Games  ,Rockstar North  ,10.0,,6.8,3.11,0.14,1.04,11.09,2008,Action
+348,Big Brain Academy,Series,Nintendo  ,Nintendo  ,,,,,,,,2006,Puzzle
+349,Super Mario 64 DS,DS,Nintendo  ,Nintendo EAD  ,8.6,,0.01,0.0,1.25,,1.26,2004,Platform
+350,Super Mario 64 DS,DS,Nintendo  ,Nintendo EAD  ,,,5.01,3.08,1.25,0.97,10.32,2004,Platform
+351,BioShock Infinite,All,2K Games  ,Irrational Games  ,,,,,,,,2013,Shooter
+352,Civilization VI,All,2K Games  ,Firaxis Games  ,,,,,,,,2016,Strategy
+353,Dance Dance Revolution,Series,Konami  ,Konami  ,,,,,,,,1998,Music
+354,Fall Guys: Ultimate Knockout,PC,Devolver Digital  ,Mediatonic  ,,,,,,,,2020,Party
+355,God of War: Ragnarök,All,Sony Interactive Entertainment  ,Sony Computer Entertainment  ,,,,,,,,2022,Action
+356,Lego Batman: The Videogame,All,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,,,,,,2008,Action-Adventure
+357,Mortal Kombat X,All,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,,,,,,,,2015,Fighting
+358,NBA 2K21,All,2K Sports  ,Visual Concepts  ,,,,,,,,2020,Sports
+359,Need for Speed: Underground 2,All,Electronic Arts  ,EA Black Box  ,,,,,,,,2004,Racing
+360,Sniper: Ghost Warrior,Series,City Interactive  ,CI Games  ,,,,,,,,2008,Shooter
+361,StarCraft,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,8.7,,0.0,0.04,,0.01,0.05,1998,Strategy
+362,Tomb Raider (2013),All,Square Enix  ,Crystal Dynamics  ,,,,,,,,2013,Action-Adventure
+363,FIFA 17,PS4,Electronic Arts  ,EA Canada  ,8.9,,1.26,7.95,0.12,1.61,10.94,2016,Sports
+364,Resident Evil 6,All,Capcom  ,Capcom  ,,,,,,,,2012,Action-Adventure
+365,Need for Speed: ProStreet,All,Electronic Arts  ,EA Black Box  ,,,,,,,,2007,Racing
+366,Gran Turismo,PS,Sony Computer Entertainment  ,Polyphony Digital  ,9.5,,4.02,3.87,2.54,0.52,10.95,1998,Racing
+367,Splatoon 3,NS,Nintendo  ,Nintendo  ,,,,,,,,2022,Shooter
+368,Call of Duty: Modern Warfare 2,PS3,Activision  ,Infinity Ward  ,9.5,,4.99,3.66,0.38,1.59,10.61,2009,Shooter
+369,Grand Theft Auto IV,PS3,Rockstar Games  ,Rockstar North  ,10.0,9.0,4.79,3.73,0.44,1.62,10.57,2008,Action
+370,Super Mario All-Stars,SNES,Nintendo  ,Nintendo EAD  ,,9.5,5.99,2.15,2.12,0.29,10.55,1993,Platform
+371,Rocket League,Series,Psyonix  ,Psyonix  ,,,,,,,,2015,Sports
+372,Rocket League,All,Psyonix  ,Psyonix  ,,,,,,,,2015,Sports
+373,Tomodachi,Series,Nintendo  ,Nintendo  ,,,,,,,,2014,Simulation
+374,Call of Duty: Ghosts,X360,Activision  ,Infinity Ward  ,6.9,,6.76,2.64,0.04,0.98,10.41,2013,Shooter
+375,Star Fox,Series,Nintendo  ,Nintendo  ,,,,,,,,1993,Shooter
+376,Monster Hunter World: Iceborne,All,Capcom  ,Capcom  ,,,,,,,,2019,Role-Playing
+377,Nobunaga's Ambition,Series,KOEI  ,Koei  ,,,,,,,,1983,Strategy
+378,Mario Party Superstars,NS,Nintendo  ,Nintendo  ,,,,,,,,2021,Party
+379,Call of Duty: Ghosts,PS3,Activision  ,Infinity Ward  ,7.5,,4.11,4.01,0.39,1.62,10.13,2013,Shooter
+380,SaGa,Series,Square Enix  ,Square  ,,,,,,,,1990,Role-Playing
+381,Ace Attorney,Series,Capcom  ,Capcom  ,,,,,,,,2005,Adventure
+382,Assassin's Creed Odyssey,All,Ubisoft  ,Ubisoft Quebec  ,,,,,,,,2018,Action-Adventure
+383,Assassin's Creed Origins,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2017,Action-Adventure
+384,Assassin's Creed Unity,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2014,Action-Adventure
+385,Broken Sword,Series,Virgin Interactive  ,Revolution Software  ,,,,,,,,1996,Adventure
+386,Buzz!,Series,Sony Interactive Entertainment  ,Relentless Software  ,,,,,,,,2005,Party
+387,Crash Bandicoot N. Sane Trilogy,All,Activision  ,Vicarious Visions  ,,,,,,,,2017,Platform
+388,Dark Souls III,All,Bandai Namco Entertainment  ,From Software  ,,,,,,,,2016,Role-Playing
+389,Dead Cells,All,Motion Twin  ,Motion Twin  ,,,,,,,,2018,Action
+390,Dragon Ball FighterZ,All,Bandai Namco Entertainment  ,Arc System Works  ,,,,,,,,2018,Fighting
+391,Dragon Ball Xenoverse 2,All,Bandai Namco Entertainment  ,Dimps Corporation  ,,,,,,,,2016,Role-Playing
+392,Far Cry 3,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2012,Shooter
+393,Far Cry 4,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2014,Shooter
+394,Far Cry 5,All,Ubisoft  ,Ubisoft  ,,,,,,,,2018,Shooter
+395,FIFA 10,All,EA Sports  ,EA Canada  ,,,,,,,,2009,Sports
+396,FIFA 12,All,EA Sports  ,EA Canada  ,,,,,,,,2011,Sports
+397,Final Fantasy XV,All,Square Enix  ,Square Enix  ,,,,,,,,2016,Role-Playing
+398,Horizon: Zero Dawn,PS4,Sony Interactive Entertainment  ,Guerrilla Games  ,9.1,8.0,2.2,2.43,0.28,0.92,5.82,2017,Action-Adventure
+399,It Takes Two,All,Electronic Arts  ,Hazelight  ,,,,,,,,2021,Action-Adventure
+400,Just Dance 2,Wii,Ubisoft  ,Ubisoft Paris  ,7.3,,5.8,2.86,0.01,0.77,9.45,2010,Misc
+401,Just Dance 3,Wii,Ubisoft  ,Ubisoft Paris  ,7.5,,5.95,3.13,,1.06,10.14,2011,Misc
+402,Killing Floor,Series,Tripwire Interactive  ,Tripwire Interactive  ,,,,,,,,2009,Shooter
+403,Marvel vs. Capcom,Series,Capcom  ,Capcom  ,,,,,,,,1996,Fighting
+404,MX vs. ATV,Series,THQ Nordic  ,Rainbow Studios  ,,,,,,,,2001,Racing
+405,NBA 2K18,All,2K Sports  ,Visual Concepts  ,,,,,,,,2017,Sports
+406,NBA 2K22,All,2K Sports  ,Visual Concepts  ,,,,,,,,2021,Sports
+407,Pitfall,Series,Activision  ,Activision  ,,,,,,,,1982,Platform
+408,RollerCoaster Tycoon 3,PC,Atari  ,Frontier Developments  ,8.3,,0.01,0.22,,0.02,0.26,2004,Strategy
+409,Star Wars Jedi: Fallen Order,All,Electronic Arts  ,Respawn Entertainment  ,,,,,,,,2019,Action-Adventure
+410,Tekken 7,All,Bandai Namco Entertainment  ,Bandai Namco Studios  ,,,,,,,,2015,Fighting
+411,The Last of Us Part II,PS4,Sony Interactive Entertainment  ,Naughty Dog  ,,,,,,,,2020,Action
+412,The Legend of Zelda: Tears of the Kingdom,NS,Nintendo  ,Nintendo  ,,,,,,,,2023,Action-Adventure
+413,The Settlers,Series,Blue Byte  ,Blue Byte  ,,,,,,,,1993,Strategy
+414,The Sims 3,All,Electronic Arts  ,Maxis  ,,,,,,,,2009,Simulation
+415,Titanfall,All,Electronic Arts  ,Respawn Entertainment  ,,,,,,,,2014,Shooter
+416,Tom Clancy's Ghost Recon Wildlands,All,Ubisoft  ,Ubisoft Paris  ,,,,,,,,2017,Shooter
+417,Tom Clancy's Rainbow Six Siege,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2015,Shooter
+418,Tom Clancy's The Division,All,Ubisoft  ,Massive Entertainment  ,,,,,,,,2016,Shooter
+419,Tom Clancy's The Division 2,All,Ubisoft  ,Massive Entertainment  ,,,,,,,,2019,Shooter
+420,Valheim,PC,Coffee Stain Publishing  ,Iron Gate AB  ,,,,,,,,2021,Action-Adventure
+421,Watch Dogs,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2014,Action-Adventure
+422,Watch Dogs 2,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2016,Action-Adventure
+423,Halo: Reach,X360,Microsoft Game Studios  ,Bungie  ,9.3,,7.08,2.01,0.08,0.8,9.97,2010,Shooter
+424,Portal,PC,Valve Corporation  ,Valve Software  ,9.0,,,0.0,,0.0,0.01,2008,Shooter
+425,Halo 4,X360,Microsoft Studios  ,343 Industries  ,,,6.72,2.36,0.04,0.83,9.96,2012,Shooter
+426,The Binding of Isaac,Series,Edmund McMillen  ,Edmund McMillen  ,,,,,,,,2011,Action
+427,Final Fantasy VII,PS,Sony Computer Entertainment  ,SquareSoft  ,9.6,9.5,3.01,2.47,3.28,0.96,9.72,1997,Role-Playing
+428,Mario Kart 64,N64,Nintendo  ,Nintendo EAD  ,8.5,,5.55,1.94,2.23,0.15,9.87,1997,Racing
+429,Ghost of Tsushima,All,Sony Interactive Entertainment  ,Sucker Punch  ,,,,,,,,2020,Action-Adventure
+430,Dead or Alive,Series,Tecmo  ,Team Ninja  ,,,,,,,,1998,Fighting
+431,NieR,Series,Square Enix  ,Cavia  ,,,,,,,,2010,Action-Adventure
+432,Street Fighter IV,All,Capcom  ,Capcom / Dimps Corporation  ,,,,,,,,2009,Fighting
+433,Super Smash Bros. for 3DS,3DS,Nintendo  ,Bandai Namco Games  ,8.4,,3.73,1.5,2.55,0.54,8.32,2014,Fighting
+434,Final Fantasy VIII,All,Square  ,Square  ,,,,,,,,1999,Role-Playing
+435,Nintendo Switch Sports,NS,Nintendo  ,Nintendo  ,,,,,,,,2022,Sports
+436,Carnival Games,Series,Global Star Software  ,Cat Daddy Games  ,,,,,,,,2007,Party
+437,Call of Duty 4: Modern Warfare,X360,Activision  ,Infinity Ward  ,9.6,9.0,5.98,2.39,0.13,0.91,9.41,2007,Shooter
+438,Gran Turismo 2,PS,Sony Computer Entertainment  ,Polyphony Digital  ,9.2,,3.88,3.42,1.69,0.5,9.49,1999,Racing
+439,Wii Party,Wii,Nintendo  ,"Nd Cube Co., Ltd.  ",7.0,,1.75,3.51,2.49,0.66,8.41,2010,Misc
+440,Call of Duty: Black Ops IIII,PS4,Activision  ,Treyarch  ,,,4.05,3.28,0.5,1.49,9.32,2018,Shooter
+441,Mario Party DS,DS,Nintendo  ,Hudson Soft  ,7.1,,4.4,1.86,1.98,0.69,8.93,2007,Misc
+442,Donkey Kong Country,SNES,Nintendo  ,Rare Ltd.  ,9.0,,4.36,1.71,3.0,0.23,9.3,1994,Platform
+443,Half-Life,PC,Sierra Entertainment  ,Valve Software  ,9.5,,4.03,0.0,0.09,,4.12,1998,Shooter
+444,Uncharted 3: Drake's Deception,PS3,Sony Computer Entertainment  ,Naughty Dog  ,9.3,6.3,2.77,2.81,0.19,1.06,6.84,2011,Action
+445,Pokémon: Ultra Sun and Ultra Moon,3DS,Nintendo  ,Game Freak  ,8.1,,2.46,1.74,2.55,0.4,7.15,2017,Role-Playing
+446,FIFA 19,PS4,Electronic Arts  ,EA Sports  ,,,0.84,6.87,0.1,1.34,9.15,2018,Sports
+447,Super Mario 3D All-Stars,NS,Nintendo  ,Nintendo  ,,,,,,,,2020,Platform
+448,Rust,PC,Facepunch Studios  ,Facepunch Studios  ,6.1,,,,,,,2018,Action-Adventure
+449,Assassin's Creed II,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2009,Action-Adventure
+450,Battlefield: Bad Company 2,All,Electronic Arts  ,EA DICE  ,,,,,,,,2010,Shooter
+451,Harry Potter and the Chamber of Secrets,All,Electronic Arts  ,EA UK  ,,,,,,,,2002,Action-Adventure
+452,Payday,Series,Daybreak Games  ,Overkill Software  ,,,,,,,,2011,Shooter
+453,Silent Hill,Series,Konami  ,Konami Computer Entertainment Tokyo  ,,,,,,,,1999,Action-Adventure
+454,Star Wars Battlefront II (2017),All,Electronic Arts  ,EA DICE  ,,,,,,,,2017,Shooter
+455,The Experience,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2010,Music
+456,Ninja Gaiden,Series,Tecmo  ,Tecmo  ,,,,,,,,1988,Action
+457,Xeno,Series,Square  ,Square  ,,,,,,,,1998,Role-Playing
+458,Monster Hunter Generations,All,Capcom  ,Capcom  ,,,,,,,,2016,Role-Playing
+459,Need for Speed: Undercover,All,Electronic Arts  ,EA Black Box  ,,,,,,,,2008,Racing
+460,The Elder Scrolls V: Skyrim,X360,Bethesda Softworks  ,Bethesda Game Studios  ,9.3,,5.1,2.83,0.1,0.85,8.88,2011,Role-Playing
+461,Mario Party 8,Wii,Nintendo  ,Hudson Soft  ,6.5,,3.74,2.27,1.58,0.7,8.3,2007,Misc
+462,Megami Tensei,Series,Atlus  ,Atlus  ,,,,,,,,2004,Role-Playing
+463,Super Mario Kart,SNES,Nintendo  ,Nintendo EAD  ,10.0,,3.54,1.24,3.81,0.18,8.76,1992,Racing
+464,Grand Theft Auto V,XOne,Rockstar Games  ,Rockstar North  ,9.0,9.0,4.7,3.25,0.01,0.76,8.72,2014,Action
+465,Naruto Shippuden: Ultimate Ninja Storm 4,All,Bandai Namco Entertainment  ,CyberConnect2  ,,,,,,,,2016,Fighting
+466,The Legend of Zelda: Twilight Princess,All,Nintendo  ,Nintendo EAD  ,,,,,,,,2006,Action-Adventure
+467,Final Fantasy VIII,PS,Square EA  ,SquareSoft  ,9.4,,2.28,1.72,3.63,0.23,7.86,1999,Role-Playing
+468,Final Fantasy X,PS2,Square  ,SquareSoft  ,9.0,10.0,2.91,2.07,2.73,0.33,8.05,2001,Role-Playing
+469,Onimusha,Series,Capcom  ,Capcom  ,,,,,,,,2001,Action-Adventure
+470,Monument Valley,Series,Ustwo Games  ,Ustwo Games  ,,,,,,,,2014,Puzzle
+471,Pokémon Black 2 and White 2,DS,Nintendo  ,Game Freak  ,8.0,8.3,2.79,1.79,3.16,0.43,8.16,2012,Role-Playing
+472,Metro Exodus,All,Deep Silver  ,4a-games  ,,,,,,,,2019,Shooter
+473,NBA 2K17,All,2K Sports  ,Visual Concepts  ,,,,,,,,2016,Sports
+474,Call of Duty: Infinite Warfare,PS4,Activision  ,Infinity Ward  ,,,3.11,3.83,0.19,1.36,8.48,2016,Shooter
+475,Fallout 4,PS4,Bethesda Softworks  ,Bethesda Game Studios  ,8.6,,2.91,3.97,0.27,1.34,8.48,2015,Role-Playing
+476,Mario Kart 8,WiiU,Nintendo  ,Nintendo  ,8.8,,3.22,2.55,1.39,0.54,7.69,2014,Racing
+477,Horizon: Forbidden West,All,Sony Interactive Entertainment  ,Guerrilla Games  ,,,,,,,,2022,Action-Adventure
+478,Tekken 3,PS,Namco  ,Namco  ,9.6,,3.27,2.22,1.4,0.29,7.16,1998,Fighting
+479,Monster Hunter 4,All,Capcom  ,Capcom  ,,,,,,,,2015,Role-Playing
+480,FIFA 16,PS4,EA Sports  ,EA Canada  ,8.5,,1.15,5.77,0.07,1.23,8.22,2015,Sports
+481,Lego Star Wars II: The Original Trilogy,All,LucasArts  ,TT Games  ,,,,,,,,2006,Action-Adventure
+482,The Last of Us,PS3,Sony Computer Entertainment America  ,Naughty Dog  ,9.5,,2.41,2.57,0.29,0.99,6.27,2013,Action-Adventure
+483,GoldenEye 007,N64,Nintendo  ,Rare Ltd.  ,9.8,,5.8,2.01,0.13,0.15,8.09,1997,Shooter
+484,Star Wars Battlefront (2015),PS4,Electronic Arts  ,EA DICE  ,7.1,,3.31,3.19,0.23,1.3,8.03,2015,Shooter
+485,FIFA 13,PS3,EA Sports  ,EA Canada  ,,,1.07,5.13,0.13,1.68,8.01,2012,Sports
+486,Assassin's Creed,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2007,Action-Adventure
+487,Cars,All,THQ  ,Rainbow Studios  ,,,,,,,,2006,Racing
+488,Cuphead,Series,Studio MDHR  ,Studio MDHR  ,,,,,,,,2017,Platform
+489,Detroit: Become Human,All,Sony Interactive Entertainment  ,Quantic Dream  ,,,,,,,,2018,Adventure
+490,Ghost of Tsushima,PS4,Sony Interactive Entertainment  ,Sucker Punch  ,8.8,,,,,,,2020,Action-Adventure
+491,Grand Theft Auto: Liberty City Stories,All,Rockstar Games  ,Rockstar Leeds/North  ,,,,,,,,2005,Action-Adventure
+492,Guitar Hero III: Legends of Rock,All,Activision  ,Neversoft  ,,,,,,,,2007,Music
+493,Halo 2,XB,Microsoft Game Studios  ,Bungie Studios  ,9.6,,6.82,1.53,0.05,0.08,8.49,2004,Shooter
+494,Harry Potter and the Sorcerer's Stone,PS,Electronic Arts  ,Argonaut Games  ,8.0,,1.37,2.0,0.14,0.22,3.73,2001,Action
+495,Inazuma Eleven,Series,Level 5  ,Level 5  ,,,,,,,,2008,Role-Playing
+496,Kinect Sports,Series,Microsoft Game Studios  ,Rare  ,,,,,,,,2010,Sports
+497,Moto Racer,Series,Electronic Arts  ,SK Software International  ,,,,,,,,1997,Racing
+498,NBA 2K16,All,2K Sports  ,Visual Concepts  ,,,,,,,,2015,Sports
+499,Resident Evil 8: Village,All,Capcom  ,Capcom  ,,,,,,,,2021,Action-Adventure
+500,Romance of the Three Kingdoms,Series,KOEI  ,Koei  ,,,,,,,,1985,Strategy
+501,Samurai Warriors,Series,KOEI  ,Omega Force  ,,,,,,,,2004,Action
+502,Sid Meier's Civilization V,PC,2K Games  ,Firaxis Games  ,8.9,,1.0,0.53,,0.17,1.7,2010,Strategy
+503,Unreal,Series,GT Interactive  ,Epic Games  ,,,,,,,,1998,Shooter
+504,The Sims 3,PC,Electronic Arts  ,EA Redwood Shores  ,8.5,,1.01,6.46,,0.5,7.96,2009,Simulation
+505,Super Mario Maker 2,NS,Nintendo  ,Nintendo  ,,,,,,,,2019,Platform
+506,FIFA 09,All,EA Sports  ,EA Canada  ,,,,,,,,2008,Sports
+507,Grand Theft Auto: Liberty City Stories,PSP,Rockstar Games  ,Rockstar Leeds  ,8.8,,2.9,2.83,0.24,1.74,7.72,2005,Action
+508,Final Fantasy XII,All,Square Enix  ,Square Enix  ,,,,,,,,2006,Role-Playing
+509,Final Fantasy XIII,All,Square Enix  ,Square Enix  ,,,,,,,,2010,Role-Playing
+510,Monster Hunter Rise,NS,Capcom  ,Capcom  ,,,,,,,,2021,Action-Adventure
+511,Pac-Man,2600,Atari  ,Atari  ,,,7.28,0.45,,0.08,7.81,1982,Puzzle
+512,Cyberpunk 2077,PC,CD Projekt Red Studio  ,CD Projekt Red Studio  ,,,,,,,,2020,Action-Adventure
+513,Magicka,Series,Paradox Interactive   ,Arrowhead Game Studios  ,,,,,,,,2011,Action-Adventure
+514,God of War III,PS3,Sony Computer Entertainment  ,SCEA Santa Monica Studio  ,9.2,9.4,2.74,1.36,0.12,0.6,4.81,2010,Action
+515,Pokémon Platinum Version,DS,Nintendo  ,Game Freak  ,8.3,8.9,2.76,1.73,2.69,0.54,7.72,2009,Role-Playing
+516,The Legend of Zelda: Ocarina of Time,N64,Nintendo  ,Nintendo EAD  ,9.9,10.0,4.1,1.89,1.45,0.16,7.6,1998,Adventure
+517,Jurassic Park,Series,Ocean Software  ,Ocean Software  ,,,,,,,,1993,Action-Adventure
+518,Call of Duty: Advanced Warfare,PS4,Activision  ,Sledgehammer Games  ,8.5,,2.84,3.34,0.14,1.22,7.53,2014,Shooter
+519,Crysis,Series,Electronic Arts  ,Crytek  ,,,,,,,,2007,Shooter
+520,NieR: Automata,All,Square Enix  ,PlatinumGames  ,,,,,,,,2017,Role-Playing
+521,Call of Duty: World at War,X360,Activision  ,Treyarch  ,8.5,7.8,4.88,1.91,,0.71,7.5,2008,Shooter
+522,Baldur's Gate,Series,Interplay Entertainment Corp.  ,BioWare  ,,,,,,,,2000,Role-Playing
+523,Super Mario Bros. 2,NES,Nintendo  ,Nintendo EAD  ,,,5.39,1.18,0.7,0.19,7.46,1988,Platform
+524,Super Mario Galaxy 2,Wii,Nintendo  ,Nintendo EAD Tokyo  ,9.7,9.8,3.59,2.37,0.98,0.62,7.57,2010,Platform
+525,Super Smash Bros. Melee,GC,Nintendo  ,HAL Laboratory  ,9.2,,4.41,1.04,1.39,0.22,7.07,2001,Fighting
+526,Dragon's Dogma,Series,Capcom  ,Capcom  ,,,,,,,,2012,Role-Playing
+527,Madden NFL 07,All,EA Sports  ,EA Tiburon  ,,,,,,,,2006,Sports
+528,Trine,Series,Nobilis  ,Frozenbyte  ,,,,,,,,2009,Platform
+529,Call of Duty: Black Ops 3,XOne,Activision  ,Treyarch  ,,,4.63,2.04,0.02,0.68,7.37,2015,Shooter
+530,Battlefield 3,X360,Electronic Arts  ,Dice  ,8.5,,4.47,2.12,0.06,0.69,7.35,2011,Shooter
+531,Battlefield V,All,Electronic Arts  ,EA DICE  ,,,,,,,,2018,Shooter
+532,The Forest,Series,Endnight Games Ltd   ,Endnight Games Ltd  ,,,,,,,,2018,Simulation
+533,Yokai Watch 2: Bony Spirits / Fleshy Souls / Psychic Specters,3DS,Nintendo  ,Level 5  ,,,0.22,0.2,3.19,0.04,3.65,2016,Role-Playing
+534,Ark,Series,Studio Wildcard  ,Studio Wildcard  ,,,,,,,,2017,Action-Adventure
+535,The Legend of Zelda: Twilight Princess,Wii,Nintendo  ,Nintendo EAD  ,9.5,9.6,3.74,2.16,0.6,0.69,7.18,2006,Adventure
+536,Battlefield 1,PS4,Electronic Arts  ,EA DICE  ,9.1,,2.2,3.65,0.29,1.12,7.26,2016,Shooter
+537,Battlefield 3,PS3,Electronic Arts  ,Dice  ,8.5,,2.86,2.94,0.35,1.07,7.21,2011,Shooter
+538,Oddworld,Series,GT Interactive  ,Oddworld Inhabitants  ,,,,,,,,1997,Action-Adventure
+539,Need for Speed Underground,PS2,Electronic Arts  ,EA Black Box  ,8.6,,3.27,2.83,0.08,1.02,7.2,2003,Racing
+540,Assassin's Creed: Brotherhood,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2010,Action-Adventure
+541,Call of Duty 3,All,Activision  ,Treyarch  ,,,,,,,,2006,Shooter
+542,Persona 5,All,Atlus  ,Atlus  ,,,,,,,,2017,Role-Playing
+543,Street Fighter V,All,Capcom  ,Capcom  ,,,,,,,,2016,Fighting
+544,WarioWare,Series,Nintendo  ,Nintendo  ,,,,,,,,2003,Party
+545,The Binding of Isaac,PC,Edmund McMillen  ,Edmund McMillen  ,8.3,,,0.0,,0.0,0.0,2011,Action
+546,Tomb Raider,All,Eidos Interactive  ,Core Design  ,,,,,,,,1996,Action-Adventure
+547,Pokémon Emerald Version,GBA,Nintendo  ,Game Freak  ,7.7,,2.57,1.58,2.06,0.21,6.41,2005,Role-Playing
+548,Ark: Survival Evolved,All,Studio Wildcard  ,Studio Wildcard  ,,,,,,,,2017,Action-Adventure
+549,Assassin's Creed: Revelations,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2011,Action-Adventure
+550,DiRT,Series,Codemasters  ,Codemasters  ,,,,,,,,2007,Racing
+551,Grim Dawn,All,Crate Entertainment  ,Crate Entertainment  ,,,,,,,,2016,Role-Playing
+552,Guild Wars 2,PC,NCSoft  ,ArenaNet  ,,,1.01,1.11,,0.25,2.37,2012,Role-Playing
+553,Just Dance 3,All,Ubisoft  ,Ubisoft  ,,,,,,,,2011,Music
+554,King's Quest,Series,Sierra Online   ,On-Line Systems  ,,,,,,,,1984,Adventure
+555,Mafia III,All,2K Games  ,Hangar 13  ,,,,,,,,2016,Action-Adventure
+556,Mana,Series,Square  ,Square  ,,,,,,,,1991,Role-Playing
+557,Metal Gear Solid 2: Sons of Liberty,PS2,Konami  ,Konami Computer Entertainment Japan  ,9.5,7.0,2.45,2.01,0.87,0.72,6.05,2001,Action
+558,NBA 2K14,All,2K Sports  ,Visual Concepts  ,,,,,,,,2013,Sports
+559,NBA 2K15,All,2K Sports  ,Visual Concepts  ,,,,,,,,2014,Sports
+560,Nioh,Series,Koei Tecmo  ,Team Ninja  ,,,,,,,,2017,Role-Playing
+561,Project Gotham Racing,Series,Sega  ,Bizarre Creations  ,,,,,,,,2001,Racing
+562,Resident Evil 3 (2020),All,Capcom  ,Capcom  ,,,,,,,,2020,Action-Adventure
+563,Rise of the Tomb Raider,All,Square Enix  ,Crystal Dynamics  ,,,,,,,,2015,Action-Adventure
+564,Rugrats,Series,THQ  ,Realtime Associates  ,,,,,,,,1999,Action-Adventure
+565,Star Wars: The Force Unleashed,All,LucasArts  ,LucasArts  ,,,,,,,,2008,Action-Adventure
+566,The Legend of Heroes: Trails,Series,Xseed Games  ,Falcom  ,,,,,,,,2011,Role-Playing
+567,"Warhammer 40,000: Dawn of War",Series,THQ  ,Relic Entertainment  ,,,,,,,,2004,Strategy
+568,Zumba Fitness,All,Majesco  ,Pipeworks Software  ,,,,,,,,2010,Sports
+569,The Room,All,Fireproof Games  ,Fireproof Games  ,,,,,,,,2012,Puzzle
+570,Devil May Cry 5,All,Capcom  ,Capcom  ,,,,,,,,2019,Action
+571,Need for Speed Underground 2,PS2,Electronic Arts  ,EA Black Box  ,8.3,,2.71,3.02,0.08,1.09,6.9,2004,Racing
+572,Just Dance 4,Wii,Ubisoft  ,Ubisoft  ,,,4.05,2.21,,0.62,6.89,2012,Music
+573,Mario Kart: Double Dash!!,GC,Nintendo  ,Nintendo EAD  ,8.5,,4.12,1.77,0.87,0.19,6.95,2003,Racing
+574,Tomb Raider II,All,Eidos Interactive  ,Core Design  ,,,,,,,,1997,Action-Adventure
+575,Medal of Honor: Frontline,PS2,Electronic Arts  ,EA Los Angeles  ,9.0,,2.93,2.75,0.17,0.99,6.83,2002,Shooter
+576,Crash Bandicoot,PS,Sony Computer Entertainment  ,Naughty Dog  ,7.8,,3.23,2.35,0.94,0.3,6.82,1996,Platform
+577,Clubhouse Games,Series,Nintendo  ,"Agenda, C.A. Production, NDcube  ",,,,,,,,2006,Party
+578,Mario Strikers,Series,Nintendo  ,Next Level Games  ,,,,,,,,2005,Sports
+579,Uncharted 2: Among Thieves,PS3,Sony Computer Entertainment  ,Naughty Dog  ,9.5,9.6,3.28,2.22,0.21,1.02,6.74,2009,Action
+580,Star Wars: Knights of the Old Republic,Series,LucasArts  ,BioWare  ,,,,,,,,2003,Role-Playing
+581,Call of Duty 4: Modern Warfare,PS3,Activision  ,Infinity Ward  ,9.5,9.6,3.13,2.27,0.28,1.04,6.72,2007,Shooter
+582,Tomodachi Life,3DS,Nintendo  ,Nintendo  ,7.8,,0.97,2.64,1.98,0.28,5.88,2014,Simulation
+583,Kingdom Hearts III,All,Square Enix  ,Square Enix  ,,,,,,,,2019,Role-Playing
+584,Lego Star Wars: The Video Game,All,Eidos Interactive  ,TT Games  ,,,,,,,,2005,Action-Adventure
+585,FIFA Soccer 12,PS3,EA Sports  ,EA Canada  ,9.2,,0.84,4.33,0.11,1.37,6.65,2011,Sports
+586,FIFA 14,PS3,EA Sports  ,EA Canada  ,,,0.79,4.77,0.07,0.98,6.61,2013,Sports
+587,Fallout 4,PC,Bethesda Softworks  ,Bethesda Game Studios  ,9.0,,0.57,0.72,,0.11,1.4,2015,Role-Playing
+588,Ben 10,Series,D3 Publisher  ,High Voltage Software  ,,,,,,,,2007,Action-Adventure
+589,Red Dead Redemption,PS3,Rockstar Games  ,Rockstar San Diego  ,9.5,,2.82,2.58,0.17,1.0,6.57,2011,Action
+590,Donkey Kong Country Returns,Wii,Nintendo  ,Retro Studios  ,8.6,,3.19,1.81,1.03,0.47,6.5,2010,Platform
+591,Mario & Sonic at the Olympic Winter Games,All,Sega  ,Sega Sports R&D  ,,,,,,,,2009,Sports
+592,The Legend of Zelda,NES,Nintendo  ,Nintendo EAD  ,9.0,,3.74,0.93,1.69,0.14,6.51,1987,Adventure
+593,Assassin's Creed III,PS3,Ubisoft  ,Ubisoft Montreal  ,8.8,,2.65,2.61,0.16,1.08,6.5,2012,Action-Adventure
+594,Dragon Quest XI,All,Square Enix  ,Square Enix  ,,,,,,,,2018,Role-Playing
+595,Guild Wars,PC,NCSoft  ,ArenaNet  ,8.7,,0.03,0.0,,0.0,0.04,2005,Role-Playing
+596,Lost Planet,Series,Capcom  ,Capcom  ,,,,,,,,2007,Shooter
+597,Madden NFL 06,All,EA Sports  ,EA Tiburon  ,,,,,,,,2005,Sports
+598,Marvel's Spider-Man: Miles Morales,All,Sony Interactive Entertainment  ,Insomniac Games  ,,,,,,,,2020,Action-Adventure
+599,Red Dead Redemption,X360,Rockstar Games  ,Rockstar San Diego  ,9.5,10.0,3.77,2.03,0.09,0.6,6.5,2010,Action
+600,The Elder Scrolls V: Skyrim,PS3,Bethesda Softworks  ,Bethesda Game Studios  ,9.0,,2.57,2.68,0.25,0.99,6.49,2011,Role-Playing
+601,Diddy Kong Racing,Series,Nintendo  ,Rare Ltd.  ,,,,,,,,1997,Racing
+602,Luigi's Mansion: Dark Moon,3DS,Nintendo  ,Next Level Games  ,8.6,,2.03,1.88,1.17,0.36,5.44,2013,Adventure
+603,Kirby and the Forgotten Land,NS,Nintendo  ,HAL Laboratory  ,,,,,,,,2022,Platform
+604,Elite,Series,Imagineer  ,David Braben  ,,,,,,,,1984,Simulation
+605,Final Fantasy XII,PS2,Square Enix  ,Square Enix  ,9.4,9.5,1.88,0.0,2.33,1.74,5.95,2006,Role-Playing
+606,The Legend of Zelda: Ocarina of Time 3D,3DS,Nintendo  ,GREZZO  ,9.3,,1.42,0.01,0.56,,2.0,2011,Adventure
+607,Pokémon Crystal Version,GBC,Nintendo  ,Game Freak  ,8.7,,2.55,1.56,1.29,0.99,6.39,2001,Role-Playing
+608,Atelier,Series,Koei Tecmo  ,Gust  ,,,,,,,,2005,Role-Playing
+609,Hatsune Miku: Project,Series,Sega  ,Sega  ,,,,,,,,2012,Music
+610,Minecraft,PS4,Sony Computer Entertainment  ,Mojang  ,9.4,,1.89,3.13,0.35,0.96,6.33,2014,Misc
+611,FIFA 15,PS4,EA Sports  ,EA Canada  ,8.1,,0.83,4.49,0.05,0.94,6.32,2014,Sports
+612,Kingdom Hearts,PS2,Square EA  ,SquareSoft  ,8.5,,3.64,1.2,1.49,0.07,6.4,2002,Role-Playing
+613,Myst,PC,Broderbund  ,Cyan Worlds  ,8.9,,0.02,2.79,,,2.81,1995,Adventure
+614,Street Fighter II: The World Warrior,SNES,Capcom  ,Capcom  ,,,2.47,0.83,2.87,0.12,6.3,1992,Fighting
+615,Driver,PS,GT Interactive  ,Reflections Interactive  ,8.5,,3.11,2.8,0.02,0.33,6.27,1999,Action
+616,Call of Duty: WWII,XOne,Activision  ,Sledgehammer Games  ,,,3.75,1.91,,0.57,6.23,2017,Shooter
+617,Pikmin,Series,Nintendo  ,Nintendo  ,,,,,,,,2001,Strategy
+618,Big Brain Academy,DS,Nintendo  ,Nintendo EAD  ,7.7,,1.66,2.75,1.6,0.62,6.63,2006,Misc
+619,The Legend of Zelda: Link's Awakening,NS,Nintendo  ,Nintendo  ,,10.0,,,,,,2019,Action-Adventure
+620,Minecraft,PS3,Sony Computer Entertainment America  ,Mojang  ,,,2.21,2.86,,0.99,6.05,2014,Misc
+621,Pokémon Snap,Series,Nintendo  ,HAL Laboratory  ,,,,,,,,1999,Simulation
+622,Borderlands,All,2K Games  ,Gearbox Software  ,,,,,,,,2009,Shooter
+623,Carnival Games,All,Global Star Software  ,Cat Daddy Games  ,,,,,,,,2007,Party
+624,Championship Manager,Series,Domark Software  ,Intelek  ,,,,,,,,1992,Simulation
+625,Conflict,Series,Gotham Games  ,Pivotal Games  ,,,,,,,,2002,Shooter
+626,Cuphead,All,Studio MDHR  ,Studio MDHR  ,,,,,,,,2017,Platform
+627,Dead Space,Series,Electronic Arts  ,EA Redwood Shores  ,,,,,,,,2008,Action-Adventure
+628,Dragon Age: Inquisition,All,Electronic Arts  ,BioWare  ,,,,,,,,2014,Role-Playing
+629,FIFA 07,All,Electronic Arts  ,EA Canada  ,,,,,,,,2006,Sports
+630,Just Dance,Wii,Ubisoft  ,Ubisoft Paris  ,5.4,,3.48,2.99,,0.73,7.21,2009,Misc
+631,Limbo,All,Playdead  ,Playdead  ,,,,,,,,2010,Platform
+632,Mass Effect 3,All,Electronic Arts  ,BioWare  ,,,,,,,,2012,Role-Playing
+633,Metal Gear Solid,PS,Konami  ,Konami Computer Entertainment Japan  ,9.3,,3.18,1.83,0.78,0.24,6.03,1998,Action
+634,Metal Gear Solid,All,Konami  ,Konami Computer Entertainment Japan  ,,,,,,,,1998,Action-Adventure
+635,Metal Gear Solid 4: Guns of the Patriots,PS3,Konami  ,Kojima Productions  ,9.3,9.8,2.63,1.72,0.83,0.81,6.0,2008,Action
+636,Metal Gear Solid V: The Phantom Pain,All,Konami  ,Kojima Productions  ,,,,,,,,2015,Action-Adventure
+637,Monster Hunter Rise: Sunbreak,All,Capcom  ,Capcom  ,,,,,,,,2022,Action-Adventure
+638,MotorStorm,Series,Sony Interactive Entertainment  ,Evolution Studios  ,,,,,,,,2007,Racing
+639,NBA Jam,Series,Midway  ,Midway  ,,,,,,,,1994,Sports
+640,One Piece: Pirate Warriors,Series,Bandai Namco Games  ,Omega Force  ,,,,,,,,2012,Action-Adventure
+641,Project Gotham Racing,XB,Microsoft  ,Bizarre Creations  ,8.4,,1.37,0.61,0.05,0.09,2.12,2001,Racing
+642,Sonic the Hedgehog 2,GEN,Sega  ,Sonic Team  ,,,4.47,1.2,0.16,0.19,6.03,1992,Platform
+643,Star Wars: Battlefront II,All,LucasArts  ,Pandemic Studios  ,,,,,,,,2005,Shooter
+644,StarCraft II: Wings of Liberty,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.3,,2.6,1.7,,0.56,4.86,2010,Strategy
+645,Tekken 5,PS2,Namco  ,Namco  ,9.0,,0.93,1.94,0.31,0.7,3.87,2005,Fighting
+646,Tom Clancy's Splinter Cell,All,Ubisoft  ,Ubisoft  ,,,,,,,,2002,Action-Adventure
+647,Euro Truck Simulator 2,PC,SCS Software  ,SCS Software  ,8.5,,,0.13,,0.01,0.14,2013,Simulation
+648,Tekken 6,All,Namco Bandai Games  ,Namco Bandai Games  ,,,,,,,,2007,Fighting
+649,Tomb Raider III,All,Eidos Interactive  ,Core Design  ,,,,,,,,1998,Action-Adventure
+650,Mario Kart: Super Circuit,GBA,Nintendo  ,Intelligent Systems  ,9.3,,2.62,1.64,0.99,0.23,5.47,2001,Racing
+651,Super Mario Sunshine,GC,Nintendo  ,Nintendo EAD  ,9.2,,4.01,1.26,0.87,0.17,6.31,2002,Platform
+652,Call of Duty 2,All,Activision  ,Infinity Ward  ,,,,,,,,2005,Shooter
+653,Super Mario 3D World,WiiU,Nintendo  ,Nintendo EAD Tokyo  ,9.5,,2.31,1.54,0.79,0.37,5.01,2013,Platform
+654,Mario vs. Donkey Kong,Series,Nintendo  ,Nintendo Software Technology Corporation  ,,,,,,,,2004,Puzzle
+655,Final Fantasy IX,All,Square  ,Square  ,,,,,,,,2000,Role-Playing
+656,Style Savvy,Series,Nintendo  ,syn Sophia  ,,,,,,,,2009,Simulation
+657,Age of Empires II: HD Edition,PC,Microsoft Studios  ,Hidden Path Entertainment  ,,,,,,,,2013,Strategy
+658,New Super Mario Bros. U,WiiU,Nintendo  ,Nintendo EAD  ,8.4,,2.3,1.63,1.32,0.38,5.62,2012,Platform
+659,Deep Rock Galactic,All,Coffee Stain Publishing  ,Ghost Ship Games  ,,,,,,,,2020,Shooter
+660,DayZ,All,Bohemia Interactive  ,Bohemia Interactive  ,,,,,,,,2018,Action-Adventure
+661,Link's Crossbow Training,Wii,Nintendo  ,Nintendo EAD  ,6.9,,3.05,1.17,0.29,0.46,4.98,2007,Shooter
+662,Red Dead Redemption 2,XOne,Rockstar Games  ,Rockstar Games  ,,,3.76,1.47,,0.54,5.77,2018,Action-Adventure
+663,Destiny,PS4,Activision  ,Bungie  ,,,2.53,2.13,0.16,0.94,5.76,2014,Shooter
+664,Tekken 2,PS,Namco  ,Namco  ,9.1,,2.26,1.89,1.36,0.23,5.74,1996,Fighting
+665,Anno,Series,GT Interactive  ,Max Design  ,,,,,,,,2000,Simulation
+666,Crash Bandicoot 3: Warped,PS,Sony Computer Entertainment  ,Naughty Dog  ,9.3,,3.68,1.75,1.42,0.28,7.13,1998,Platform
+667,Trials,Series,RedLynx  ,RedLynx  ,,,,,,,,2009,Platform
+668,Uncharted: The Nathan Drake Collection,PS4,Sony Computer Entertainment  ,Bluepoint Games  ,,,2.55,2.11,0.1,0.94,5.7,2015,Action
+669,Super Mario World: Super Mario Advance 2,GBA,Nintendo  ,Nintendo EAD  ,9.4,,3.21,1.11,0.95,0.2,5.46,2002,Platform
+670,Dishonored,Series,Bethesda Softworks  ,Arkane Studios  ,,,,,,,,2012,Action-Adventure
+671,LEGO Star Wars: The Complete Saga,Wii,LucasArts  ,Traveller's Tales  ,8.0,,3.57,1.57,,0.52,5.66,2007,Action
+672,Cooking Mama,DS,Majesco  ,Office Create  ,6.6,,3.09,1.92,0.07,0.58,5.66,2006,Simulation
+673,The Legend of Zelda: Ocarina of Time 3D,3DS,Nintendo  ,GREZZO  ,9.5,,2.5,1.8,0.65,0.39,5.33,2011,Action-Adventure
+674,Tetris,NES,Nintendo  ,Nintendo  ,,,2.97,0.69,1.81,0.11,5.58,1989,Puzzle
+675,Super Mario Advance,GBA,Nintendo  ,Nintendo EAD  ,8.2,,3.14,1.24,0.91,0.2,5.49,2001,Platform
+676,Assassin's Creed II,PS3,Ubisoft  ,Ubisoft Montreal  ,9.0,,2.54,1.95,0.21,0.86,5.57,2009,Action
+677,Super Smash Bros.,N64,Nintendo  ,HAL Laboratory  ,8.4,,2.95,0.6,1.97,0.04,5.55,1999,Fighting
+678,XCOM,Series,Microprose  ,Mythos Games  ,,,,,,,,1994,Strategy
+679,Assassin's Creed,X360,Ubisoft  ,Ubisoft Montreal  ,8.2,8.0,3.28,1.64,0.07,0.56,5.55,2007,Action
+680,Batman: Arkham City,PS3,Warner Bros. Interactive  ,Rocksteady Studios  ,9.6,,2.72,1.89,0.11,0.82,5.54,2011,Action
+681,Forza Motorsport 3,X360,Microsoft Game Studios  ,Turn 10 Studios  ,9.2,9.8,2.99,1.9,0.1,0.51,5.5,2009,Racing
+682,Arma III,PC,Bohemia Interactive  ,Bohemia Interactive  ,,,,0.1,,0.01,0.11,2013,Shooter
+683,Detroit: Become Human,PS4,Sony Interactive Entertainment  ,Quantic Dream  ,8.0,,0.55,0.67,0.12,0.24,1.57,2018,Adventure
+684,Dragon Quest IX: Sentinels of the Starry Skies,DS,Nintendo  ,Level 5  ,8.6,,0.63,0.67,4.35,0.15,5.79,2010,Role-Playing
+685,Final Fantasy IX,PS,Square  ,SquareSoft  ,9.2,,1.62,0.77,2.78,0.14,5.3,2000,Role-Playing
+686,Final Fantasy X-2,PS2,Square Enix  ,Square Enix  ,8.3,,1.92,1.08,2.11,0.17,5.29,2003,Role-Playing
+687,NBA 2K11,All,2K Sports  ,Visual Concepts  ,,,,,,,,2010,Sports
+688,Saints Row: The Third,All,THQ  ,Volition  ,,,,,,,,2011,Action-Adventure
+689,Tomb Raider (2013),PC,Square Enix  ,Crystal Dynamics  ,8.8,,0.06,0.26,,0.02,0.34,2013,Action
+690,Pokémon Stadium,N64,Nintendo  ,HAL Laboratory  ,7.5,,3.18,1.24,0.94,0.09,5.45,2000,Strategy
+691,Chrono,Series,Square  ,Square  ,,,,,,,,1995,Role-Playing
+692,Donkey Kong Country: Tropical Freeze,All,Nintendo  ,Retro Studios  ,,,,,,,,2014,Platform
+693,Minecraft,XOne,Microsoft Studios  ,Mojang  ,,,3.23,1.71,,0.49,5.43,2014,Misc
+694,Call of Duty: World at War,PS3,Activision  ,Treyarch  ,8.4,,2.75,1.84,,0.84,5.43,2008,Shooter
+695,Super Mario Advance 4: Super Mario Bros. 3,GBA,Nintendo  ,Nintendo EAD  ,9.2,,2.93,1.25,0.83,0.2,5.2,2003,Platform
+696,Crash Bandicoot: The Wrath of Cortex,PS2,Universal Interactive  ,Traveller's Tales  ,6.9,,2.07,2.29,0.24,0.82,5.42,2001,Platform
+697,Super Smash Bros. for Wii U,WiiU,Nintendo  ,Bandai Namco Games  ,9.2,,2.68,1.15,0.85,0.39,5.07,2014,Fighting
+698,Dragon Ball Xenoverse,All,Bandai Namco Games  ,Dimps Corporation  ,,,,,,,,2015,Role-Playing
+699,Final Fantasy XIII,PS3,Square Enix  ,Square Enix  ,8.0,9.2,1.75,1.23,1.87,0.51,5.35,2010,Role-Playing
+700,Gran Turismo 5 Prologue,PS3,Sony Computer Entertainment  ,Polyphony Digital  ,8.3,,1.28,1.83,0.57,0.52,4.2,2008,Racing
+701,Dr. Mario,GB,Nintendo  ,Nintendo R&D1  ,,,2.18,0.96,2.0,0.2,5.34,1990,Puzzle
+702,Assassin's Creed III,X360,Ubisoft  ,Ubisoft Montreal  ,,,3.13,1.71,0.03,0.45,5.31,2012,Action-Adventure
+703,Pokémon Pinball,GBC,Nintendo  ,Jupiter Corporation  ,8.7,,3.02,1.12,1.01,0.16,5.31,1999,Misc
+704,Assassin's Creed II,X360,Ubisoft  ,Ubisoft Montreal  ,9.1,,3.14,1.55,0.08,0.52,5.3,2009,Action
+705,Devil May Cry 4,All,Capcom  ,Capcom  ,,,,,,,,2008,Action
+706,Heavy Rain,All,Sony Computer Entertainment  ,Quantic Dream  ,,,,,,,,2010,Adventure
+707,Slime Rancher,Series,Monomi Park  ,Monomi Park  ,,,,,,,,2017,Simulation
+708,The Forest,PC,Endnight Games Ltd   ,Endnight Games Ltd  ,,,,,,,,2014,Simulation
+709,Donkey Kong 64,N64,Nintendo  ,Rare Ltd.  ,9.3,,3.33,0.79,1.09,0.06,5.27,1999,Platform
+710,Wolfenstein,Series,Bethesda Softworks  ,Muse Software  ,,,,,,,,1981,Shooter
+711,Tomb Raider II,PS,Eidos Interactive  ,Core Design Ltd.  ,7.6,,2.3,2.46,0.2,0.28,5.24,1997,Adventure
+712,Madden NFL 2004,PS2,EA Sports  ,EA Tiburon  ,9.5,,4.26,0.26,0.01,0.71,5.23,2003,Sports
+713,Subnautica,Series,Unknown Worlds Entertainment  ,Unknown Worlds Entertainment  ,,,,,,,,2018,Adventure
+714,Subnautica,All,Unknown Worlds Entertainment  ,Unknown Worlds Entertainment  ,,,,,,,,2018,Adventure
+715,Call of Duty: Advanced Warfare,XOne,Activision  ,Sledgehammer Games  ,8.3,,3.25,1.49,0.01,0.48,5.22,2014,Shooter
+716,Fallout: New Vegas,PC,Bethesda Softworks  ,Obsidian Entertainment  ,8.3,,0.59,0.45,,0.13,1.17,2010,Role-Playing
+717,Gran Turismo 6,PS3,Sony Computer Entertainment America  ,Polyphony Digital  ,,,0.77,1.87,0.41,0.49,3.54,2013,Racing
+718,Nintendo Land,WiiU,Nintendo  ,Nintendo  ,7.5,,2.52,1.23,0.51,0.38,4.63,2012,Party
+719,Kingdom Hearts II,PS2,Square Enix  ,Square Enix  ,8.3,,2.2,0.58,1.38,0.17,4.33,2006,Role-Playing
+720,Super Mario Land 3: Wario Land,GB,Nintendo  ,Nintendo R&D1  ,7.9,,2.49,0.98,1.57,0.15,5.19,1994,Platform
+721,Donkey Kong Country 2: Diddy's Kong Quest,SNES,Nintendo  ,Rare Ltd.  ,9.3,,2.1,0.74,2.2,0.11,5.15,1995,Platform
+722,Resident Evil (2002),All,Capcom  ,Capcom  ,,,,,,,,2002,Action-Adventure
+723,Ridge Racer,Series,Namco  ,Namco  ,,,,,,,,1993,Racing
+724,Medal of Honor: Rising Sun,PS2,Electronic Arts  ,EA Los Angeles  ,5.9,,1.98,2.23,0.13,0.8,5.13,2003,Shooter
+725,Battlefield 1,XOne,Electronic Arts  ,EA DICE  ,9.3,,3.37,1.26,0.02,0.48,5.13,2016,Shooter
+726,Kirby's Dream Land,GB,Nintendo  ,HAL Laboratory  ,,,2.71,0.61,1.7,0.11,5.13,1992,Platform
+727,Microsoft Flight Simulator,PC,Microsoft  ,Microsoft  ,7.0,,3.22,1.69,,0.2,5.12,1996,Simulation
+728,Guitar Hero II,PS2,RedOctane  ,Harmonix Music Systems  ,9.2,,3.81,0.63,,0.68,5.12,2006,Misc
+729,FIFA 13,X360,EA Sports  ,EA Canada  ,,,1.1,3.49,0.03,0.5,5.11,2012,Sports
+730,Resident Evil 5,PS3,Capcom  ,Capcom  ,8.6,8.8,1.96,1.42,1.08,0.64,5.1,2009,Action
+731,Fable III,X360,Microsoft Game Studios  ,Lionhead Studios  ,7.8,,3.59,1.09,0.05,0.37,5.1,2010,Role-Playing
+732,Guitar Hero World Tour,All,Activision  ,Neversoft  ,,,,,,,,2008,Music
+733,Mario & Sonic at the Olympic Games,DS,Sega  ,Sega  ,7.0,,1.63,2.46,0.44,0.57,5.1,2008,Sports
+734,Monument Valley,All,Ustwo Games  ,Ustwo Games  ,,,,,,,,2014,Puzzle
+735,Resident Evil,All,Capcom  ,Capcom  ,,,,,,,,1996,Action-Adventure
+736,Grand Theft Auto: Vice City Stories,PSP,Rockstar Games  ,Rockstar Leeds  ,8.4,,1.7,2.03,0.16,1.19,5.08,2006,Action
+737,FIFA Soccer 11,PS3,EA Sports  ,EA Canada  ,8.7,,0.61,3.28,0.06,1.12,5.08,2010,Sports
+738,Super Mario Bros. Deluxe,GB,Nintendo  ,Nintendo EAD  ,9.7,,3.4,1.3,0.15,0.22,5.07,1999,Platform
+739,Final Fantasy XV,PS4,Square Enix  ,Square Enix  ,8.1,9.0,1.81,1.53,1.05,0.68,5.07,2016,Role-Playing
+740,Rhythm Heaven,Series,Nintendo  ,Nintendo  ,,,,,,,,2009,Music
+741,Disgaea,Series,Atlus  ,Nippon Ichi Software  ,,,,,,,,2003,Role-Playing
+742,Resident Evil Zero,All,Capcom  ,Capcom  ,,,,,,,,2002,Action-Adventure
+743,Fallout 4,XOne,Bethesda Softworks  ,Bethesda Game Studios  ,8.4,,2.94,1.62,0.02,0.45,5.03,2015,Role-Playing
+744,Tony Hawk's Pro Skater,PS,Activision  ,Neversoft Entertainment  ,9.6,,3.42,1.38,0.02,0.2,5.02,1999,Sports
+745,Warzone 2100,PS,Eidos Interactive  ,Pumpkin Studios  ,,,2.79,1.89,,0.33,5.01,1999,Strategy
+746,Asterix,Series,Atari  ,Atari  ,,,,,,,,1983,Action-Adventure
+747,Batman: Arkham Knight,All,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,,,,,,,,2015,Action-Adventure
+748,Chessmaster,Series,Software Country  ,Ubisoft  ,,,,,,,,1986,Board Game
+749,Cities: Skylines,PC,Paradox Interactive   ,Colossal Order  ,,,,0.16,,0.01,0.17,2015,Simulation
+750,Close Combat,Series,Microsoft  ,Atomic Games  ,,,,,,,,1996,Strategy
+751,Danganronpa,Series,NIS America  ,Spike Chunsoft  ,,,,,,,,2014,Adventure
+752,Dead by Daylight,All,Behaviour Interactive  ,Behaviour Interactive  ,,,,,,,,2016,Action
+753,Dead Island,All,Deep Silver  ,Techland  ,,,,,,,,2011,Action-Adventure
+754,Death Stranding,All,Sony Interactive Entertainment  ,Kojima Productions  ,,,,,,,,2019,Action-Adventure
+755,Diablo II: Resurrected,All,Blizzard Entertainment  ,Vicarious Visions  ,,,,,,,,2021,Role-Playing
+756,Dying Light 2 Stay Human,All,Techland  ,Techland  ,,,,,,,,2022,Action-Adventure
+757,Enter the Matrix,All,Atari  ,Shiny Entertainment  ,,,,,,,,2003,Action-Adventure
+758,F-Zero,Series,Nintendo  ,Nintendo  ,,,,,,,,1991,Racing
+759,Final Fantasy VII Remake,PS4,Square Enix  ,Square Enix  ,,,,,,,,2020,Role-Playing
+760,Finding Nemo,All,THQ  ,Traveller's Tales  ,,,,,,,,2003,Action-Adventure
+761,Gears of War,X360,Microsoft Game Studios  ,Epic Games  ,9.4,9.4,3.54,1.88,0.07,0.6,6.09,2006,Shooter
+762,Gears of War 2,X360,Microsoft Game Studios  ,Epic Games  ,9.4,9.5,4.15,1.91,0.06,0.64,6.75,2008,Shooter
+763,Guitar Hero II,All,RedOctane  ,Harmonix Music Systems  ,,,,,,,,2006,Music
+764,Halo 5: Guardians,XOne,Microsoft Studios  ,343 Industries  ,8.6,,2.94,1.49,0.03,0.45,4.92,2015,Shooter
+765,Halo: Combat Evolved,XB,Microsoft  ,Bungie Studios  ,9.5,,4.98,1.3,0.08,0.07,6.43,2001,Shooter
+766,Hyrule Warriors,Series,Nintendo  ,Omega Force  ,,,,,,,,2014,Action
+767,Kerbal Space Program,Series,Private Division  ,Squad  ,,,,,,,,2015,Simulation
+768,Kerbal Space Program,All,Private Division  ,Squad  ,,,,,,,,2015,Simulation
+769,Killing Floor,PC,Tripwire Interactive  ,Tripwire Interactive  ,7.5,,,,,,,2009,Shooter
+770,L.A. Noire,All,Rockstar Games  ,Team Bondi  ,,,,,,,,2011,Adventure
+771,Madden NFL 11,All,EA Sports  ,EA Canada  ,,,,,,,,2010,Sports
+772,Madden NFL 12,All,EA Sports  ,EA Tiburon  ,,,,,,,,2011,Sports
+773,Madden NFL 2004,All,EA Sports  ,EA Tiburon  ,,,,,,,,2003,Sports
+774,Medal of Honor (2010),All,Electronic Arts  ,Danger Close Games  ,,,,,,,,2010,Shooter
+775,Need for Speed: Hot Pursuit (2010),All,Electronic Arts  ,Criterion Games  ,,,,,,,,2010,Racing
+776,Peter Jackson's King Kong: The Official Game of the Movie,All,Ubisoft  ,Ubisoft Montpellier  ,,,,,,,,2005,Action-Adventure
+777,Sea of Thieves,PC,Microsoft Studios  ,Rare Ltd.  ,6.7,,,,,,,2018,Action-Adventure
+778,Sekiro: Shadows Die Twice,All,Activision  ,From Software  ,,,,,,,,2019,Action-Adventure
+779,SimCity 3000,PC,Electronic Arts  ,Maxis  ,8.5,,,0.0,,0.0,0.0,1998,Simulation
+780,Slime Rancher,All,Monomi Park  ,Monomi Park  ,,,,,,,,2017,Simulation
+781,South Park: The Stick of Truth,All,Ubisoft  ,Obsidian Entertainment  ,,,,,,,,2014,Role-Playing
+782,Tecmo Bowl,Series,Tecmo  ,Tecmo  ,,,,,,,,1987,Sports
+783,The Long Dark,All,Hinterland Studio Inc.  ,Hinterland Studio Inc.  ,,,,,,,,2017,Simulation
+784,The Matrix,Series,Infogrames  ,Shiny Entertainment  ,,,,,,,,2003,Action-Adventure
+785,The Outer Worlds,Series,Private Division  ,Obsidian Entertainment  ,,,,,,,,2019,Role-Playing
+786,Torchlight,Series,Encore  ,Runic Games  ,,,,,,,,2009,Role-Playing
+787,Worms,All,Ocean Software  ,Team17  ,,,,,,,,1995,Strategy
+788,Guitar Hero III: Legends of Rock,PS2,RedOctane  ,BudCat Creations  ,8.2,,3.49,0.01,0.01,1.48,4.98,2007,Misc
+789,Uncharted: Drake's Fortune,PS3,Sony Computer Entertainment  ,Naughty Dog  ,8.7,8.6,2.32,1.73,0.12,0.8,4.97,2007,Action
+790,Dark Souls,All,Namco Bandai Games  ,From Software  ,,,,,,,,2011,Role-Playing
+791,Resident Evil 2,PS,Capcom  ,Capcom  ,9.3,,1.88,1.47,2.02,0.45,5.82,1998,Action
+792,Fallout 3,X360,Bethesda Softworks  ,Bethesda Game Studios  ,9.0,8.6,3.41,0.99,0.09,0.46,4.96,2008,Role-Playing
+793,Darksiders,Series,THQ  ,Vigil Games  ,,,,,,,,2010,Action-Adventure
+794,Splatoon,WiiU,Nintendo  ,Nintendo EAD  ,8.4,,1.58,1.3,1.56,0.27,4.71,2015,Shooter
+795,Madden NFL 06,PS2,EA Sports  ,EA Tiburon  ,9.1,,3.98,0.26,0.01,0.66,4.91,2005,Sports
+796,Dragon Quest VIII: Journey of the Cursed King,PS2,Square Enix  ,Level 5 / Armor Project  ,8.6,,0.65,0.75,3.61,0.2,5.21,2005,Role-Playing
+797,Dragon's Dogma: Dark Arisen,All,Capcom  ,Capcom  ,,,,,,,,2013,Role-Playing
+798,Monster Hunter Freedom 3,PSP,Capcom  ,Capcom  ,,,,0.0,4.87,0.0,4.87,2010,Role-Playing
+799,Diddy Kong Racing,N64,Nintendo  ,Rare Ltd.  ,8.3,,2.91,0.99,0.89,0.1,4.88,1997,Racing
+800,Pokémon Mystery Dungeon: Explorers of Time / Darkness,DS,Nintendo  ,ChunSoft  ,6.4,,1.83,1.19,1.54,0.37,4.94,2008,Role-Playing
+801,Yoshi,All,Nintendo  ,Game Freak  ,,,,,,,,1992,Puzzle
+802,Call of Duty: Black Ops IIII,XOne,Activision  ,Treyarch  ,,,3.27,1.12,,0.46,4.85,2018,Shooter
+803,Dr. Mario,NES,Nintendo  ,Nintendo R&D1  ,,,2.62,0.6,1.52,0.1,4.85,1990,Puzzle
+804,Spyro the Dragon,PS,Sony Computer Entertainment  ,Insomniac Games  ,8.7,,3.36,1.36,0.07,0.21,5.0,1998,Platform
+805,Crash Bandicoot N. Sane Trilogy,PS4,Activision  ,Vicarious Visions  ,,,1.09,2.92,0.07,0.74,4.83,2017,Platform
+806,Assassin's Creed,PS3,Ubisoft  ,Ubisoft Montreal  ,8.2,8.5,1.91,2.01,0.09,0.82,4.83,2007,Action
+807,Ys,Series,Nihon Falcom Corp   ,Nihon Falcom  ,,,,,,,,1987,Role-Playing
+808,Call of Duty: Infinite Warfare,XOne,Activision  ,Infinity Ward  ,,,2.91,1.44,,0.44,4.79,2016,Shooter
+809,Crash Team Racing,PS,Sony Computer Entertainment  ,Naughty Dog  ,9.2,,2.57,1.57,0.44,0.21,4.79,1999,Racing
+810,LEGO Star Wars: The Complete Saga,DS,LucasArts  ,Traveller's Tales  ,7.8,,2.83,1.49,,0.45,4.77,2007,Action
+811,The Legend of Zelda: Phantom Hourglass,DS,Nintendo  ,Nintendo EAD  ,9.1,,1.85,1.8,0.95,0.48,5.09,2007,Adventure
+812,Batman: Arkham City,X360,Warner Bros. Interactive  ,Rocksteady Studios  ,9.5,,2.99,1.28,0.04,0.44,4.75,2011,Action
+813,Tomb Raider: The Last Revelation,All,Eidos Interactive  ,Core Design  ,,,,,,,,1999,Action-Adventure
+814,Driver 2,PS,Atari  ,Reflections Interactive  ,7.0,,2.36,2.1,0.02,0.25,4.73,2000,Action
+815,The Simpsons: Hit & Run,PS2,VU Games  ,Radical Entertainment  ,7.7,,1.73,2.19,,0.79,4.7,2003,Racing
+816,The Witcher 3: Wild Hunt,XOne,Warner Bros. Interactive Entertainment  ,CD Projekt Red Studio  ,,,0.97,0.61,0.01,0.15,1.74,2015,Role-Playing
+817,World of Warcraft: Cataclysm,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.0,,1.77,0.32,,,2.09,2010,MMO
+818,Tony Hawk's Pro Skater 2,PS,Activision  ,Neversoft Entertainment  ,9.3,,3.05,1.41,0.02,0.2,4.68,2000,Sports
+819,Nintendogs + cats,3DS,Nintendo  ,Nintendo EAD  ,7.2,,1.44,1.69,0.73,0.29,4.15,2011,Simulation
+820,Gran Turismo,PSP,Sony Computer Entertainment  ,Polyphony Digital  ,7.7,9.5,0.43,1.4,0.31,0.78,2.93,2009,Racing
+821,The Lord of the Rings: The Two Towers,PS2,Electronic Arts  ,Stormfront Studios  ,8.3,,1.94,1.95,0.08,0.7,4.67,2002,Action
+822,Tomb Raider,PS,Eidos Interactive  ,Core Design Ltd.  ,8.9,,2.29,1.97,0.13,0.24,4.63,1996,Action
+823,God of War,PS2,Sony Computer Entertainment  ,SCEA Santa Monica Studio  ,9.3,,2.71,1.29,0.02,0.43,4.45,2005,Action
+824,The Legend of Zelda: A Link to the Past,SNES,Nintendo  ,Nintendo EAD  ,10.0,,2.42,0.91,1.15,0.13,4.61,1992,Adventure
+825,Left 4 Dead,PC,Valve Corporation  ,Valve Software  ,8.6,8.5,,0.02,,0.0,0.02,2008,Shooter
+826,Forza Motorsport 4,X360,Microsoft Studios  ,Turn 10 Studio  ,9.1,,2.08,1.98,0.06,0.49,4.6,2011,Racing
+827,Wizardry,Series,Sirtech  ,Sir-Tech  ,,,,,,,,1981,Role-Playing
+828,Guitar Hero III: Legends of Rock,Wii,RedOctane  ,Vicarious Visions  ,8.6,,3.04,1.12,0.0,0.44,4.6,2007,Misc
+829,Sonic Heroes,All,Sega  ,Sonic Team  ,,,,,,,,2004,Platform
+830,BioShock Infinite,PC,2K Games  ,Irrational Games  ,,,0.3,0.31,,0.05,0.66,2013,Shooter
+831,Mario & Luigi: Bowser's Inside Story,DS,Nintendo  ,AlphaDream Corporation  ,9.1,,2.23,0.47,0.81,0.27,3.77,2009,Role-Playing
+832,FIFA 15,PS3,EA Sports  ,EA Canada  ,6.9,,0.59,3.25,0.04,0.68,4.56,2014,Sports
+833,Mario & Sonic at the Olympic Winter Games,Wii,Sega  ,Sega  ,6.8,,1.87,1.97,0.22,0.48,4.54,2009,Sports
+834,Overwatch,PS4,Blizzard Entertainment  ,Blizzard Entertainment  ,8.8,,1.84,1.8,0.17,0.73,4.54,2016,Shooter
+835,Madden NFL 2005,PS2,EA Sports  ,EA Tiburon  ,9.5,,4.18,0.26,0.01,0.08,4.53,2004,Sports
+836,Guitar Hero III: Legends of Rock,X360,RedOctane  ,Neversoft  ,8.7,,3.19,0.91,0.01,0.42,4.53,2007,Misc
+837,Star Wars Battlefront II (2017),PS4,Electronic Arts  ,EA DICE  ,,,1.7,1.99,0.12,0.73,4.53,2017,Shooter
+838,Dead Island,PC,Deep Silver  ,Techland  ,7.1,,0.12,0.07,,0.02,0.22,2011,Action
+839,Arma 2: Operation Arrowhead,PC,Meridian4  ,Bohemia Interactive  ,,,,,,,,2010,Shooter
+840,Alan Wake,Series,Microsoft Game Studios  ,Remedy Entertainment  ,,,,,,,,2010,Action-Adventure
+841,ARK: Survival Evolved,PC,Studio Wildcard  ,Studio Wildcard  ,,,,0.01,,0.0,0.01,2015,Action-Adventure
+842,Call of Duty,All,Activision  ,Infinity Ward  ,,,,,,,,2003,Shooter
+843,Dragon Ball Z: Kakarot,All,Bandai Namco Entertainment  ,CyberConnect2  ,,,,,,,,2020,Role-Playing
+844,FIFA 08,All,EA Sports  ,EA Canada  ,,,,,,,,2007,Sports
+845,FIFA Football 2005,All,EA Sports  ,EA Canada  ,,,,,,,,2004,Sports
+846,Ghosts 'n Goblins,Series,Capcom  ,Capcom  ,,,,,,,,1985,Platform
+847,Grand Theft Auto: Vice City Stories,All,Rockstar Games  ,Rockstar Leeds/North  ,,,,,,,,2006,Action-Adventure
+848,LittleBigPlanet,PS3,Sony Computer Entertainment  ,Media Molecule  ,9.4,9.2,2.8,2.01,0.17,0.87,5.85,2008,Platform
+849,Madden NFL 08,All,EA Sports  ,EA Tiburon  ,,,,,,,,2007,Sports
+850,Madden NFL 09,All,EA Sports  ,EA Tiburon  ,,,,,,,,2008,Sports
+851,Might and Magic,Series,New World Computing  ,New World Computing  ,,,,,,,,1990,Role-Playing
+852,Monster Hunter 3,All,Capcom  ,Capcom  ,,,,,,,,2010,Role-Playing
+853,NBA 2K13,All,2K Sports  ,Visual Concepts  ,,,,,,,,2012,Sports
+854,Riven: The Sequel to Myst,PC,Red Orb  ,Cyan Worlds  ,,,1.52,0.82,,0.1,2.43,1997,Adventure
+855,This War of Mine,Series,11 bit studios  ,11 bit studios  ,,,,,,,,2014,Strategy
+856,This War of Mine,All,11 bit studios  ,11 bit studios  ,,,,,,,,2014,Strategy
+857,Warcraft III: Reign of Chaos,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.3,,0.03,0.1,,0.01,0.14,2002,Strategy
+858,You Don't Know Jack,Series,Berkeley Systems  ,Berkeley Systems  ,,,,,,,,1995,Party
+859,Professor Layton and the Curious Village,DS,Nintendo  ,Level 5  ,8.7,,1.21,2.44,1.03,0.51,5.2,2008,Adventure
+860,Spider-Man: The Movie,PS2,Activision  ,Treyarch  ,8.2,,2.71,1.51,0.03,0.23,4.48,2002,Action
+861,The Elder Scrolls IV: Oblivion,X360,Take-Two Interactive  ,Bethesda Softworks  ,9.2,,2.89,1.03,0.13,0.41,4.47,2009,Role-Playing
+862,The Legend of Zelda: The Wind Waker,GC,Nintendo  ,Nintendo EAD  ,9.6,,2.6,0.99,0.89,0.13,4.6,2003,Adventure
+863,Tony Hawk's Pro Skater 3,PS2,Activision  ,Neversoft Entertainment  ,9.1,,2.66,1.29,0.01,0.46,4.41,2001,Sports
+864,Dino Crisis,Series,Capcom  ,Capcom  ,,,,,,,,1999,Action-Adventure
+865,Winning Eleven: Pro Evolution Soccer 2007,PS2,Konami  ,Konami Computer Entertainment Tokyo  ,8.8,,0.1,2.39,1.05,0.86,4.39,2007,Sports
+866,Zelda II: The Adventure of Link,NES,Nintendo  ,Nintendo EAD  ,,,2.19,0.5,1.61,0.08,4.38,1988,Adventure
+867,Michael Jackson: The Experience,Wii,Ubisoft  ,Ubisoft Montpellier  ,5.6,,2.64,1.33,0.01,0.39,4.37,2010,Misc
+868,Tom Clancy's The Division,PS4,Ubisoft  ,Massive Entertainment  ,,,1.49,2.04,0.16,0.69,4.37,2016,Shooter
+869,Need for Speed: Most Wanted,PS2,Electronic Arts  ,EA Canada  ,8.6,,2.03,1.79,0.08,0.47,4.37,2005,Racing
+870,Tom Clancy's Rainbow Six: Siege,PS4,Ubisoft  ,Ubisoft Montreal  ,,,1.29,2.06,0.36,0.64,4.36,2015,Shooter
+871,Call of Duty: Advanced Warfare,X360,Activision  ,High Moon Studios  ,9.1,,2.81,1.13,0.0,0.41,4.34,2014,Shooter
+872,Watch Dogs,PS4,Ubisoft  ,Ubisoft Montreal  ,,,1.4,2.13,0.11,0.68,4.32,2014,Action-Adventure
+873,Animal Crossing: City Folk,Wii,Nintendo  ,Nintendo EAD  ,7.1,8.8,1.84,1.13,1.32,0.36,4.65,2008,Simulation
+874,Starbound,PC,"Infocom, Inc.  ",Unknown  ,,,,,,,,2014,Misc
+875,Asteroids,2600,Atari  ,Atari  ,,,4.0,0.26,,0.05,4.31,1981,Shooter
+876,Batman: Arkham Asylum,All,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,,,,,,,,2009,Action-Adventure
+877,Dead Rising 3,All,Microsoft Studios  ,Capcom  ,,,,,,,,2013,Action-Adventure
+878,Dragon Quest VII,PS,Enix  ,Heart Beat  ,8.0,3.0,0.2,0.14,4.1,0.02,4.47,2001,Role-Playing
+879,Monster Hunter Generations,3DS,Capcom  ,Capcom  ,8.8,,0.42,0.26,2.82,0.07,3.56,2016,Action
+880,Batman: Arkham Asylum,PS3,Eidos Interactive  ,Rocksteady Studios  ,9.0,,2.26,1.33,0.07,0.63,4.28,2009,Action
+881,Mario Tennis Aces,NS,Nintendo  ,Camelot Software Planning  ,7.8,,0.71,0.62,0.42,0.12,1.87,2018,Sports
+882,Call of Duty: Advanced Warfare,PS3,Activision  ,High Moon Studios  ,9.1,,1.59,1.81,0.2,0.67,4.27,2014,Shooter
+883,God of War II,PS2,Sony Computer Entertainment  ,SCEA Santa Monica Studio  ,9.3,9.8,2.32,0.04,0.04,1.67,4.07,2007,Action
+884,The Legend of Zelda: A Link Between Worlds,3DS,Nintendo  ,Nintendo EAD  ,9.3,,1.53,1.31,0.47,0.26,3.57,2013,Adventure
+885,Namco Museum,GBA,Namco  ,Mass Media  ,,,3.0,1.11,0.05,0.07,4.24,2001,Misc
+886,Super Paper Mario,Wii,Nintendo  ,Intelligent Systems  ,8.5,,1.95,0.87,0.59,0.32,3.73,2007,Platform
+887,Assassin's Creed: Revelations,PS3,Ubisoft  ,Ubisoft Montreal  ,8.8,,1.41,2.03,0.1,0.69,4.23,2011,Action
+888,Assassin's Creed: Revelations,X360,Ubisoft  ,Ubisoft Montreal  ,7.9,,2.28,1.47,0.04,0.44,4.22,2011,Action
+889,Clubhouse Games: 51 Worldwide Classics,NS,Nintendo  ,Nintendo  ,,,,,,,,2020,Party
+890,FIFA Soccer 06,PS2,EA Sports  ,EA Canada  ,8.4,,0.78,2.55,0.04,0.84,4.21,2005,Sports
+891,DmC: Devil May Cry,All,Capcom  ,Ninja Theory  ,,,,,,,,2013,Action
+892,Counter-Strike,PC,Sierra Studios  ,Unknown  ,,,,,,,,2000,Misc
+893,Monster Hunter 4 Ultimate,3DS,Capcom  ,Capcom  ,8.8,,0.72,0.49,2.63,0.12,3.96,2015,Role-Playing
+894,Perfect Dark,Series,Rare  ,Rare  ,,,,,,,,2000,Shooter
+895,Street Fighter IV,PS3,Capcom  ,Capcom / Dimps Corporation  ,9.3,9.0,2.04,1.05,0.59,0.52,4.19,2009,Fighting
+896,7 Days to Die,PC,The Fun Pimps   ,The Fun Pimps  ,,,,,,,,2013,Action
+897,FIFA Soccer 12,X360,EA Sports  ,EA Canada  ,9.2,,0.85,2.79,0.02,0.52,4.18,2011,Sports
+898,Call of Duty: Ghosts,PS4,Activision  ,Infinity Ward  ,7.5,,1.79,1.64,0.05,0.69,4.17,2013,Shooter
+899,Teenage Mutant Ninja Turtles,NES,Ultra Games  ,Konami  ,5.9,,3.38,0.44,0.31,0.04,4.17,1989,Platform
+900,Just Cause 2,PC,Eidos Interactive  ,Avalanche Studios  ,8.2,,,0.11,,0.02,0.12,2010,Action
+901,Bayonetta,Series,Sega  ,PlatinumGames  ,,,,,,,,2010,Action
+902,Excitebike,NES,Nintendo  ,Nintendo R&D1  ,,,2.04,0.48,1.57,0.07,4.16,1985,Racing
+903,Tennis,All,Nintendo  ,Nintendo  ,,,,,,,,1985,Sports
+904,Frogger,PS,Hasbro Interactive  ,Millenium Interactive  ,,,3.79,0.27,,0.11,4.16,1997,Action
+905,Star Wars Battlefront (2015),XOne,Electronic Arts  ,EA DICE  ,6.9,,2.49,1.26,0.02,0.38,4.15,2015,Shooter
+906,FIFA 14,X360,EA Sports  ,EA Canada  ,,,0.94,2.92,0.01,0.29,4.15,2013,Sports
+907,Madden NFL 2003,PS2,EA Sports  ,EA Tiburon  ,9.4,,3.36,0.21,0.01,0.56,4.14,2002,Sports
+908,Assassin's Creed: Unity,PS4,Ubisoft  ,Ubisoft Montreal  ,,,1.25,2.16,0.09,0.65,4.14,2014,Action
+909,Destiny 2,PS4,Activision  ,Bungie  ,,,1.92,1.44,0.1,0.69,4.14,2017,Shooter
+910,Donkey Kong Country: Tropical Freeze,NS,Nintendo  ,Retro Studios  ,9.1,9.1,0.71,0.61,0.26,0.12,1.69,2018,Platform
+911,Shadow of the Tomb Raider,All,Square Enix  ,Eidos Montreal  ,,,,,,,,2018,Action-Adventure
+912,Super Mario World 2: Yoshi's Island,SNES,Nintendo  ,Nintendo EAD  ,9.0,,1.65,0.61,1.76,0.09,4.12,1995,Platform
+913,Batman: Arkham Knight,PS4,Warner Bros. Interactive  ,Rocksteady Studios  ,8.1,,1.65,1.68,0.11,0.66,4.11,2015,Action
+914,FIFA 07 Soccer,PS2,EA Sports  ,Team Fusion  ,8.4,,0.71,2.48,0.03,0.89,4.11,2006,Sports
+915,The Sims 4,PC,Electronic Arts  ,Maxis  ,7.0,,1.2,2.6,,0.3,4.1,2014,Simulation
+916,Monster Hunter 4,3DS,Capcom  ,Capcom  ,,,,,3.44,,3.44,2013,Role-Playing
+917,Sakura Wars,Series,Sega  ,Red Entertainment  ,,,,,,,,2010,Role-Playing
+918,Sengoku BASARA,Series,Capcom  ,Capcom  ,,,,,,,,2005,Action
+919,Street Fighter II Turbo,SNES,Capcom  ,Capcom  ,9.0,,1.42,0.51,2.1,0.07,4.1,1993,Fighting
+920,Dragon Ball: Xenoverse 2,PS4,Namco Bandai Games  ,Dimps Corporation  ,7.1,,0.54,0.59,0.14,0.23,1.5,2016,Action
+921,Crash Bandicoot 2: Cortex Strikes Back,PS,Sony Computer Entertainment  ,Naughty Dog  ,8.6,,3.78,2.17,1.31,0.31,7.58,1997,Platform
+922,Fallout: New Vegas,X360,Bethesda Softworks  ,Obsidian Entertainment  ,8.2,,2.67,1.03,0.04,0.34,4.08,2010,Role-Playing
+923,Assassin's Creed Origins,PS4,Ubisoft  ,Ubisoft Montreal  ,,,1.22,2.11,0.11,0.63,4.06,2017,Action
+924,Far Cry 4,PS4,Ubisoft  ,Ubisoft Montreal  ,8.4,,1.18,2.14,0.11,0.63,4.06,2014,Shooter
+925,Carnival Games,Wii,Global Star Software  ,Cat Daddy Games  ,4.2,,2.12,1.47,0.05,0.42,4.06,2007,Misc
+926,World Soccer Winning Eleven 9,PS2,Konami  ,Konami Computer Entertainment Tokyo  ,8.9,,0.12,2.26,0.9,0.77,4.06,2006,Sports
+927,Forza Motorsport 2,X360,Microsoft Game Studios  ,Turn 10 Studios  ,9.1,,2.35,1.27,0.03,0.41,4.05,2007,Racing
+928,Namco Museum Vol.3,PS,Namco  ,Namco  ,,,2.28,1.55,0.16,0.06,4.05,1997,Misc
+929,Tekken Tag Tournament,PS2,Namco  ,Namco  ,8.7,,1.68,1.51,0.51,0.35,4.05,2000,Fighting
+930,Super Mario Maker,WiiU,Nintendo  ,Nintendo EAD  ,8.8,,1.27,0.94,1.03,0.21,3.45,2015,Platform
+931,Golf,NES,Nintendo  ,Nintendo  ,,,1.22,0.28,2.46,0.04,4.01,1985,Sports
+932,Ace Combat 7: Skies Unknown,All,Bandai Namco Entertainment  ,Bandai Namco Studios  ,,,,,,,,2019,Simulation
+933,BioShock,All,2K Games  ,2K Boston  ,,,,,,,,2007,Shooter
+934,Company of Heroes,Series,THQ  ,Relic Entertainment  ,,,,,,,,2006,Strategy
+935,DayZ,PC,Bohemia Interactive  ,Bohemia Interactive  ,,,,,,,,2012,Action-Adventure
+936,Dead Space 2,All,Electronic Arts  ,Visceral Games  ,,,,,,,,2011,Action-Adventure
+937,Diablo II,PC,Blizzard Entertainment  ,Blizzard North  ,8.8,,0.01,0.11,,0.02,0.14,2000,Role-Playing
+938,Disney's Aladdin,GEN,Sega  ,Virgin Interactive  ,,,,,,,,1993,Platform
+939,Driver,All,GT Interactive  ,Reflections Interactive  ,,,,,,,,1999,Action-Adventure
+940,EyeToy Play,PS2,Sony Computer Entertainment  ,SCEE London Studio  ,7.5,,0.88,2.3,0.2,0.83,4.2,2003,Misc
+941,Far Cry Primal,All,Ubisoft  ,Ubisoft Montreal  ,,,,,,,,2016,Action-Adventure
+942,Frogger,2600,Parker Bros.  ,Konami  ,,,2.06,0.12,,0.02,2.2,1982,Action
+943,God Eater,Series,Bandai Namco Entertainment  ,Shift  ,,,,,,,,2011,Role-Playing
+944,Hyrule Warriors: Age of Calamity,NS,Nintendo  ,Koei Tecmo Games  ,9.0,,,,,,,2020,Action
+945,Just Dance 2015,All,Ubisoft  ,Ubisoft  ,,,,,,,,2014,Music
+946,Lego Jurassic World,All,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,,,,,,2015,Action-Adventure
+947,Madden NFL 10,All,EA Sports  ,EA Tiburon  ,,,,,,,,2009,Sports
+948,Madden NFL 2005,All,EA Sports  ,EA Tiburon  ,,,,,,,,2004,Sports
+949,Max Payne,All,Gathering of Developers  ,Remedy Entertainment  ,,,,,,,,2001,Shooter
+950,Max Payne 3,All,Rockstar Games  ,Rockstar Studios  ,,,,,,,,2012,Shooter
+951,Monster Hunter: World,PS4,Capcom  ,Capcom  ,9.3,9.0,1.03,1.06,2.17,0.42,4.67,2018,Action
+952,Monster Rancher,Series,Tecmo  ,Tecmo  ,,,,,,,,1997,Role-Playing
+953,NBA 2K12,All,2K Sports  ,Visual Concepts  ,,,,,,,,2011,Sports
+954,Need for Speed Rivals,All,Electronic Arts  ,Ghost Games  ,,,,,,,,2013,Racing
+955,Need for Speed: Shift,All,Electronic Arts  ,Slightly Mad Studios  ,,,,,,,,2009,Racing
+956,Octopath Traveler,Series,Square Enix  ,Square Enix  ,,,,,,,,2018,Role-Playing
+957,Persona 5 Royal,All,Sega  ,Atlus  ,,,,,,,,2020,Role-Playing
+958,Pitfall!,2600,Activision  ,Activision  ,,,4.21,0.24,,0.05,4.5,1982,Platform
+959,Ratatouille,All,THQ  ,Heavy Iron Studios  ,,,,,,,,2007,Platform
+960,Resident Evil 4 (2023),All,Capcom  ,Capcom  ,,,,,,,,2023,Action-Adventure
+961,Risk of Rain,Series,Chucklefish  ,Hopoo Games  ,,,,,,,,2013,Action-Adventure
+962,Rock Band,All,MTV Games  ,Harmonix Music Systems  ,,,,,,,,2007,Music
+963,Rocksmith,Series,Ubisoft  ,Ubisoft  ,,,,,,,,2011,Music
+964,S.T.A.L.K.E.R.,Series,THQ  ,GSC Game World  ,,,,,,,,2007,Shooter
+965,Sonic Colors,All,Sega  ,Sonic Team/Dimps Corporation  ,,,,,,,,2010,Platform
+966,Star Fox 64,N64,Nintendo  ,Nintendo EAD  ,9.0,,2.78,0.58,0.64,0.04,4.03,1997,Shooter
+967,Star Wars: Battlefront,All,LucasArts  ,Pandemic Studios  ,,,,,,,,2004,Shooter
+968,Super Mario Run,iOS,Nintendo  ,Nintendo  ,,,,,,,,2016,Action
+969,Teenage Mutant Ninja Turtles,All,Ultra Games  ,Konami  ,,,,,,,,1989,Platform
+970,The Elder Scrolls III: Morrowind,All,Bethesda Softworks  ,Bethesda Game Studios  ,,,,,,,,2002,Role-Playing
+971,The Incredibles,All,THQ  ,Heavy Iron Studios  ,,,,,,,,2004,Action-Adventure
+972,The Lord of the Rings: The Two Towers,All,Electronic Arts  ,Stormfront Studios  ,,,,,,,,2002,Action
+973,The Outer Worlds,All,Private Division  ,Obsidian Entertainment  ,,,,,,,,2019,Role-Playing
+974,The Simpsons Game,All,Electronic Arts  ,EA Redwood Shores  ,,,,,,,,2007,Platform
+975,Turok,Series,Acclaim Entertainment  ,Iguana Entertainment  ,,,,,,,,1997,Shooter
+976,"Warhammer 40,000: Dawn of War",PC,THQ  ,Relic  ,8.8,,0.01,0.04,,0.0,0.05,2004,Strategy
+977,Who Wants to be a Millionaire,PC,Disney Interactive Studios  ,Jellyvision  ,,,1.94,0.0,,,1.94,1999,Misc
+978,World of Warcraft: Wrath of the Lich King,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.3,9.3,0.01,0.13,,1.18,1.32,2008,MMO
+979,WWE SmackDown vs. Raw 2009,All,THQ  ,THQ  ,,,,,,,,2008,Sports
+980,Zombie Army,Series,Rebellion Developments  ,Rebellion Developments  ,,,,,,,,2013,Shooter
+981,Zoo Tycoon,PC,Microsoft  ,Blue Fang Games  ,7.1,,,0.03,,0.0,0.03,2001,Strategy
+982,Fallout 3,PS3,Bethesda Softworks  ,Bethesda Game Studios  ,8.8,,2.18,1.15,0.07,0.61,4.0,2008,Role-Playing
+983,The Legend of Zelda: Oracle of Ages / Seasons,GBC,Nintendo  ,Capcom  ,,,,,,,,2001,Adventure
+984,The Elder Scrolls V: Skyrim,PC,Bethesda Softworks  ,Bethesda Game Studios  ,9.2,,1.18,2.25,,0.56,3.99,2011,Role-Playing
+985,Namco Museum: 50th Anniversary,PS2,Namco  ,Digital Eclipse  ,,,2.08,1.35,,0.54,3.98,2005,Misc
+986,Kirby Star Allies,NS,Nintendo  ,HAL Laboratory  ,8.1,10.0,0.75,0.41,0.72,0.11,1.99,2018,Platform
+987,NBA 2K16,PS4,2K Sports  ,Visual Concepts  ,8.7,,2.56,0.66,0.05,0.71,3.98,2015,Sports
+988,Divinity,Series,CDV Software Entertainment  ,Larian Studios  ,,,,,,,,2002,Role-Playing
+989,Far Cry 5,PS4,Ubisoft  ,Ubisoft  ,7.9,,1.44,1.73,0.15,0.62,3.95,2018,Action
+990,Battlefield 4,PS4,Electronic Arts  ,EA DICE  ,8.3,,1.4,1.74,0.19,0.62,3.94,2013,Shooter
+991,Assassin's Creed IV: Black Flag,PS3,Ubisoft  ,Ubisoft Montreal  ,8.7,,1.34,1.86,0.13,0.62,3.94,2013,Action-Adventure
+992,Naruto Shippuden: Ultimate Ninja Storm 4,PS4,Namco Bandai Games  ,CyberConnect2  ,,,0.71,0.47,0.12,0.24,1.54,2016,Fighting
+993,Dark Souls II,All,Bandai Namco Games  ,From Software  ,,,,,,,,2014,Role-Playing
+994,Half-Life 2: Episode One,PC,Electronic Arts  ,Valve Software  ,8.7,,,0.0,,0.0,0.0,2006,Shooter
+995,Donkey Kong Land,GB,Nintendo  ,Rare Ltd.  ,,,1.97,0.76,1.07,0.11,3.91,1995,Platform
+996,English Training: Have Fun Improving Your Skills!,DS,Nintendo  ,Plato  ,,,,0.99,2.32,0.02,3.33,2006,Misc
+997,The Legend of Zelda: Skyward Sword HD,NS,Nintendo  ,Nintendo  ,,6.0,,,,,,2021,Action-Adventure
+998,Dragon Quest III,NES,Enix  ,ChunSoft  ,,8.0,0.1,,3.77,0.0,3.87,1992,Role-Playing
+999,Okami,Series,Capcom  ,Clover Studio  ,,,,,,,,2006,Action-Adventure
+1000,Tony Hawk's Underground,PS2,Activision  ,Neversoft Entertainment  ,8.7,,2.29,1.17,0.01,0.42,3.9,2003,Sports

@@ -1,0 +1,2001 @@
+Rank,Name,Platform,Publisher,Developer,Critic_Score,User_Score,NA_Sales,PAL_Sales,JP_Sales,Other_Sales,Global_Sales,Year,Genre
+7001,Hot Wheels: Beat That!,PS2,Activision  ,Eutechnyx  ,,,0.2,0.15,,0.05,0.4,2007,Racing
+7002,MLB 2006,PS2,Sony Computer Entertainment  ,989 Sports  ,,,0.33,0.01,,0.05,0.4,2005,Sports
+7003,Savage Lands,PC,Unknown  ,Last Bastion Studios LLC  ,,,,,,,,N/A,Role-Playing
+7004,Brunswick Pro Bowling,PS2,Crave Entertainment  ,Point of View  ,,,0.2,0.15,,0.05,0.4,2007,Sports
+7005,My Virtual Tutor: Reading Adventure First to Second Grade,DS,Mentor Interactive  ,1st Playable Productions  ,,,0.37,,,0.03,0.4,2009,Misc
+7006,Rocket Power: Dream Scheme,GBA,THQ  ,Helixe  ,,,0.29,0.11,,0.01,0.4,2001,Action
+7007,Sega Superstars Tennis,PS3,Sega  ,Sumo Digital  ,6.8,,0.13,0.2,,0.07,0.4,2008,Sports
+7008,MX vs. ATV Unleashed,XB,THQ  ,Rainbow Studios  ,,,0.32,0.07,,0.01,0.4,2005,Racing
+7009,Rampage: Total Destruction,GC,Midway Games  ,"Pipeworks Software, Inc.  ",,,0.31,0.08,,0.01,0.4,2006,Action
+7010,Spore Hero,Wii,Electronic Arts  ,Maxis  ,5.8,,0.35,0.02,,0.03,0.4,2009,Simulation
+7011,The Urbz: Sims in the City,GC,Electronic Arts  ,Maxis  ,7.6,,0.24,0.14,,0.02,0.4,2004,Simulation
+7012,Road Rash: Jailbreak,PS,Electronic Arts  ,Electronic Arts  ,,,0.22,0.15,,0.03,0.4,1999,Racing
+7013,WWE SmackDown! vs. RAW 2006,PSP,THQ  ,Yuke's  ,8.1,,0.36,0.01,,0.03,0.4,2005,Fighting
+7014,Mother 3,GBA,Nintendo  ,Brownie Brown / HAL Laboratory / Nintendo SPD Production Group No. 3  ,,,,,0.39,0.01,0.4,2006,Role-Playing
+7015,Nicktoons: Freeze Frame Frenzy,GBA,THQ  ,Altron  ,,,0.29,0.11,,0.01,0.4,2004,Action
+7016,Winter Sports 2: The Next Challenge,Wii,Crave Entertainment  ,49Games  ,,,0.17,0.19,,0.04,0.4,2008,Sports
+7017,Rocket League,NS,505 Games  ,Psyonix Studios  ,9.2,,0.21,0.16,,0.03,0.4,2018,Sports
+7018,Transformers: The Game,PS3,Activision  ,Traveller's Tales  ,,,0.32,0.03,0.01,0.04,0.4,2007,Action
+7019,The Darkness II,X360,2K Games  ,Digital Extremes  ,,,0.25,0.11,,0.03,0.4,2012,Shooter
+7020,The Lego Ninjago Movie Videogame,NS,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.21,0.15,,0.03,0.4,2017,Action
+7021,Tales of Eternia,PSP,Ubisoft  ,Namco  ,8.0,,,0.01,0.25,0.0,0.26,2006,Role-Playing
+7022,Ghostbusters: The Video Game,DS,Atari  ,Zen Studios Inc.  ,,,0.24,0.12,,0.04,0.4,2009,Action
+7023,You Don't Know Jack,PS,Sierra Entertainment  ,"Starsphere Interactive, Inc.  ",8.5,,0.22,0.15,,0.03,0.4,1999,Misc
+7024,Momotaro Dentetsu 2017: Tachiagare Nippon!!,3DS,Nintendo  ,Valhalla Game Studios  ,,,,,0.4,,0.4,2016,Party
+7025,Fushigi no Dungeon 2: Fuurai no Shiren,SNES,ChunSoft  ,ChunSoft  ,,,,,0.4,0.0,0.4,1995,Role-Playing
+7026,Farming Simulator 2015,X360,Focus Home Interactive  ,Giants Software  ,,,0.24,0.12,,0.04,0.4,2015,Simulation
+7027,Tales of Legendia,PS2,Namco  ,Namco / Team MelFes  ,7.2,8.5,0.07,0.05,0.35,0.02,0.49,2006,Role-Playing
+7028,WipeOut 3 The Game,Wii,Activision  ,Behaviour Interactive  ,,,0.36,,,0.04,0.4,2012,Party
+7029,Star Wars The Clone Wars: Republic Heroes,DS,LucasArts  ,Krome Studios  ,5.9,,0.22,0.14,,0.04,0.4,2009,Action
+7030,NBA Live 2002,XB,EA Sports  ,EA Canada  ,,,0.35,0.03,,0.02,0.4,2001,Sports
+7031,Star Wars: Clone Wars,GC,LucasArts  ,Pandemic Studios  ,7.3,,0.31,0.08,,0.01,0.4,2002,Shooter
+7032,Castlevania: Portrait of Ruin,DS,Konami  ,Konami  ,8.5,,0.31,0.02,0.04,0.03,0.4,2006,Platform
+7033,Boku no Natsuyasumi,PS,Sony Computer Entertainment  ,Millennium Kitchen  ,,,,,0.37,0.03,0.4,2000,Adventure
+7034,Destiny: The Taken King,X360,Activision  ,Bungie  ,,,0.28,0.08,,0.04,0.4,2015,Shooter
+7035,Disney Sing It,PS3,Disney Interactive Studios  ,Zoe Mode  ,,,0.29,0.06,,0.04,0.4,2008,Misc
+7036,I-Ninja,PS2,Namco  ,Argonaut Games  ,7.2,,0.19,0.15,,0.05,0.4,2003,Platform
+7037,Armored Core V,PS3,Namco Bandai  ,From Software  ,,,0.09,0.04,0.24,0.02,0.4,2012,Simulation
+7038,Speed Racer: The Videogame,Wii,Warner Bros. Interactive  ,Sidhe Interactive  ,,,0.35,0.02,,0.03,0.4,2008,Racing
+7039,Robot Roller-Derby Disco Dodgeball,PC,Unknown  ,Erik Asmussen  ,,,,,,,,N/A,Sports
+7040,Command & Conquer,PS,Westwood Studios  ,Westwood Studios  ,8.4,,0.22,0.15,,0.03,0.4,1997,Strategy
+7041,Harvest Moon: Save the Homeland,PS2,Natsume  ,Victor Interactive Software  ,7.8,,0.19,0.15,,0.05,0.4,2001,Simulation
+7042,Littlest Pet Shop,Wii,Electronic Arts  ,EA Salt Lake  ,,,0.33,0.04,,0.03,0.4,2008,Simulation
+7043,SD Gundam G Generation Seed,PS2,Bandai  ,Bandai  ,,,,,0.4,,0.4,2004,Strategy
+7044,Call of Duty: Finest Hour,GC,Activision  ,EXAKT Entertainment  ,7.7,,0.31,0.08,,0.01,0.4,2004,Shooter
+7045,Naruto: Path of the Ninja,DS,D3 Publisher  ,TOSE  ,,,0.37,,,0.03,0.4,2007,Role-Playing
+7046,Sherlock Holmes: The Mystery of the Mummy,DS,Focus Home Interactive  ,Frogwares  ,,,0.06,0.3,,0.04,0.4,2009,Adventure
+7047,No More Heroes 2: Desperate Struggle,Wii,Ubisoft  ,Grasshopper Manufacture  ,8.5,,0.2,0.11,0.04,0.03,0.4,2010,Action
+7048,Suzuki TT Superbikes,PS2,Valcon Games  ,Jester Interactive  ,,,0.33,0.01,,0.05,0.4,2005,Racing
+7049,Tales of Destiny,PS2,Namco Bandai  ,Namco Tales Studio  ,,,,,0.52,,0.52,2006,Role-Playing
+7050,Planet 51,DS,Sega  ,Firebrand Games  ,,,0.22,0.14,,0.04,0.39,2009,Action
+7051,Skylanders Giants,WiiU,Activision  ,Unknown  ,,,0.23,0.13,,0.04,0.39,2012,Misc
+7052,Rumble Roses,PS2,Konami  ,Yuke's Future Media Creators  ,,,0.19,0.15,,0.05,0.39,2004,Fighting
+7053,Tomb Raider: Anniversary,X360,Eidos Interactive  ,Crystal Dynamics  ,7.9,,0.12,0.22,,0.05,0.39,2007,Action
+7054,Harry Potter and the Deathly Hallows - Part 1,PS3,Electronic Arts  ,EA Bright Light  ,,,0.13,0.2,,0.07,0.39,2010,Action
+7055,Fishing Resort,Wii,Xseed Games  ,Bandai Namco Games  ,,,0.14,,0.25,0.01,0.39,2011,Sports
+7056,Fantastic Four: Rise of the Silver Surfer,PS2,2K Games  ,7 Studios  ,,,0.19,0.15,,0.05,0.39,2007,Action
+7057,Ultimate Spider-Man,XB,Activision  ,Treyarch  ,,,0.26,0.11,,0.02,0.39,2005,Action
+7058,Juiced 2: Hot Import Nights,PS2,THQ  ,Juice Games  ,,,0.19,0.15,0.01,0.05,0.39,2007,Racing
+7059,Tower Wars,PC,Unknown  ,SuperVillain Studios  ,,,,,,,,N/A,Strategy
+7060,NHL 99,N64,EA Sports  ,MBL Research  ,,,0.38,0.01,,0.0,0.39,1998,Sports
+7061,Combat of Giants: Dinosaurs 3D,3DS,Ubisoft  ,Ubisoft  ,4.3,,0.25,0.07,0.05,0.03,0.39,2011,Strategy
+7062,Legends of WrestleMania,X360,THQ  ,Yuke's  ,,,0.2,0.15,,0.04,0.39,2009,Fighting
+7063,Danball Senki,PSP,Level 5  ,Level 5  ,,,,,0.39,,0.39,2011,Role-Playing
+7064,NBA Jam,X360,EA Sports  ,EA Tiburon  ,,,0.27,0.09,,0.03,0.39,2010,Sports
+7065,NASCAR Heat,PS,Hasbro Interactive  ,Monster Games Inc.  ,,,0.22,0.15,,0.03,0.39,2000,Racing
+7066,Bloody Roar,PS,Sony Computer Entertainment  ,Eighting / Raizing  ,8.6,,0.22,0.15,,0.03,0.39,1998,Fighting
+7067,Bump 'n' Jump,2600,Mattel Interactive  ,Mattel  ,,,0.37,0.02,,0.0,0.39,1983,Racing
+7068,Mobile Suit Gundam: Lost War Chronicles,PS2,Bandai  ,Bandai  ,,,,,0.39,,0.39,2002,Shooter
+7069,Disney's Brother Bear,GBA,THQ  ,Vicarious Visions  ,,,0.28,0.1,,0.01,0.39,2003,Action
+7070,FIFA Soccer 12,3DS,EA Sports  ,EA Canada  ,7.0,,0.08,0.27,,0.04,0.39,2011,Sports
+7071,Trine 3: The Artifacts of Power,PC,Frozenbyte  ,Frozenbyte  ,,,,,,,,2015,Action-Adventure
+7072,NBA Live 09,PS2,Electronic Arts  ,EA Canada  ,,,0.32,0.01,0.01,0.05,0.39,2008,Sports
+7073,Ener-G: Gym Rockets,DS,Ubisoft  ,Mud Duck Productions  ,,,0.36,,,0.03,0.39,2008,Sports
+7074,Super Monkey Ball: Step & Roll,Wii,Sega  ,Sega  ,6.0,,0.15,0.19,,0.04,0.39,2010,Action
+7075,The House of The Dead III,XB,Sega  ,Wow Entertainment  ,6.8,,0.29,0.08,,0.01,0.39,2002,Shooter
+7076,Dancing with the Stars: We Dance!,DS,Activision  ,Zoe Mode  ,,,0.36,,,0.03,0.39,2008,Misc
+7077,LEGO Marvel's Avengers,X360,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.19,0.17,,0.03,0.39,2016,Action
+7078,Fire Emblem: Fuuin no Tsurugi,GBA,Nintendo  ,Intelligent Systems  ,,7.0,,,0.39,,0.39,2002,Role-Playing
+7079,Iron Man 2,PS3,Sega  ,"Sega Studios, San Francisco  ",,,0.14,0.19,,0.07,0.39,2010,Action
+7080,One Piece Unlimited World: Red,3DS,Namco Bandai Games  ,Ganbarion  ,,,0.05,0.05,0.28,0.01,0.39,2014,Action-Adventure
+7081,Just Dance 2018,Wii,Ubisoft  ,Ubisoft Paris  ,,,0.14,0.22,,0.03,0.39,2017,Music
+7082,Final Fantasy Crystal Chronicles: The Crystal Bearers,Wii,Square Enix  ,Square Enix  ,6.7,,0.21,0.08,0.08,0.03,0.39,2009,Adventure
+7083,NBA Live 09,PSP,Electronic Arts  ,EA Canada  ,6.1,,0.23,0.07,0.03,0.06,0.39,2008,Sports
+7084,Laser Blast,2600,Activision  ,Activision  ,,,0.37,0.02,,0.0,0.39,1981,Action
+7085,Just Dance 2016,PS4,Ubisoft  ,Ubisoft Paris  ,,,0.19,0.13,,0.07,0.39,2015,Music
+7086,Deus Ex: Mankind Divided,XOne,Square Enix  ,Eidos Montreal  ,,,0.25,0.11,,0.04,0.39,2016,Role-Playing
+7087,Thrasher Presents: Skate and Destroy,PS,Rockstar Games  ,Z-Axis  ,,,0.22,0.15,,0.03,0.39,1999,Sports
+7088,Alpha Protocol,X360,Sega  ,Obsidian Entertainment  ,6.8,,0.23,0.13,,0.04,0.39,2010,Role-Playing
+7089,Dungeon Siege III,PS3,Square Enix  ,Obsidian Entertainment  ,7.3,,0.17,0.13,0.03,0.06,0.39,2011,Role-Playing
+7090,Are You Smarter than a 5th Grader? Make the Grade,DS,THQ  ,THQ  ,,,0.36,,,0.03,0.39,2008,Misc
+7091,NHL 18,XOne,EA Sports  ,EA Canada  ,,,0.32,0.03,,0.04,0.39,2017,Sports
+7092,SpongeBob's Truth or Square (US sales),PSP,THQ  ,Heavy Iron Studios  ,,,0.39,0.0,,,0.39,2009,Action
+7093,Donkey Konga 2,GC,Nintendo  ,Namco  ,6.5,,0.3,0.08,,0.01,0.39,2005,Misc
+7094,Just Dance 2014,PS3,Ubisoft  ,Ubisoft Paris  ,7.8,,0.17,0.15,,0.07,0.39,2013,Music
+7095,Tear Ring Saga Yutona Eiyuu Senki,PS,Enterbrain  ,ASCII Entertainment / Tirnanog  ,,,,,0.37,0.03,0.39,2001,Role-Playing
+7096,SpongeBob's Truth or Square (US sales),Wii,THQ  ,Heavy Iron Studios  ,,,0.38,0.01,,,0.39,2009,Action
+7097,Condemned 2: Bloodshot,PS3,Sega  ,Monolith Productions  ,8.4,,0.17,0.16,,0.06,0.39,2008,Shooter
+7098,Taiko no Tatsujin Wii: Ketteiban,Wii,Namco Bandai  ,Bandai Namco Games  ,,,,,0.39,,0.39,2011,Misc
+7099,Disney Princess: Enchanting Storybooks,Wii,THQ  ,THQ  ,,,0.25,0.1,,0.03,0.39,2011,Misc
+7100,Monopoly Streets,PS3,Electronic Arts  ,Electronic Arts  ,,,0.16,0.17,,0.06,0.39,2010,Misc
+7101,SSX 3,XB,EA Sports BIG   ,EA Canada  ,,,0.29,0.08,,0.01,0.39,2003,Sports
+7102,Madden NFL 2005,GBA,EA Sports  ,Exient Entertainment  ,,,0.28,0.1,,0.01,0.39,2004,Sports
+7103,All-Star Baseball 2000,N64,Acclaim Entertainment  ,Iguana Entertainment  ,,,0.36,0.03,,0.0,0.39,1999,Sports
+7104,BattleTanx: Global Assault,N64,3DO  ,3DO  ,,,0.31,0.07,,0.0,0.39,1999,Action
+7105,Custom Robo V2,N64,Nintendo  ,Noise Inc.  ,,,,,0.34,0.05,0.39,2000,Fighting
+7106,Extreme-G: XG2,N64,Acclaim Entertainment  ,Probe Entertainment Limited  ,,,0.31,0.07,,0.0,0.39,1998,Racing
+7107,Hatsune Miku: Project DIVA F,All,Sega  ,Sega  ,,,,,,,,2014,Music
+7108,Ryu ga Gotoku Ishin!,All,Sega  ,Sega  ,,,,,,,,2014,Action-Adventure
+7109,Monster Jam: Urban Assault,DS,Activision  ,Torus Games  ,,,0.36,0.0,,0.03,0.39,2008,Racing
+7110,Batman: Arkham VR,PS4,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,,,0.32,,,0.07,0.39,2016,Action
+7111,Chibi-Robo! Plug into Adventure!,GC,Nintendo  ,skip Ltd.  ,7.4,,0.23,0.06,0.09,0.01,0.39,2006,Adventure
+7112,Star Wars The Clone Wars: Republic Heroes,X360,LucasArts  ,Krome Studios  ,,,0.18,0.17,,0.04,0.39,2009,Action
+7113,Jampack Winter 2003 (RP-T),PS2,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.19,0.15,,0.05,0.39,2003,Misc
+7114,Dragon's Crown,PSV,Atlus  ,Vanillaware  ,,,0.14,0.06,0.12,0.07,0.39,2013,Role-Playing
+7115,Kengo: Master of Bushido,PS2,Crave Entertainment  ,LightWeight  ,,,0.16,0.13,0.06,0.04,0.39,2001,Fighting
+7116,Blood Omen 2,PS2,Eidos Interactive  ,Crystal Dynamics  ,,,0.19,0.15,,0.05,0.39,2002,Action
+7117,Advance Wars: Dual Strike,DS,Nintendo  ,Intelligent Systems  ,9.0,,0.3,0.03,0.04,0.03,0.39,2005,Strategy
+7118,Super Fire ProWrestling,SNES,Human Entertainment  ,Human Club  ,,,,,0.39,0.0,0.39,1991,Fighting
+7119,Cabela's Dangerous Hunts 2,PS2,Activision  ,Sand Grain Studios  ,,,0.19,0.15,,0.05,0.39,2005,Action
+7120,Chessmaster,PS2,Ubisoft  ,Ubisoft Romania  ,,,0.19,0.15,,0.05,0.39,2003,Misc
+7121,Fatal Fury,SNES,Takara  ,SNK Corporation  ,,,,,0.39,,0.39,1993,Fighting
+7122,LocoRoco,PSP,Sony Computer Entertainment  ,SCE Japan Studio  ,8.1,,0.14,0.05,0.16,0.03,0.39,2006,Platform
+7123,The Evil Within 2,XOne,Bethesda Softworks  ,Tango Gameworks  ,,,0.25,0.1,,0.04,0.39,2017,Action
+7124,Madden NFL 11,PSP,EA Sports  ,EA Tiburon  ,,,0.36,,,0.03,0.39,2010,Sports
+7125,Outlast II,PC,Unknown  ,Red Barrels  ,,,,,,,,N/A,Action
+7126,Red Faction: Armageddon,X360,THQ  ,Volition Inc.  ,7.1,,0.18,0.16,0.01,0.04,0.39,2011,Shooter
+7127,From TV Animation One Piece: Yume no Lufy Kaizokudan Tanjou!,GB,Banpresto  ,Alpha Unit  ,,,,,0.39,,0.39,2001,Role-Playing
+7128,Ice Age 2: The Meltdown,PS2,Vivendi Games  ,Eurocom Entertainment Software  ,7.4,,0.19,0.15,,0.05,0.39,2006,Platform
+7129,The Sims 2,GBA,Electronic Arts  ,Maxis  ,,,0.28,0.1,,0.01,0.39,2005,Simulation
+7130,RWBY: Grimm Eclipse,PC,Unknown  ,Rooster Teeth Games  ,,,,,,,,N/A,Action
+7131,Robert Ludlum's The Bourne Conspiracy,PS3,Sierra Entertainment  ,High Moon Studios  ,7.6,,0.18,0.14,,0.06,0.39,2008,Action
+7132,Super Famista 3,SNES,Namco  ,Namco  ,,,,,0.39,,0.39,1994,Sports
+7133,Auto Modellista,PS2,Capcom  ,Capcom  ,,,0.19,0.15,,0.05,0.39,2003,Racing
+7134,Mass Effect 2,PC,Electronic Arts  ,BioWare Corp.  ,9.6,,0.01,0.32,,0.05,0.39,2010,Role-Playing
+7135,Hitman: Blood Money,X360,Eidos Interactive  ,IO Interactive  ,8.1,,0.29,0.06,0.01,0.03,0.39,2006,Action
+7136,Tom Clancy's Ghost Recon 2: Summit Strike,XB,Ubisoft  ,Red Storm Entertainment  ,,,0.29,0.08,,0.01,0.39,2005,Shooter
+7137,Silent Hill: Homecoming,PS3,Konami  ,Double Helix Games  ,7.4,,0.18,0.15,,0.06,0.39,2008,Action
+7138,Zone of the Enders HD Collection,PS3,Konami Digital Entertainment  ,Kojima Productions  ,,,0.21,0.04,0.09,0.05,0.39,2012,Action
+7139,SpongeBob vs The Big One: Beach Party Cook Off,DS,THQ  ,THQ  ,,,0.24,0.11,,0.04,0.39,2009,Adventure
+7140,Tiger Woods PGA Tour 08,PS2,Electronic Arts  ,EA Salt Lake  ,,,0.19,0.15,,0.05,0.39,2007,Sports
+7141,Hooked! Again: Real Motion Fishing,Wii,Aksys Games  ,SIMS  ,,,0.36,0.0,,0.03,0.39,2009,Sports
+7142,Tiger Woods PGA Tour 14,PS3,EA Sports  ,EA Tiburon  ,,,0.16,0.16,,0.06,0.39,2013,Sports
+7143,Karaoke Revolution Presents American Idol Encore,PS2,Konami  ,Blitz Games  ,,,0.19,0.15,,0.05,0.39,2008,Misc
+7144,Get Fit with Mel B,PS3,Deep Silver  ,Lightning Fish  ,,,0.15,0.16,,0.07,0.39,2010,Sports
+7145,Airlock,2600,Data Age  ,Data Age  ,,,0.36,0.02,,0.0,0.39,1982,Action
+7146,MotoGP 08,PS3,Capcom  ,MileStone Inc.  ,,,0.07,0.24,,0.08,0.39,2008,Racing
+7147,Metal Gear Solid: Snake Eater 3D,3DS,Konami Digital Entertainment  ,Konami Computer Entertainment Japan  ,7.9,,0.15,0.12,0.1,0.02,0.39,2012,Action-Adventure
+7148,Tokimeki Memorial 2,PS,Konami  ,KCET  ,,,,,0.36,0.03,0.39,1999,Simulation
+7149,EA Sports Active 2,X360,Electronic Arts  ,EA Vancouver  ,6.3,,0.18,0.16,,0.04,0.39,2010,Sports
+7150,LEGO Star Wars III: The Clone Wars,PSP,LucasArts  ,Traveller's Tales  ,6.3,,0.14,0.16,,0.08,0.39,2011,Action
+7151,Farming Simulator 2013,X360,Focus Home Interactive  ,Giants Software  ,,,0.22,0.13,0.0,0.03,0.39,2013,Simulation
+7152,Little Nightmares,PS4,Namco Bandai Games  ,Tarsier Studios  ,,,0.18,0.12,0.02,0.06,0.39,2017,Platform
+7153,Harry Potter: Quidditch World Cup,GBA,Electronic Arts  ,Magic Pockets  ,4.9,,0.28,0.1,,0.01,0.39,2003,Sports
+7154,Tropico 5,PS4,Kalypso Media  ,Haemimont Games  ,,,0.07,0.18,0.08,0.05,0.38,2015,Simulation
+7155,Wipeout 2048,PSV,Sony Computer Entertainment  ,Studio Liverpool  ,,,0.13,0.19,,0.06,0.38,2012,Racing
+7156,Evil Dead: Fistfull of Boomstick,PS2,THQ  ,VIS Entertainment  ,,,0.19,0.15,,0.05,0.38,2003,Action
+7157,Dance Party: Pop Hits,Wii,Nordic Games  ,Broadsword Interactive  ,,,,0.36,,0.02,0.38,2009,Misc
+7158,Metal Gear Solid HD Collection,X360,Konami  ,Bluepoint Games  ,9.2,,0.25,0.1,,0.03,0.38,2011,Action
+7159,Triple Play 97,PS,Electronic Arts  ,EA Sports  ,,,0.21,0.15,,0.03,0.38,1996,Sports
+7160,"Cook, Serve, Delicious!",PC,Vertigo Gaming Inc.  ,Vertigo Gaming Inc.  ,,,,,,,,2013,Simulation
+7161,Super Soccer,SNES,Nintendo  ,Human Entertainment  ,,,,,0.38,,0.38,1992,Sports
+7162,Marvel: Ultimate Alliance,PS3,Activision  ,Raven Software  ,7.7,,0.33,0.02,,0.03,0.38,2006,Role-Playing
+7163,Wario Land II (GBC),GB,Nintendo  ,Nintendo R&D1  ,,,,,0.38,,0.38,1999,Platform
+7164,San Francisco Rush: Extreme Racing,PS,Midway Games  ,Climax Entertainment  ,,,0.21,0.15,,0.03,0.38,1998,Racing
+7165,Diner Dash: Sizzle & Serve,DS,Eidos Interactive  ,GameLab / PlayFirst  ,,,0.33,0.02,,0.03,0.38,2007,Puzzle
+7166,GRID 2,PS3,Codemasters  ,Unknown  ,,,0.07,0.25,0.01,0.06,0.38,2013,Misc
+7167,Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi,PS,Human Entertainment  ,Human Entertainment  ,,,,,0.36,0.03,0.38,1998,Racing
+7168,Yoshi Touch & Go,DS,Nintendo  ,Nintendo EAD  ,,,0.34,0.02,,0.03,0.38,2005,Platform
+7169,Viking: Battle for Asgard,PS3,Sega  ,The Creative Assembly  ,6.6,,0.14,0.18,,0.07,0.38,2008,Action
+7170,Wii Sports Club,WiiU,Nintendo  ,Nintendo  ,6.7,,0.17,0.14,0.04,0.03,0.38,2014,Sports
+7171,NCAA Football 08,PS3,Electronic Arts  ,EA Tiburon  ,,,0.35,,,0.03,0.38,2007,Sports
+7172,ESPN College Hoops 2K5,XB,Sega  ,Visual Concepts  ,,,0.29,0.08,,0.01,0.38,2004,Sports
+7173,Naruto: Clash of Ninja Revolution 2,Wii,Tomy Corporation  ,8ing/Raizing  ,,,0.34,0.02,,0.03,0.38,2008,Fighting
+7174,Looney Tunes: Acme Arsenal,PS2,Warner Bros. Interactive  ,Red Tribe  ,,,0.19,0.15,,0.05,0.38,2007,Action
+7175,Wolfenstein: The New Order,X360,Bethesda Softworks  ,MachineGames  ,,,0.18,0.17,,0.03,0.38,2014,Shooter
+7176,Junior Classic Games,DS,Take-Two Interactive  ,Uacari  ,,,0.26,0.09,,0.03,0.38,2009,Misc
+7177,The Cat in the Hat,GBA,Jack of All Games  ,NewKidCo  ,,,0.27,0.1,,0.01,0.38,2005,Platform
+7178,Raving Rabbids: Travel in Time 3D,3DS,Ubisoft  ,Ubisoft Paris  ,5.8,,0.11,0.24,,0.04,0.38,2011,Platform
+7179,NFL GameDay 2002,PS2,Sony Computer Entertainment  ,Red Zone Entertainment  ,,,0.19,0.15,,0.05,0.38,2001,Sports
+7180,Turok: Evolution,GC,Acclaim Entertainment  ,Acclaim Studios Austin  ,7.4,,0.3,0.08,,0.01,0.38,2002,Shooter
+7181,Jam Sessions: Sing and Play Guitar (US sales),DS,Ubisoft  ,Plato  ,,,0.38,0.0,,,0.38,2007,Misc
+7182,Mobile Suit Gundam: Giren no Yabou Zeon Dokuritsu Sensouden,PS2,Bandai  ,Bandai  ,,,,,0.38,,0.38,2002,Strategy
+7183,Ice Age,GBA,Ubisoft  ,A2M  ,4.2,,0.27,0.1,,0.01,0.38,2002,Action
+7184,Naruto Shippuden: Ultimate Ninja Heroes 3,PSP,Namco Bandai  ,CyberConnect2  ,,,0.13,0.04,0.19,0.03,0.38,2010,Fighting
+7185,Just Dance 4,WiiU,Ubisoft  ,Ubisoft  ,,,0.21,0.14,,0.03,0.38,2012,Music
+7186,Sega Superstars Tennis,PS2,Sega  ,Sumo Digital  ,6.9,,0.1,0.0,,0.28,0.38,2008,Sports
+7187,Headhunter,PS2,Sega  ,Amuze  ,,,0.19,0.15,,0.05,0.38,2002,Action
+7188,Lego Marvel Super Heroes: Universe in Peril,DS,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.22,0.13,,0.03,0.38,2013,Action
+7189,Shin Megami Tensei: Devil Summoner,SAT,Atlus  ,Atlus Co.  ,,,,,0.38,,0.38,1995,Role-Playing
+7190,Brunswick Pro Bowling,Wii,Crave Entertainment  ,Point of View  ,,,0.35,0.01,,0.03,0.38,2007,Sports
+7191,Marvel Nemesis: Rise of the Imperfects,GC,Electronic Arts  ,Nihilistic Software  ,6.0,,0.3,0.08,,0.01,0.38,2005,Fighting
+7192,Saints Row: The Third,PC,THQ  ,Volition Inc.  ,8.3,,0.16,0.16,,0.05,0.38,2011,Action
+7193,ESPN Extreme Games,PS,Sony Computer Entertainment  ,Sony Interactive Studios America  ,,,0.11,0.08,0.17,0.03,0.38,1995,Sports
+7194,Ghost Trick: Phantom Detective,DS,Capcom  ,Capcom  ,8.2,,0.17,0.08,0.12,0.02,0.38,2011,Adventure
+7195,Ninja: Shadow of Darkness,PS,Eidos Interactive  ,Unknown  ,,,0.21,0.14,,0.02,0.38,1998,Action
+7196,SD Gundam G Generation-F,PS,Bandai  ,Bandai  ,,,,,0.36,0.02,0.38,2000,Strategy
+7197,Bratz: Rock Angelz,PS2,THQ  ,Blitz Games  ,,,0.19,0.15,,0.05,0.38,2005,Misc
+7198,FlatOut,PS2,Empire Interactive  ,Bugbear Entertainment  ,,,0.19,0.15,,0.05,0.38,2005,Racing
+7199,Ice Age: Dawn of the Dinosaurs,DS,Activision  ,Artificial Mind and Movement  ,5.0,,0.2,0.15,,0.04,0.38,2009,Platform
+7200,Phoenix Wright: Ace Attorney - Dual Destinies,3DS,Unknown  ,Capcom  ,8.1,,,,0.38,,0.38,2014,Misc
+7201,Iron Man 2,PSP,Sega  ,"Sega Studios, San Francisco  ",,,0.18,0.13,,0.08,0.38,2010,Action
+7202,SSX 3,GC,EA Sports BIG   ,EA Canada  ,9.5,,0.29,0.08,,0.01,0.38,2003,Sports
+7203,NCAA Football 11,PS2,EA Sports  ,EA Tiburon  ,6.4,,0.19,0.15,,0.05,0.38,2010,Sports
+7204,Sesame Street: Elmo's A-to-Zoo Adventure,Wii,Warner Bros. Interactive  ,Black Lantern Studios  ,,,0.35,,,0.03,0.38,2010,Misc
+7205,Disney's Lilo & Stitch 2: Hamsterveil Havoc,GBA,Buena Vista  ,Climax  ,,,0.27,0.1,,0.01,0.38,2004,Action
+7206,FIFA 13,PSP,EA Sports  ,EA Canada  ,,,0.06,0.22,0.02,0.08,0.38,2012,Sports
+7207,Rayman Legends,XOne,Ubisoft  ,Ubisoft Montpellier  ,,,0.13,0.22,,0.03,0.38,2014,Platform
+7208,Risk: Global Domination,PS2,Atari  ,Cyberlore Studios  ,,,0.19,0.15,,0.05,0.38,2003,Strategy
+7209,Bloody Trapland,PC,Unknown  ,2Play  ,,,,,,,,N/A,Platform
+7210,Tamagotchi Connection: Corner Shop 3,DS,Namco Bandai  ,NanaOn-Sha  ,,,0.06,0.0,0.31,0.01,0.38,2008,Simulation
+7211,Tales of Hearts R,PSV,Namco Bandai Games  ,7thChord  ,,,0.11,0.12,0.09,0.07,0.38,2014,Role-Playing
+7212,Mobile Suit Gundam version 2.0,PS,Bandai  ,Unknown  ,,,,,0.36,0.02,0.38,1996,Action
+7213,Grandia Xtreme,PS2,Enix  ,Game Arts  ,6.7,,0.07,0.05,0.25,0.02,0.38,2002,Role-Playing
+7214,Virtua Tennis 2009,PS3,Sega  ,Sumo Digital  ,6.6,,0.09,0.22,,0.06,0.38,2009,Sports
+7215,Silent Scope,PS2,Konami  ,KCET  ,,,0.19,0.15,,0.05,0.38,2000,Shooter
+7216,Dragon Quest & Final Fantasy in Itadaki Street Special,PS2,Square Enix  ,Paon  ,,,,,,,,2004,Misc
+7217,Ennichi no Tatsujin,Wii,Namco Bandai  ,Namco Bandai Games  ,,,,,0.1,,0.1,2006,Misc
+7218,Final Fantasy Adventure,GB,Square  ,Square  ,9.0,,,,0.38,,0.38,1991,Adventure
+7219,Dora The Explorer: Dora Saves the Snow Princess,PS2,2K Play  ,High Voltage Software  ,,,0.19,0.15,,0.05,0.38,2008,Platform
+7220,The Incredible Hulk,PS2,Sega  ,Edge of Reality  ,,,0.32,0.01,,0.05,0.38,2008,Action
+7221,Mercenaries 2: World in Flames,PS2,Electronic Arts  ,Pi Studios  ,,,0.21,0.0,0.0,0.17,0.38,2008,Shooter
+7222,FIFA 14,PC,EA Sports  ,EA Canada  ,,,0.01,0.35,,0.02,0.38,2013,Sports
+7223,Tokimeki Memorial: Forever with You,SAT,Konami  ,Konami  ,,,,,0.38,,0.38,1996,Simulation
+7224,MediEvil II,PS,Sony Computer Entertainment  ,SCEE  ,,,0.21,0.14,,0.02,0.38,2000,Adventure
+7225,Hunter: The Reckoning,XB,Interplay  ,High Voltage Software  ,7.8,,0.28,0.08,,0.01,0.38,2002,Action
+7226,MX vs. ATV Untamed,PS2,THQ  ,Rainbow Studios  ,,,0.32,0.01,,0.05,0.38,2007,Racing
+7227,The Vanishing of Ethan Carter,PC,The Astronauts  ,The Astronauts  ,8.7,,,,,,,2014,Adventure
+7228,Rogue Trip: Vacation 2012,PS,GT Interactive  ,SingleTrac  ,,,0.21,0.14,,0.02,0.38,1998,Racing
+7229,Dai-4-Ji Super Robot Taisen,SNES,Banpresto  ,Banpresto  ,,,,,0.38,,0.38,1995,Strategy
+7230,Just Dance 2016,XOne,Ubisoft  ,Ubisoft Paris  ,,,0.3,0.04,,0.04,0.38,2015,Music
+7231,Castlevania: Lords of Shadow - Ultimate Edition,PC,Unknown  ,Mercury Steam  ,,,,,,,,N/A,Action-Adventure
+7232,Cabela's Dangerous Hunts 2009,Wii,Activision  ,Activision  ,,,0.35,,,0.03,0.38,2008,Sports
+7233,Scribblenauts: Unlimited,WiiU,Warner Bros. Interactive Entertainment  ,5TH Cell  ,7.0,,0.25,0.1,,0.04,0.38,2012,Puzzle
+7234,Pro Evolution Soccer 2011 3D,3DS,Konami  ,Konami  ,7.5,,0.11,0.13,0.11,0.02,0.38,2011,Sports
+7235,Persona 4: Dancing All Night,PSV,Atlus  ,Dingo Inc.  ,,,0.12,0.04,0.16,0.05,0.38,2015,Music
+7236,Pokémon Channel,GC,Nintendo  ,Ambrella  ,5.2,,0.24,0.06,0.07,0.01,0.38,2003,Adventure
+7237,NBA 2K7,PS3,2K Sports  ,Visual Concepts  ,8.1,,0.3,0.04,,0.03,0.38,2006,Sports
+7238,Need for Speed: Nitro,DS,Electronic Arts  ,EA Montreal  ,7.2,,0.21,0.13,,0.04,0.38,2009,Racing
+7239,The Dog Island,Wii,Ubisoft  ,Yuke's Media Creations  ,,,0.34,0.01,,0.03,0.38,2008,Adventure
+7240,Rebel Galaxy,PC,Double Damage Games  ,Double Damage Games  ,,,,,,,,2016,Simulation
+7241,Tiger Woods PGA Tour 08,PSP,Electronic Arts  ,EA Tiburon  ,7.5,,0.14,0.15,,0.09,0.38,2007,Sports
+7242,Moto Racer World Tour,PS,Infogrames  ,Delphine Software International  ,,,0.21,0.14,,0.02,0.38,2000,Racing
+7243,Hatsune Miku: Project Mirai DX,3DS,Sega  ,Sega  ,7.5,,0.2,0.04,0.11,0.03,0.38,2015,Misc
+7244,NCAA Final Four 2000,PS,989 Sports  ,989 Sports  ,,,0.21,0.14,,0.02,0.38,1999,Sports
+7245,Devil May Cry HD Collection,X360,Capcom  ,Capcom  ,,,0.28,0.11,0.01,0.04,0.44,2012,Action
+7246,Cogs,PC,Lazy 8 Studios  ,Lazy 8 Studios  ,7.5,,,,,,,2009,Puzzle
+7247,Madagascar: Escape 2 Africa,PS2,Activision  ,Idol Minds  ,,,0.12,0.0,,0.26,0.38,2008,Action
+7248,Doom (2016),PC,Bethesda Softworks  ,id Software  ,,,0.11,0.24,,0.03,0.38,2016,Shooter
+7249,Scooby-Doo! and the Spooky Swamp,DS,Warner Bros. Interactive  ,Torus Games  ,,,0.25,0.1,,0.03,0.38,2010,Action
+7250,Dancing with the Stars: We Dance!,Wii,Activision  ,Zoe Mode  ,,,0.35,,,0.03,0.38,2008,Misc
+7251,Magic: The Gathering - Duels of the Planeswalkers 2012,PC,Wizards of the Coast  ,Stainless Games  ,8.0,,,,,,,2011,Strategy
+7252,Hangman,2600,Atari  ,Atari  ,,,0.35,0.02,,0.0,0.38,2078,Puzzle
+7253,Petz Rescue: Wildlife Vet,DS,Ubisoft  ,Virtual Toys / Lexis Numerique  ,,,0.35,0.0,,0.03,0.38,2008,Simulation
+7254,Paws & Claws: Pampered Pets,DS,THQ  ,Radon Labs GmbH  ,,,0.35,,,0.03,0.38,2009,Simulation
+7255,Guitar Hero Live,PS3,Activision  ,FreeStyleGames  ,,,0.16,0.16,,0.06,0.38,2015,Music
+7256,Imagine: Party Babyz,Wii,Ubisoft  ,Visual Impact  ,,,0.33,0.02,,0.03,0.38,2008,Simulation
+7257,Gravitar,2600,Atari  ,Atari  ,,,0.35,0.02,,0.0,0.38,1983,Action
+7258,This is the Police,PC,EuroVideo Medien  ,Weappy Studio  ,,,,,,,,2016,Simulation
+7259,FIFA 13,PC,EA Sports  ,EA Canada  ,,,0.02,0.32,,0.04,0.38,2012,Sports
+7260,EyeToy Play 2,PS2,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.18,0.14,,0.05,0.38,2005,Misc
+7261,Dance Dance Revolution Ultramix 3,XB,Konami  ,Konami Computer Entertainment Hawaii  ,,,0.28,0.08,,0.01,0.38,2005,Simulation
+7262,Monster Jam: Path of Destruction,DS,Activision  ,Virtuos  ,,,0.34,0.0,,0.03,0.38,2010,Racing
+7263,WWE SmackDown vs. Raw 2011,PS2,THQ  ,JAKKS Pacific  ,,,0.24,0.07,,0.07,0.38,2010,Fighting
+7264,Peppa Pig: The Game,Wii,Pinnacle  ,Asylum Entertainment  ,,,,0.34,,0.03,0.38,2009,Misc
+7265,Genital Jousting,PC,Unknown  ,Free Lives  ,,,,,,,,N/A,Action
+7266,Mountain,PC,Double Fine Productions  ,Double Fine Productions  ,,,,,,,,2014,Simulation
+7267,MLB 16: The Show,PS3,Sony Computer Entertainment America  ,SCE San Diego Studio  ,,,0.3,,,0.07,0.38,2016,Sports
+7268,Puppy Palace,DS,Ubisoft  ,Ubisoft  ,,,0.35,,,0.03,0.38,2008,Simulation
+7269,Harry Potter and the Prisoner of Azkaban,GC,Electronic Arts  ,Electronic Arts  ,,,0.29,0.08,,0.01,0.38,2004,Adventure
+7270,Bionic Commando,X360,Capcom  ,GRIN  ,7.1,8.0,0.12,0.12,0.01,0.03,0.28,2009,Adventure
+7271,The Golden Compass,PSP,Sega  ,Shiny Entertainment  ,2.8,,0.11,0.16,,0.1,0.37,2007,Adventure
+7272,NHL 15,PS3,EA Sports  ,EA Canada  ,,,0.22,0.09,,0.07,0.37,2014,Sports
+7273,LEGO Batman 2: DC Super Heroes,PSV,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.16,0.13,,0.08,0.37,2012,Action-Adventure
+7274,Petz Rescue: Ocean Patrol,DS,Ubisoft  ,Magic Pockets  ,,,0.35,,,0.03,0.37,2008,Adventure
+7275,Solaris,2600,Atari  ,Atari  ,,,0.35,0.02,,0.0,0.37,1986,Shooter
+7276,Life is Strange,PS4,Square Enix  ,DONTNOD Entertainment  ,,,0.11,0.16,0.05,0.05,0.37,2016,Adventure
+7277,NBA 2K10,Wii,2K Sports  ,Visual Concepts  ,5.1,,0.34,0.0,,0.03,0.37,2009,Sports
+7278,Batman: Arkham City Armored Edition,WiiU,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,8.6,,0.16,0.18,,0.03,0.37,2012,Action
+7279,EA Sports MMA,PS3,EA Sports  ,EA Tiburon  ,7.6,,0.16,0.14,0.01,0.06,0.37,2010,Fighting
+7280,Tobal 2,PS,Square  ,DreamFactory  ,,,,,0.35,0.02,0.37,1997,Fighting
+7281,Warriors Orochi 2,PS3,Tecmo Koei  ,Omega Force  ,,,,,0.37,,0.37,2012,Action
+7282,Tiger Woods PGA Tour 09,PS2,EA Sports  ,EA Tiburon  ,,,0.16,0.0,,0.21,0.37,2008,Sports
+7283,Ultimate Spider-Man,GC,Activision  ,Treyarch  ,,,0.29,0.07,,0.01,0.37,2005,Action
+7284,Major League Baseball 2K6,X360,2K Sports  ,Kush Games  ,6.3,,0.34,,,0.03,0.37,2006,Sports
+7285,NBA Inside Drive 2002,XB,Microsoft  ,High Voltage Software  ,,,0.28,0.08,,0.01,0.37,2002,Sports
+7286,Prince of Persia: The Forgotten Sands,PSP,Ubisoft  ,Quebec City  ,,,0.09,0.18,0.01,0.1,0.37,2010,Action
+7287,Minecraft,3DS,Nintendo  ,Other Ocean Interactive  ,6.7,,0.33,,,0.04,0.37,2017,Misc
+7288,Firewall: Zero Hour,PS4,Sony Interactive Entertainment  ,First Contact Entertainment Inc.  ,,,0.14,0.16,0.02,0.06,0.37,2018,Shooter
+7289,Kileak: The DNA Imperative,PS,Sony Computer Entertainment  ,Genki  ,,,0.08,0.06,0.21,0.02,0.37,1995,Shooter
+7290,Petz: Catz 2,PS2,Ubisoft  ,Yuke's Media Creations  ,,,0.18,0.14,,0.05,0.37,2007,Simulation
+7291,ZhuZhu Pets: Featuring The Wild Bunch,Wii,Activision  ,Black Lantern Studios  ,,,0.31,0.03,,0.03,0.37,2010,Simulation
+7292,Resident Evil: Origins Collection,PS4,Capcom  ,Capcom  ,,,0.07,0.18,0.07,0.05,0.37,2016,Action-Adventure
+7293,Cabela's Big Game Hunter 2012,Wii,Activision  ,Activision  ,,,0.33,0.02,,0.02,0.37,2011,Sports
+7294,Go Vacation,NS,Nintendo  ,Bandai Namco Studios  ,,,0.12,0.22,0.01,0.03,0.37,2018,Misc
+7295,Kingdom Under Fire: Circle of Doom,X360,Microsoft  ,Blue Side  ,,,0.18,0.12,0.04,0.04,0.37,2008,Role-Playing
+7296,"Monsters, Inc. Scream Arena",GC,THQ  ,Radical Entertainment  ,3.8,,0.29,0.07,,0.01,0.37,2002,Platform
+7297,Reel Fishing III,PS2,Natsume  ,Natsume  ,,,0.18,0.14,,0.05,0.37,2003,Sports
+7298,Quake 4,X360,Activision  ,id Software / Raven Software  ,7.3,,0.32,0.02,,0.03,0.37,2005,Shooter
+7299,Guitar Hero On Tour: Modern Hits,DS,Activision  ,Activision  ,7.3,,0.13,0.2,,0.04,0.37,2009,Misc
+7300,Trivial Pursuit,X360,Electronic Arts  ,Adrenalin Interactive  ,,,0.12,0.21,,0.04,0.37,2009,Misc
+7301,Cabela's Deer Hunt 2005 Season,PS2,Activision  ,Sand Grain Studios  ,,,0.18,0.14,,0.05,0.37,2004,Sports
+7302,Disgaea 5,All,NIS America  ,Nippon Ichi Software  ,,,,,,,,2015,Role-Playing
+7303,Skate,PS3,Electronic Arts  ,EA Black Box  ,,,0.29,0.04,0.0,0.03,0.37,2007,Sports
+7304,Rampage: Total Destruction,PS2,Midway Games  ,"Pipeworks Software, Inc.  ",,,0.18,0.14,,0.05,0.37,2006,Action
+7305,High Heat Major League Baseball 2003,PS2,3DO  ,3DO  ,,,0.18,0.14,,0.05,0.37,2002,Sports
+7306,Super Formation Soccer 94,SNES,Human Entertainment  ,Human Entertainment  ,,,,,0.37,,0.37,1994,Sports
+7307,Rec Room Games,Wii,Destineer  ,Arcade Moon  ,,,0.35,,,0.03,0.37,2009,Sports
+7308,Middle-Earth: Shadow of Mordor,PC,Warner Bros. Interactive Entertainment  ,Monolith Productions  ,,,0.14,0.2,,0.03,0.37,2014,Action
+7309,Revolution Ace,PC,Unknown  ,Unknown  ,,,,,,,,2014,Misc
+7310,AI War: Fleet Command,PC,"Arcen Games, LLC  ",Arcen Games  ,,,,,,,,2009,Strategy
+7311,Panzer Dragoon,SAT,Sega  ,Team Andromeda  ,,,,,0.37,,0.37,1995,Shooter
+7312,Streets of Rogue,PC,Unknown  ,Matt Dabrowski  ,,,,,,,,N/A,Action-Adventure
+7313,Burnout Paradise Remastered,PS4,Electronic Arts  ,Stellar Entertainment  ,8.0,,0.08,0.22,0.01,0.06,0.37,2018,Racing
+7314,Spider-Man: Friend or Foe,PS2,Activision  ,Next Level Games  ,5.4,,0.31,0.01,,0.05,0.37,2007,Action
+7315,Yarudora Series Vol.1: Double Cast,PS,Sony Computer Entertainment  ,Sugar & Rockets  ,,,,,0.35,0.02,0.37,1998,Adventure
+7316,Thief,PS3,Square Enix  ,Eidos Montreal  ,,,0.1,0.19,0.03,0.06,0.37,2014,Action
+7317,Dynasty Warriors 9,PS4,Tecmo Koei  ,Omega Force  ,,,0.1,0.06,0.17,0.03,0.37,2018,Action
+7318,DiRT 2,Wii,Codemasters  ,Codemasters  ,4.6,,0.1,0.23,,0.04,0.37,2009,Racing
+7319,Never Alone,PC,E-Line Media  ,Unknown  ,,,,,,,,2014,Misc
+7320,Death Rally (Remake),PC,Nordic Games  ,Unknown  ,,,,,,,,2012,Misc
+7321,Imagine: Salon Stylist,DS,Ubisoft  ,Playbox Limited  ,,,0.23,0.11,,0.03,0.37,2009,Simulation
+7322,Fushigi no Dungeon: Furai no Shiren 2 - Oni Shuurai! Shiren Shiro!,N64,ChunSoft  ,ChunSoft  ,,,,,0.32,0.05,0.37,2000,Role-Playing
+7323,Naruto: Ultimate Ninja Heroes,PSP,Namco Bandai  ,CyberConnect2  ,7.0,,0.26,0.0,,,0.26,2007,Fighting
+7324,Phantasy Star Portable 2: Infinity,PSP,Sega  ,Alfa System  ,,,,,0.37,,0.37,2011,Role-Playing
+7325,Scooby-Doo! Classic Creep Capers,N64,THQ  ,Terraglyph Interactive Studios  ,,,0.3,0.06,,0.0,0.37,2000,Action
+7326,SD Gundam G Generation Wars,All,Bandai Namco Games  ,Tom Create  ,,,,,,,,2009,Role-Playing
+7327,Shovel Knight,NS,Yacht Club Games  ,Yacht Club Games  ,9.0,,,,,,,2019,Platform
+7328,Super Street Fighter IV: Arcade Edition,X360,Capcom  ,Capcom / Dimps Corporation  ,8.6,,0.12,0.03,0.03,0.01,0.19,2011,Fighting
+7329,The World Ends With You,DS,Square Enix  ,Square Enix  ,8.6,,0.49,0.04,0.21,0.04,0.78,2008,Role-Playing
+7330,Turok: Rage Wars,N64,Acclaim Entertainment  ,Acclaim Studios Austin  ,,,0.3,0.06,,0.0,0.37,1999,Shooter
+7331,Dragonfire,2600,Imagic  ,Imagic  ,,,0.35,0.02,,0.0,0.37,1982,Action
+7332,Custom Robo,GC,Nintendo  ,Noise Inc.  ,,,0.29,0.07,,0.01,0.37,2004,Fighting
+7333,Yakuza: Kiwami 2,PS4,Sega  ,Sega  ,,,0.08,0.06,0.19,0.03,0.37,2018,Action
+7334,Shin Megami Tensei IV: Apocalypse,3DS,Atlus  ,Atlus  ,8.1,,0.15,0.05,0.16,0.02,0.37,2016,Role-Playing
+7335,Vampyr,PS4,Focus Home Interactive  ,DONTNOD Entertainment  ,,8.5,0.12,0.19,,0.06,0.37,2018,Role-Playing
+7336,Juiced 2: Hot Import Nights,PSP,THQ  ,Juice Games  ,,,0.06,0.2,,0.11,0.37,2007,Racing
+7337,Long Live The Queen,PC,Fabio Ricci  ,Unknown  ,,,,,,,,2013,Misc
+7338,Defiance,PS3,Trion Worlds  ,Trion Worlds  ,,,0.19,0.12,,0.06,0.37,2013,Action
+7339,Planet Explorers,PC,Unknown  ,Pathea Games  ,,,,,,,,N/A,Sandbox
+7340,Dungeon Siege III,X360,Square Enix  ,Obsidian Entertainment  ,7.2,,0.21,0.12,0.01,0.03,0.37,2011,Role-Playing
+7341,Need for Speed: Hot Pursuit,PC,Electronic Arts  ,Criterion Games  ,8.9,,0.12,0.2,,0.05,0.37,2010,Racing
+7342,Virtua Tennis 2009,Wii,Sega  ,Sumo Digital  ,7.3,,0.12,0.21,,0.04,0.37,2009,Sports
+7343,Pac-Man World 2,GC,Namco  ,Namco  ,7.5,,0.28,0.07,,0.01,0.37,2002,Platform
+7344,Kotoba no Puzzle: Mojipittan DS,DS,Namco Bandai  ,Bandai Namco Games  ,,,,,0.37,,0.37,2007,Puzzle
+7345,Tomb Raider: Legend,X360,Eidos Interactive  ,Crystal Dynamics  ,8.1,,0.27,0.07,0.01,0.03,0.37,2006,Action
+7346,Clustertruck,PC,TinyBuild Games  ,Landfall  ,,,,,,,,2016,Misc
+7347,Overlord: Dark Legend,Wii,Codemasters  ,Climax Group  ,7.0,,0.11,0.22,,0.04,0.37,2009,Adventure
+7348,WWE 2K17,PS3,2K Games  ,Yuke's  ,,,0.11,0.19,,0.06,0.37,2016,Sports
+7349,Hell's Kitchen: The Game,DS,Ubisoft  ,Ludia Inc.  ,,,0.34,0.0,,0.03,0.37,2008,Simulation
+7350,The BIGS,Wii,2K Sports  ,Blue Castle Games  ,,,0.34,0.0,,0.03,0.37,2007,Sports
+7351,Barbie Horse Adventures: Blue Ribbon Race,GBA,Knowledge Adventure  ,Mobius Entertainment  ,,,0.26,0.1,,0.01,0.37,2003,Sports
+7352,The Legend of Spyro: A New Beginning,DS,Sierra Entertainment  ,Amaze Entertainment  ,7.1,,0.33,0.01,,0.03,0.37,2006,Platform
+7353,Rune Factory: Frontier,Wii,Xseed Games  ,Neverland Company  ,7.9,,0.16,0.13,0.04,0.03,0.37,2009,Role-Playing
+7354,The Last of Us Part I,PC,PlayStation PC  ,Naughty Dog  ,,,,,,,,2023,Action-Adventure
+7355,Dawn of Discovery,PC,Ubisoft  ,Related Designs  ,8.4,,,0.32,,0.05,0.37,2009,Simulation
+7356,Slime MoriMori Dragon Quest: Shougeki No Shippo Dan,GBA,Square Enix  ,TOSE Software  ,,,,,0.36,0.01,0.37,2003,Adventure
+7357,Party Hard,PC,Unknown  ,TinyBuild Games  ,,,,,,,,N/A,Action
+7358,The Legend of Spyro: The Eternal Night,DS,Sierra Entertainment  ,Amaze Entertainment  ,,,0.32,0.02,,0.03,0.37,2007,Platform
+7359,Rage,PC,Bethesda Softworks  ,id Software  ,7.8,,0.14,0.18,,0.05,0.37,2011,Shooter
+7360,Harry Potter and the Order of the Phoenix,PSP,Electronic Arts  ,EA UK  ,4.8,,0.1,0.17,,0.1,0.37,2007,Adventure
+7361,NFL Street 2 Unleashed,PSP,Electronic Arts  ,EA Tiburon  ,7.4,,0.34,,,0.03,0.37,2005,Sports
+7362,Super Robot Taisen EX,SNES,Banpresto  ,WinkySoft  ,,,,,0.37,,0.37,1994,Strategy
+7363,SteamWorld Dig: A Fistful of Dirt,PC,Image & Form Games  ,Image & Form Games  ,,,,,,,,2013,Platform
+7364,Sonic Lost World,WiiU,Sega  ,Sonic Team  ,6.0,,0.2,0.13,0.01,0.03,0.37,2013,Platform
+7365,FIFA Street 2,PS2,EA Sports BIG   ,EA Canada  ,,,0.17,0.13,0.02,0.04,0.37,2006,Sports
+7366,Mini Ninjas,Wii,Eidos Interactive  ,IO Interactive  ,7.6,,0.16,0.17,,0.04,0.37,2009,Action
+7367,Fragile Dreams: Farewell Ruins of the Moon,Wii,Xseed Games  ,Tri-Crescendo  ,6.7,,0.16,0.12,0.06,0.03,0.37,2010,Role-Playing
+7368,Naruto Shippuden: Ninja Destiny 2,DS,Tomy Corporation  ,Dream Factory  ,,,0.19,0.03,0.13,0.02,0.37,2009,Fighting
+7369,The House of the Dead: Overkill - Extended Cut,PS3,Sega  ,Headstrong Games  ,7.2,,0.15,0.16,,0.05,0.37,2011,Shooter
+7370,Bottom of the 9th,N64,Konami  ,Konami Computer Entertainment Osaka  ,,,0.37,,,0.0,0.37,1999,Sports
+7371,Dreamworks Madagascar Kartz,DS,Activision  ,Virtuos  ,,,0.25,0.08,,0.03,0.37,2009,Racing
+7372,Shin Megami Tensei II,SNES,Atlus  ,Atlus Co.  ,,,,,0.37,0.0,0.37,1994,Role-Playing
+7373,Rise of the Tomb Raider,X360,Square Enix  ,Crystal Dynamics  ,,,0.21,0.12,,0.03,0.37,2015,Adventure
+7374,Wanted: Weapons of Fate,X360,Warner Bros. Interactive  ,GRIN  ,6.2,,0.17,0.15,0.0,0.04,0.37,2009,Shooter
+7375,Virtua Fighter 3tb,DC,Sega  ,Sega  ,8.1,,,,0.37,0.0,0.37,1999,Fighting
+7376,Princess.Loot.Pixel.Again,PC,Unknown  ,EfimovMax  ,,,,,,,,N/A,Platform
+7377,Mini-Yonku GB: Let's & Go!!,GB,ASCII Entertainment  ,Jupiter Multimedia  ,,,,,0.37,0.0,0.37,1997,Strategy
+7378,Marvel: Ultimate Alliance,PSP,Activision  ,Vicarious Visions  ,8.5,,0.33,0.0,,0.03,0.37,2006,Role-Playing
+7379,Castlevania: Order of Ecclesia,DS,Konami  ,Konami  ,8.2,9.2,0.27,0.03,0.04,0.03,0.37,2008,Platform
+7380,Green Day: Rock Band,Wii,MTV Games  ,Harmonix Music Systems  ,,,0.22,0.12,,0.03,0.37,2010,Misc
+7381,"999: Nine Hours, Nine Persons, Nine Doors",DS,Aksys Games  ,Spike  ,7.9,,0.31,,0.03,0.02,0.37,2010,Adventure
+7382,NCAA Football 07,PSP,Electronic Arts  ,EA Sports  ,7.6,,0.34,,,0.03,0.37,2006,Sports
+7383,The Sims 2: Castaway,PS2,Electronic Arts  ,Maxis  ,,,0.3,0.01,,0.05,0.37,2007,Simulation
+7384,Destiny 2: Forsaken,PS4,Activision  ,Bungie  ,,,0.19,0.11,,0.06,0.36,2018,Shooter
+7385,SAW,PS3,Konami  ,Zombie Studios  ,6.0,,0.13,0.17,,0.06,0.36,2009,Action
+7386,NBA Live 2003,XB,EA Sports  ,EA Canada  ,,,0.31,0.04,,0.01,0.36,2002,Sports
+7387,GoldenEye: Rogue Agent,GC,Electronic Arts  ,Dreamworks Games  ,5.9,,0.28,0.07,,0.01,0.36,2004,Shooter
+7388,Medieval II: Total War Gold Edition,PC,Sega  ,The Creative Assembly  ,,,,0.34,,0.03,0.36,2008,Strategy
+7389,ESPN: Sports Connection,WiiU,Ubisoft  ,Ubisoft Barcelona  ,3.0,,0.2,0.13,,0.03,0.36,2012,Sports
+7390,Zero4 Champ RR,SNES,Media Rings  ,Media Rings  ,,,,,0.36,,0.36,1994,Sports
+7391,Build-A-Bear Workshop: A Friend Fur All Seasons,Wii,Game Factory  ,Neko Entertainment  ,,,0.33,0.0,,0.03,0.36,2008,Simulation
+7392,Dragon Ball Z: Infinite World,PS2,Atari  ,Dimps Corporation  ,,,0.08,0.06,0.21,0.02,0.36,2008,Fighting
+7393,Okami HD,PS4,Capcom  ,Clover Studio  ,,,0.16,0.12,0.03,0.06,0.36,2017,Action
+7394,Grey Goo,PC,Grey Box  ,Petroglyph Games  ,,,,,,,,2015,Strategy
+7395,Need for Speed: The Run,PC,Electronic Arts  ,EA Black Box  ,,,0.09,0.21,,0.07,0.36,2011,Racing
+7396,Nonomura Byoin no Hitobito,SAT,Elf  ,Elf  ,,,,,0.36,0.0,0.36,1996,Adventure
+7397,ESPN X Games Skateboarding,PS2,Konami  ,Konami Computer Entertainment Osaka  ,,,0.18,0.14,,0.05,0.36,2001,Sports
+7398,Dynasty Warriors 8: Xtreme Legends,PC,Unknown  ,Koei Tecmo Games  ,,,,,,,,N/A,Action
+7399,Naruto Shippuden: Ultimate Ninja Storm Revolution,PC,Namco Bandai Games  ,CyberConnect2  ,,,,0.0,,0.0,0.0,2014,Fighting
+7400,F1 2012,PC,Codemasters  ,Codemasters Birmingham  ,8.8,,0.01,0.11,,0.01,0.14,2012,Racing
+7401,Tekken Hybrid,PS3,Namco  ,Namco Bandai Games  ,4.0,,0.21,0.07,0.04,0.04,0.36,2011,Fighting
+7402,Super Fire ProWrestling Special,SNES,Human Entertainment  ,Human Club  ,,,,,0.36,,0.36,1994,Fighting
+7403,War for the Overworld,PC,Unknown  ,Unknown  ,,,,0.01,,0.0,0.02,2015,Misc
+7404,Yuu Yuu Hakusho,SNES,Namco  ,Namco  ,,,,,0.36,0.0,0.36,1993,Fighting
+7405,Tom Clancy's HAWX 2,X360,Ubisoft  ,Ubisoft Bucharest  ,,,0.24,0.09,0.01,0.03,0.36,2010,Action
+7406,Kamaitachi no Yoru 2,PS2,ChunSoft  ,ChunSoft  ,,,,,0.36,,0.36,2002,Adventure
+7407,High Heat Major League Baseball 2004,PS2,3DO  ,3DO  ,,,0.18,0.14,,0.05,0.36,2003,Sports
+7408,Robots,PS2,VU Games  ,Eurocom Entertainment Software  ,,,0.18,0.14,,0.05,0.36,2005,Adventure
+7409,NARC,PS2,Midway Games  ,Point of View  ,5.5,,0.18,0.14,,0.05,0.36,2005,Shooter
+7410,One Piece: Gigant Battle!,DS,Namco Bandai  ,Ganbarion  ,,,,,0.36,,0.36,2010,Fighting
+7411,Sniper: Ghost Warrior 3,PS4,City Interactive  ,City Interactive  ,,,0.14,0.15,0.03,0.06,0.36,2017,Shooter
+7412,My Horse & Me,DS,Atari  ,Mistic Software  ,,,0.33,0.0,,0.03,0.36,2008,Sports
+7413,Monster Rancher 3,PS2,Tecmo  ,Tecmo  ,,,0.11,0.09,0.14,0.03,0.36,2001,Simulation
+7414,The Incredibles: Rise of the Underminer,PS2,THQ  ,Heavy Iron Studios  ,6.1,,0.18,0.14,,0.05,0.36,2005,Action
+7415,MechWarrior 2: 31st Century Combat,PS,Activision  ,Quantum Factory  ,,,0.2,0.14,,0.02,0.36,1997,Simulation
+7416,Marvel Super Hero Squad,Wii,THQ  ,Blue Tongue  ,,,0.3,0.03,,0.03,0.36,2009,Adventure
+7417,The Chronicles of Narnia: Prince Caspian,Wii,Disney Interactive Studios  ,Traveller's Tales  ,,,0.31,0.02,,0.03,0.36,2008,Adventure
+7418,Hamtaro: Ham-Ham Heartbreak,GBA,Nintendo  ,Nintendo  ,8.0,,0.26,0.1,,0.01,0.36,2003,Action
+7419,Left 4 Dead 2,PC,Valve  ,Certain Affinity / Valve Software  ,9.0,,,0.32,,0.04,0.36,2009,Shooter
+7420,Just Dance 2016,X360,Ubisoft  ,Ubisoft Paris  ,,,0.26,0.06,,0.04,0.36,2015,Music
+7421,LocoRoco 2,PSP,Sony Computer Entertainment  ,SCE Japan Studio  ,8.5,,0.21,0.09,0.01,0.05,0.36,2009,Platform
+7422,Okage: Shadow King,PS2,Sony Computer Entertainment  ,Zener Works  ,,,0.14,0.11,0.08,0.04,0.36,2001,Role-Playing
+7423,Planetbase,PC,Unknown  ,Madruga Works  ,,,,,,,,N/A,Simulation
+7424,Mobile Suit Z-Gundam,PS,Bandai  ,Bandai  ,,,,,0.34,0.02,0.36,1997,Action
+7425,Cubix Robots for Everyone: Clash 'n' Bash,GBA,10TACLE Studios  ,Blitz Games  ,,,0.26,0.1,,0.01,0.36,2002,Action
+7426,BlazBlue: Calamity Trigger,X360,Aksys Games  ,Arc System Works  ,8.5,,0.21,0.08,0.04,0.03,0.36,2009,Fighting
+7427,Cossacks 3,PC,GSC Game World  ,GSC Game World  ,,,,0.02,,0.0,0.02,2016,Strategy
+7428,The Wonderful 101,WiiU,Nintendo  ,PlatinumGames  ,8.0,,0.15,0.11,0.08,0.02,0.36,2013,Action
+7429,Fist of The North Star: Lost Paradise,PS4,Sega  ,Sega  ,,,0.09,0.05,0.18,0.03,0.36,2018,Action
+7430,No Time To Explain Remastered,PC,Unknown  ,TinyBuild Games  ,,,,,,,,N/A,Action-Adventure
+7431,Kirby's Dream Land 3,SNES,Nintendo  ,HAL Laboratory  ,,,,,0.36,0.0,0.36,1997,Platform
+7432,Big Bass World Championship,PS,Hot-B  ,Unknown  ,,,0.2,0.14,,0.02,0.36,1997,Sports
+7433,NFL GameDay 2001,PS2,Sony Computer Entertainment  ,989 Sports  ,,,0.18,0.14,,0.05,0.36,2000,Sports
+7434,Tiny and Big: Grandpa's Leftovers,PC,Unknown  ,Black Pants Studio  ,,,,,,,,N/A,Platform
+7435,NBA 2K6,XB,2K Sports  ,Unknown  ,,,0.27,0.08,,0.01,0.36,2005,Action
+7436,Atelier Ryza 2: Lost Legends & the Secret Fairy,All,Koei Tecmo  ,Gust  ,,,,,,,,2021,Role-Playing
+7437,Jurassic Park,NES,Ocean  ,Ocean  ,,,0.25,0.1,,0.01,0.36,1993,Action
+7438,Mystical Ninja starring Goemon,N64,Konami  ,Konami Computer Entertainment Osaka  ,,,0.07,0.02,0.23,0.04,0.36,1998,Action
+7439,Saban's Power Rangers: Lightspeed Rescue,N64,THQ  ,Mass Media  ,,,0.29,0.06,,0.0,0.36,2000,Action
+7440,Tetrisphere,N64,Nintendo  ,H2O Interactive  ,,,0.29,0.06,,0.0,0.36,1997,Puzzle
+7441,Organ Trail,PC,Unknown  ,The Men Who Wear Many Hats LLC  ,,,,,,,,N/A,Action-Adventure
+7442,Toukiden,PSV,Tecmo Koei  ,Omega Force  ,,,0.04,0.05,0.25,0.03,0.36,2014,Action
+7443,TMNT,Wii,Ubisoft  ,Ubisoft Montreal  ,,,0.3,0.03,,0.03,0.36,2007,Action
+7444,The Last Hope,PC,Unknown  ,Atomic Fabrik  ,,,,,,,,N/A,Adventure
+7445,Assassin's Creed III,WiiU,Ubisoft  ,Ubisoft Montreal  ,7.7,,0.19,0.14,,0.03,0.36,2012,Action-Adventure
+7446,North American Hunting Extravaganza,Wii,Destineer  ,Arcade Moon  ,,,0.33,0.0,,0.03,0.36,2008,Sports
+7447,World's Scariest Police Chases,PS,Activision  ,UDS  ,,,0.2,0.14,,0.02,0.36,2001,Racing
+7448,Shaun Palmer's Pro Snowboarder,GBA,Activision  ,Natsume  ,,,0.26,0.1,,0.01,0.36,2001,Sports
+7449,Tiger Woods PGA Tour 09,PSP,EA Sports  ,EA Tiburon  ,5.2,,0.07,0.19,,0.1,0.36,2008,Sports
+7450,Nintendo Labo: Toy-Con 02 Robot Kit,NS,Nintendo  ,Nintendo EPD  ,7.0,,0.18,0.08,0.08,0.03,0.36,2018,Action
+7451,MechAssault 2: Lone Wolf,XB,Microsoft Game Studios  ,Day 1 Studios  ,,,0.27,0.08,,0.01,0.36,2004,Simulation
+7452,Bit.Trip Presents... Runner 2: Future Legend of Rhythm Alien,PC,Unknown  ,Unknown  ,,,,,,,,2013,Misc
+7453,Hamster Club 3,GBA,Jorudan  ,Jorudan  ,,,,,0.35,0.01,0.36,2002,Simulation
+7454,Breath of Fire II,SNES,Capcom  ,Capcom  ,8.3,,,,0.36,,0.36,1995,Role-Playing
+7455,LEGO Racers,PS,LEGO Media  ,High Voltage Software  ,,,0.2,0.14,,0.02,0.36,1999,Racing
+7456,Spider-Man: Shattered Dimensions,X360,Activision  ,Beenox Studios  ,8.2,,0.24,0.09,,0.03,0.36,2010,Action
+7457,ESPN NFL Football,XB,Sega  ,Visual Concepts  ,,,0.27,0.08,,0.01,0.36,2003,Sports
+7458,ATV/Monster Truck Mayhem,DS,"Destination Software, Inc  ",Destination  ,,,0.33,,,0.02,0.36,2007,Racing
+7459,Digging for Dinosaurs,DS,Scholastic Inc.  ,CokeM Interactive  ,,,0.33,,,0.03,0.36,2010,Action
+7460,Rapala Pro Fishing,PS2,Activision  ,Sand Grain Studios  ,,,0.18,0.14,,0.05,0.36,2004,Sports
+7461,Tiger Woods PGA Tour 14,X360,EA Sports  ,EA Tiburon  ,,,0.21,0.12,,0.03,0.36,2013,Sports
+7462,J-League Pro Soccer Club o Tsukurou '04,PS2,Sega  ,Smilebit  ,,,,,0.36,,0.36,2004,Sports
+7463,Dai-2-Ji Super Robot Taisen Z Saisei-hen,PSP,Namco Bandai Games  ,Banpresto  ,,,,,0.36,,0.36,2012,Strategy
+7464,Disney's The Haunted Mansion,PS2,TDK Mediactive  ,High Voltage Software  ,,,0.18,0.14,,0.05,0.36,2003,Platform
+7465,Arc the Lad: Twilight of the Spirits,PS2,Sony Computer Entertainment  ,Cattle Call  ,7.3,8.5,0.18,0.14,,0.05,0.36,2003,Role-Playing
+7466,Dance Dance Revolution 3rdMix,PS,Konami  ,KCET  ,,,,,0.33,0.02,0.36,2000,Simulation
+7467,Sentouchu: Densetsu no Shinobi to Survival Battle!,3DS,Namco Bandai Games  ,Bandai Namco Games  ,,,,,0.36,,0.36,2013,Action
+7468,Super Robot Taisen A,GBA,Banpresto  ,Banpresto  ,,,,,0.35,0.01,0.36,2001,Strategy
+7469,Earth Defense Force 2025,PS3,D3Publisher  ,Sandlot  ,,,0.04,0.03,0.27,0.01,0.36,2014,Shooter
+7470,Mega Man 11,NS,Capcom  ,Capcom  ,8.0,,0.29,,0.03,0.03,0.36,2018,Platform
+7471,LEGO Pirates of the Caribbean: The Video Game,PSP,Disney Interactive Studios  ,Traveller's Tales  ,6.8,,0.12,0.15,,0.08,0.36,2011,Action
+7472,G-Force,PSP,Disney Interactive Studios  ,Keen Games  ,7.0,,0.24,0.07,,0.05,0.36,2009,Action
+7473,Boxer's Road,PS,New  ,New Corporation  ,,,,,0.33,0.02,0.36,1995,Fighting
+7474,Frogs And Flies,2600,Mattel Interactive  ,Mattel  ,,,0.33,0.02,,0.0,0.36,1982,Action
+7475,Harry Potter and the Chamber of Secrets,XB,Electronic Arts  ,Eurocom Entertainment Software  ,,,0.27,0.08,,0.01,0.36,2002,Adventure
+7476,Toriko: Gourmet Survival!,PSP,Namco Bandai  ,Namco Bandai Games  ,,,,,0.36,,0.36,2011,Role-Playing
+7477,South Park Rally,PS,Acclaim Entertainment  ,Tantalus Interactive  ,3.9,,0.2,0.13,,0.02,0.36,1999,Racing
+7478,Ganbare Goemon 3: Shishi Jyuurokubei no Karakuri Manji Katame,SNES,Konami  ,Konami  ,,,,,0.36,,0.36,1994,Platform
+7479,SOCOM: Tactical Strike,PSP,Sony Computer Entertainment  ,Slant Six  ,7.1,,0.32,0.01,,0.03,0.36,2007,Shooter
+7480,Arctic Thunder,PS2,Midway Games  ,Inland Productions  ,,,0.17,0.14,,0.05,0.36,2001,Racing
+7481,Windward,PC,Unknown  ,Tasharen Entertainment Inc.  ,,,,,,,,N/A,Sandbox
+7482,NHL 2K10,PS2,2K Sports  ,Visual Concepts  ,,,0.17,0.14,,0.05,0.36,2009,Sports
+7483,Wonder Pets! Save the Animals!,DS,2K Play  ,Black Lantern Studios  ,,,0.33,0.0,,0.02,0.36,2008,Adventure
+7484,Really Big Sky,PC,Unknown  ,Boss Baddie  ,,,,,,,,N/A,Shooter
+7485,Kinectimals: Now with Bears!,X360,Microsoft Studios  ,Frontier Developments  ,,,0.27,0.06,,0.03,0.36,2011,Simulation
+7486,Harvest Moon: The Tale of Two Towns,3DS,Natsume  ,Marvelous Interactive  ,6.3,,0.28,0.0,0.05,0.02,0.36,2011,Simulation
+7487,J-League Pro Soccer Club o Tsukurou!,DC,Sega  ,Smilebit  ,,,,,0.36,0.0,0.36,1999,Sports
+7488,Sword Art Online: Lost Song,PS4,Namco Bandai Games  ,Namco Bandai Games  ,,,0.19,0.11,,0.06,0.36,2015,Role-Playing
+7489,Formula 1 Championship Edition,PS,Sony Computer Entertainment  ,Bizarre Creations  ,8.5,,0.06,0.04,0.23,0.02,0.36,1997,Racing
+7490,Trauma Center: Under the Knife,DS,Atlus  ,Atlus Co.  ,8.0,,0.3,0.01,0.02,0.03,0.36,2005,Simulation
+7491,Shrek,XB,TDK Mediactive  ,Digital Illusions  ,,,0.25,0.1,,0.01,0.36,2001,Platform
+7492,Hello Neighbor,PS4,Gearbox Software  ,Dynamic Pixels  ,,,0.13,0.16,,0.06,0.35,2018,Action
+7493,Football Manager Handheld 2010,PSP,Sega  ,Sports Interactive  ,6.0,,,0.27,,0.09,0.35,2009,Sports
+7494,Dark Void,PS3,Capcom  ,Airtight Games  ,6.1,,0.18,0.12,,0.05,0.35,2010,Action
+7495,NBA 2K17,X360,2K Sports  ,Visual Concepts  ,,,0.26,0.06,,0.04,0.35,2016,Sports
+7496,Blasto,PS,Sony Computer Entertainment  ,Unknown  ,4.6,,0.2,0.13,,0.02,0.35,1998,Action
+7497,U-Sing,Wii,Mindscape  ,Mindscape Inc.  ,,,,0.32,,0.03,0.35,2009,Misc
+7498,Backyard Baseball 2006,GBA,Atari  ,Game Brains  ,,,0.25,0.09,,0.01,0.35,2005,Sports
+7499,The Sims 4: City Living,PC,Electronic Arts  ,Maxis  ,,,0.03,0.3,,0.02,0.35,2016,Simulation
+7500,Press Your Luck 2010 Edition,Wii,Ubisoft  ,Ludia Inc.  ,,,0.33,,,0.03,0.35,2009,Misc
+7501,Disney Infinity,3DS,Disney Interactive Studios  ,Altron  ,,,0.22,0.11,,0.03,0.35,2013,Action-Adventure
+7502,Guitar Hero: Smash Hits,PS3,Activision  ,Neversoft Entertainment  ,7.4,,0.2,0.11,,0.05,0.35,2009,Misc
+7503,Cabela's Outdoor Adventures (2006),PS2,Activision  ,Sand Grain Studios  ,,,0.17,0.14,,0.05,0.35,2005,Sports
+7504,Slender: The Arrival,PC,Polytron Corporation  ,Unknown  ,,,,,,,,2013,Misc
+7505,Nicktoons: Unite!,GC,THQ  ,Blue Tongue  ,,,0.27,0.07,,0.01,0.35,2005,Adventure
+7506,Bloons TD 5,PC,Unknown  ,Ninja Kiwi  ,,,,,,,,N/A,Strategy
+7507,Suikoden V,PS2,Konami  ,Hudson Soft  ,7.9,,0.08,0.06,0.19,0.02,0.35,2006,Role-Playing
+7508,Picross 2,GB,Nintendo  ,Jupiter Multimedia  ,,,,,0.35,0.0,0.35,1996,Puzzle
+7509,Metro: Last Light,X360,Deep Silver  ,4a-games  ,,,0.17,0.15,0.0,0.03,0.35,2013,Shooter
+7510,Outlaw Golf 2,PS2,Global Star Software  ,Hypnotix  ,,,0.17,0.14,,0.05,0.35,2004,Sports
+7511,Momotarou Dentetsu 12,PS2,Hudson Soft  ,Hudson Soft  ,,,,,0.35,,0.35,2003,Misc
+7512,Skylanders SWAP Force,XOne,Activision  ,Unknown  ,,,0.25,0.07,,0.03,0.35,2013,Misc
+7513,Worms: Open Warfare 2,DS,THQ  ,Team17 Software / Two Tribes  ,,,0.07,0.24,,0.04,0.35,2007,Strategy
+7514,Call of Duty: Ghosts,WiiU,Activision  ,Infinity Ward  ,8.8,,0.22,0.09,0.01,0.03,0.35,2013,Shooter
+7515,Halo: Spartan Assault,PC,Microsoft Studios  ,Vanguard Games  ,,,,,,,,2013,Shooter
+7516,Dragon Ball Z: Extreme Butoden,3DS,Namco Bandai Games  ,Arc System Works  ,5.0,,0.13,0.03,0.17,0.02,0.35,2015,Fighting
+7517,Batman: Rise of Sin Tzu,PS2,Ubisoft  ,Ubisoft Montreal  ,,,0.17,0.13,,0.05,0.35,2003,Action
+7518,Disney's Tarzan: Return to the Jungle,GBA,Activision  ,Digital Eclipse  ,6.9,,0.25,0.09,,0.01,0.35,2002,Action
+7519,Cabela's Dangerous Hunts,XB,Activision  ,FUN Labs  ,,,0.26,0.08,,0.01,0.35,2003,Sports
+7520,AMF Bowling World Lanes,Wii,Bethesda Softworks  ,Vir2L Studios  ,,,0.33,,,0.03,0.35,2008,Sports
+7521,Timberman,PC,Unknown  ,Digital Melody  ,,,,,,,,N/A,Action
+7522,Toki Tori,PC,Two Tribes  ,Two Tribes  ,,,,,,,,2010,Puzzle
+7523,Jikkyou Powerful Pro Yakyuu 13,PS2,Konami  ,PawaPuro Production  ,,,,,0.35,,0.35,2006,Sports
+7524,NHL 2K10,Wii,2K Sports  ,Visual Concepts  ,8.2,,0.32,0.01,,0.03,0.35,2009,Sports
+7525,Mega Man X3,SNES,Capcom  ,Capcom  ,,,0.04,0.01,0.3,,0.35,1995,Platform
+7526,House Flipper,PC,Unknown  ,Empyrean  ,,,,,,,,N/A,Simulation
+7527,Stunt Race FX,SNES,Nintendo  ,Argonaut Games  ,,,,,0.35,,0.35,1994,Racing
+7528,Command & Conquer: Red Alert 3 Ultimate Edition,PS3,Electronic Arts  ,EA Los Angeles  ,7.4,,0.14,0.16,,0.06,0.35,2009,Strategy
+7529,Bloody Roar 3,PS2,Activision  ,Eighting / Raizing  ,,,0.15,0.11,0.05,0.04,0.35,2001,Fighting
+7530,WWE Crush Hour,PS2,THQ  ,Pacific Coast Power & Light  ,,,0.17,0.13,,0.04,0.35,2003,Racing
+7531,CSI: Deadly Intent - The Hidden Cases,DS,Ubisoft  ,Other Ocean Interactive  ,,,0.16,0.16,,0.04,0.35,2009,Adventure
+7532,EA Sports MMA,X360,EA Sports  ,EA Tiburon  ,7.7,,0.23,0.09,,0.03,0.35,2010,Fighting
+7533,Persona 2: Eternal Punishment,PS,Atlus  ,Atlus Co.  ,8.7,,0.03,0.02,0.28,0.02,0.35,2000,Role-Playing
+7534,Teenage Mutant Ninja Turtles: Smash-Up,Wii,Ubisoft  ,Game Arts  ,7.2,,0.33,0.0,,0.03,0.35,2009,Fighting
+7535,Transformers: Dark of the Moon,PS3,Activision  ,High Moon Studios  ,5.5,,0.11,0.18,,0.06,0.35,2011,Action
+7536,Star Wars: Flight of the Falcon,GBA,THQ  ,Pocket Studios  ,,,0.25,0.09,,0.01,0.35,2003,Action
+7537,Dead or Alive 5 Last Round,PS4,Tecmo Koei  ,Team Ninja  ,7.1,,0.09,0.13,0.09,0.04,0.35,2015,Fighting
+7538,Metal Gear Solid: The Twin Snakes,GC,Konami  ,Silicon Knights  ,8.1,,0.3,0.08,0.07,0.01,0.47,2004,Action
+7539,Titan Souls,PC,Devolver Digital  ,Acid Nerve  ,,,,,,,,2015,Action
+7540,Aces of the Pacific,PC,Sierra Entertainment  ,"Dynamix, Inc.  ",,,,,,,,1992,Simulation
+7541,Dead or Alive 6,All,Koei Tecmo  ,Team Ninja  ,,,,,,,,2019,Fighting
+7542,Dead to Rights: Retribution,All,Namco  ,Volatile Games  ,,,,,,,,2010,Action-Adventure
+7543,Dr. Brain,Series,Sierra Online   ,Sierra On-Line  ,,,,,,,,1991,Education
+7544,Dragon Ball Z: Budokai Tenkaichi 2 (JP sales),Wii,Unknown  ,Unknown  ,,,0.15,0.05,0.14,0.01,0.35,N/A,Action
+7545,Dragon Quest 25 Shuunen Kinin: Famicom & Super Famicom Dragon Quest I-II-III,Wii,Square Enix  ,Square Enix  ,,,,,0.47,,0.47,2011,Role-Playing
+7546,Drakengard,PS2,Square Enix  ,Cavia Inc.  ,,,0.19,0.15,0.26,0.05,0.65,2004,Role-Playing
+7547,Egypt 1156 B.C.: Tomb of the Pharaoh,All,Cryo Interactive  ,Cryo Interactive Entertainment  ,,,,,,,,1997,Adventure
+7548,Heroes of Might and Magic V,PC,Ubisoft  ,Nival Interactive  ,,,,0.03,,0.0,0.04,2006,Strategy
+7549,Jikkyou Powerful Pro Yakyuu 2000,N64,Konami  ,Diamond Head  ,,,,,0.29,0.06,0.35,2000,Sports
+7550,Myth II: Soulblighter,All,Bungie Software  ,Bungie  ,,,,,,,,1998,Strategy
+7551,Myth: The Fallen Lords,All,Bungie Software  ,Bungie  ,,,,,,,,1997,Strategy
+7552,One Piece: Gigant Battle 2 Shin Sekai,DS,Namco Bandai  ,Ganbarion  ,,,,,0.35,,0.35,2011,Fighting
+7553,Sid Meier's Colonization,PC,Microprose  ,MicroProse  ,,,,,,,,1994,Strategy
+7554,Star Trek: Starfleet Academy,All,Interplay Productions  ,Interplay Productions  ,,,,,,,,1997,Simulation
+7555,The Operative: No One Lives Forever,All,Fox Interactive  ,Monolith Productions  ,,,,,,,,2000,Shooter
+7556,Top Gun,PS2,Blast! Entertainment Ltd  ,Atomic Planet Entertainment  ,,,,,,,,2007,Simulation
+7557,Traitors Gate,All,DreamCatcher Interactive  ,Daydream Software  ,,,,,,,,2000,Adventure
+7558,Wasteland 2,All,Deep Silver  ,InXile Entertainment  ,,,,,,,,2014,Role-Playing
+7559,Wayne Gretzky Hockey,All,Bethesda Softworks  ,Bethesda Softworks  ,,,,,,,,1988,Sports
+7560,Def Jam Rapstar,PS3,Konami  ,4mm Games / Terminal Reality  ,7.4,,0.27,0.04,,0.04,0.35,2010,Misc
+7561,Resident Evil: Dead Aim,PS2,Capcom  ,Cavia Inc.  ,6.7,,0.17,0.13,,0.04,0.35,2003,Shooter
+7562,Sega Genesis Classics,PS4,Sega  ,Sega  ,,,0.08,0.21,,0.05,0.35,2018,Misc
+7563,Need for Speed Carbon,GC,Electronic Arts  ,EA Black Box  ,7.7,,0.27,0.07,,0.01,0.35,2006,Racing
+7564,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,GBA,THQ  ,Helixe  ,5.5,,0.25,0.09,,0.01,0.35,2003,Platform
+7565,The Fairly Odd Parents: Shadow Showdown,PS2,THQ  ,Blitz Games  ,5.0,,0.17,0.13,,0.04,0.35,2004,Platform
+7566,Saban's Power Rangers: Lightspeed Rescue,PS,THQ  ,Climax Group  ,,,0.19,0.13,,0.02,0.35,2000,Action
+7567,Xbox Music Mixer,XB,Microsoft  ,WildTangent  ,,,0.26,0.08,,0.01,0.35,2003,Misc
+7568,Terminator Salvation,X360,Warner Bros. Interactive  ,Halcyon  ,5.2,,0.13,0.18,0.0,0.04,0.35,2009,Shooter
+7569,Dark Souls: Remastered,PC,Bandai Namco Entertainment  ,From Software  ,,,,,,,,2018,Role-Playing
+7570,Tropico 4,X360,Kalypso  ,Haemimont Games  ,,,0.2,0.12,,0.03,0.35,2011,Strategy
+7571,Chicken Shoot,Wii,"Destination Software, Inc  ",Destination Software  ,3.0,,0.32,0.0,,0.02,0.35,2007,Action
+7572,College Hoops 2K8,PS2,2K Sports  ,Visual Concepts  ,,,0.17,0.13,,0.04,0.35,2007,Sports
+7573,Might & Magic Heroes VI,PC,Ubisoft  ,Black Hole Games  ,7.4,,0.15,0.14,,0.05,0.35,2011,Role-Playing
+7574,Guitar Hero: Metallica,PS2,Activision  ,BudCat Creations  ,,,0.17,0.13,,0.04,0.35,2009,Misc
+7575,Guilty Gear X2,PS2,Sammy Corporation  ,Arc System Works  ,,,0.09,0.07,0.16,0.02,0.35,2003,Fighting
+7576,MotoGP 08,X360,Capcom  ,MileStone Inc.  ,6.8,,0.11,0.2,,0.04,0.35,2008,Racing
+7577,King Arthur's Gold,PC,Transhuman Design  ,Transhuman Design  ,,,,,,,,2013,Action
+7578,The Sims 4: Get Together,PC,Electronic Arts  ,Maxis  ,,,0.05,0.27,,0.02,0.35,2015,Simulation
+7579,Gravity Rush 2,PS4,Sony Interactive Entertainment  ,SIE Japan Studio  ,,,0.13,0.05,0.13,0.04,0.35,2017,Action-Adventure
+7580,Nioh: Complete Edition,PC,Koei Tecmo  ,Team Ninja  ,,,,,,,,2017,Action
+7581,Tom Clancy's Rainbow Six: Lockdown,PS2,Ubisoft  ,Red Storm Entertainment  ,,,0.17,0.13,,0.04,0.35,2005,Shooter
+7582,From TV Animation One Piece: Tobidase Kaizokudan!,PS,Bandai  ,Bandai  ,,,,,0.32,0.02,0.35,2001,Role-Playing
+7583,World of Final Fantasy,PSV,Square Enix  ,Square Enix  ,,,0.09,0.11,0.09,0.06,0.35,2016,Role-Playing
+7584,Hello Kitty Daily,DS,Aspyr  ,Dorart  ,,,0.32,,,0.03,0.35,2008,Misc
+7585,The Tale of Despereaux,PS2,Brash Entertainment  ,Sensory Sweep Studios  ,,,0.17,0.13,,0.04,0.35,2008,Platform
+7586,Aggressive Inline,PS2,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",8.7,,0.17,0.13,,0.04,0.35,2002,Sports
+7587,Karaoke Revolution,PS2,Konami  ,Harmonix Music Systems  ,,,0.17,0.13,,0.04,0.35,2003,Misc
+7588,NFL Street,GC,EA Sports BIG   ,EA Tiburon  ,8.3,,0.27,0.07,,0.01,0.35,2004,Sports
+7589,Metal Arms: Glitch in the System,PS2,VU Games  ,Mass Media  ,,,0.17,0.13,,0.04,0.35,2003,Shooter
+7590,Enemy Territory: Quake Wars,PS3,Activision  ,Z-Axis  ,,,0.23,0.07,,0.04,0.35,2008,Shooter
+7591,Jikkyou Powerful Pro Yakyuu 7,PS2,Konami  ,Diamond Head  ,,,,,0.35,,0.35,2000,Sports
+7592,Minecraft: Story Mode,PC,Mojang  ,Telltale Games  ,,,0.04,0.09,,0.01,0.15,2015,Adventure
+7593,Tiger Woods PGA Tour 12: The Masters,Wii,EA Sports  ,EA Tiburon  ,,,0.2,0.12,,0.03,0.35,2011,Sports
+7594,Rally Cross 2,PS,989 Studios  ,Idol Minds  ,,,0.19,0.13,,0.02,0.35,1998,Racing
+7595,EverGrace,PS2,Agetec  ,From Software  ,6.2,,0.1,0.08,0.15,0.03,0.35,2000,Role-Playing
+7596,SpongeBob's Boating Bash,Wii,THQ  ,Impulse Games  ,,,0.24,0.07,,0.03,0.35,2010,Misc
+7597,Lunar 2: Eternal Blue Complete,PS,Working Designs  ,Game Arts  ,8.1,,0.19,0.13,,0.02,0.35,2000,Role-Playing
+7598,Street Fighter Alpha: Warriors' Dreams,SAT,Capcom  ,Capcom  ,,,,,0.35,,0.35,1996,Fighting
+7599,Rugrats: Royal Ransom,PS2,THQ  ,Avalanche Software  ,,,0.17,0.13,,0.04,0.35,2002,Platform
+7600,MLB 06: The Show,PSP,Sony Computer Entertainment  ,SCEA San Diego Studios  ,8.3,,0.32,,,0.03,0.35,2006,Sports
+7601,Hannah Montana: The Movie,Wii,Disney Interactive Studios  ,n-Space  ,,,0.13,0.18,,0.04,0.35,2009,Adventure
+7602,Over the Hedge,GC,Activision  ,Edge of Reality  ,6.7,,0.27,0.07,,0.01,0.35,2006,Platform
+7603,One Piece: Pirate Warriors 3,PC,Namco Bandai Games  ,Omega Force  ,,,,0.0,,0.0,0.0,2015,Action
+7604,Yu-Gi-Oh! 5D's Tag Force 5,PSP,Konami  ,Konami  ,,,0.13,0.05,0.14,0.03,0.35,2010,Strategy
+7605,Charlie and the Chocolate Factory,PS2,Global Star Software  ,High Voltage Software  ,,,0.17,0.13,,0.04,0.35,2005,Adventure
+7606,Madden NFL 13,PSV,EA Sports  ,EA Tiburon  ,6.2,,0.28,,,0.07,0.35,2012,Sports
+7607,Naruto Shippuden: Ultimate Ninja Impact,PSP,Namco Bandai  ,CyberConnect2  ,,,0.09,0.07,0.15,0.04,0.35,2011,Fighting
+7608,Def Jam Icon,X360,Electronic Arts  ,Unknown  ,6.3,,0.3,0.01,0.0,0.03,0.35,2007,Action
+7609,Lego Star Wars: The Force Awakens,PS3,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.07,0.22,,0.05,0.35,2016,Action-Adventure
+7610,Kurushi Final: Mental Blocks,PS,Sony Computer Entertainment  ,SCEI  ,,,,,0.32,0.02,0.34,1999,Puzzle
+7611,Risk / Battleship / Clue,GBA,DSI Games  ,Gravity-I  ,,,0.25,0.09,,0.01,0.34,2005,Misc
+7612,Mini Ninjas,PS3,Eidos Interactive  ,IO Interactive  ,7.4,,0.14,0.15,,0.06,0.34,2009,Action
+7613,Pirates of the Caribbean: At World's End,DS,Disney Interactive Studios  ,Amaze Entertainment  ,,,0.3,0.01,0.01,0.03,0.34,2007,Action
+7614,SD Gundam G Generation World,PSP,Namco Bandai  ,Tom Create  ,,,,,0.34,,0.34,2011,Strategy
+7615,WWE '12,Wii,THQ  ,"Yuke's Co., Ltd.  ",,,0.23,0.09,,0.03,0.34,2011,Fighting
+7616,Tekken Tag Tournament 2,X360,Namco Bandai Games  ,Bandai Namco Games  ,,,0.19,0.11,0.01,0.03,0.34,2012,Fighting
+7617,UEFA Euro 2008 Austria-Switzerland,X360,Electronic Arts  ,Unknown  ,,,0.08,0.23,,0.03,0.34,2008,Sports
+7618,Racquet Sports,PS3,Ubisoft  ,Asobo Studio  ,4.2,,0.11,0.17,,0.06,0.34,2010,Sports
+7619,Lego Legends of Chima: Laval's Journey,3DS,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.2,0.11,,0.03,0.34,2013,Action-Adventure
+7620,The Wild Thornberrys Movie,GBA,THQ  ,"Human Soft, Inc.  ",,,0.25,0.09,,0.01,0.34,2002,Platform
+7621,High School Musical 3: Senior Year DANCE!,PS2,Disney Interactive Studios  ,Page 44 Studios  ,,,0.17,0.13,,0.04,0.34,2008,Misc
+7622,Dynasty Warriors 5 Empires,PS2,KOEI  ,Omega Force  ,6.3,,0.11,0.09,0.12,0.03,0.34,2006,Action
+7623,Odin Sphere: Leifthrasir,PS4,Atlus  ,Vanillaware  ,,,0.14,0.07,0.09,0.04,0.34,2016,Role-Playing
+7624,WipEout 3,PS,Sony Computer Entertainment  ,Psygnosis  ,,,0.19,0.13,,0.02,0.34,1999,Racing
+7625,FIFA Street 3,X360,EA Sports BIG   ,EA Canada  ,,,0.17,0.14,,0.04,0.34,2008,Sports
+7626,Angry Birds: Star Wars,3DS,Activision  ,Exient Entertainment  ,,,0.15,0.16,,0.03,0.34,2013,Puzzle
+7627,Marvel vs. Capcom: Infinite,XOne,Capcom  ,Capcom  ,,,0.26,0.05,,0.03,0.34,2017,Fighting
+7628,Classic NES Series: Ice Climber,GBA,Nintendo  ,Nintendo  ,,,0.1,0.04,0.2,0.01,0.34,2004,Platform
+7629,Battalion Wars 2,Wii,Nintendo  ,Kuju Entertainment  ,7.7,,0.22,0.02,0.08,0.02,0.34,2007,Strategy
+7630,Danganronpa: Trigger Happy Havoc,PSV,NIS America  ,Spike Chunsoft  ,,,0.09,0.06,0.15,0.05,0.34,2014,Adventure
+7631,WWE All Stars,X360,THQ  ,THQ  ,7.7,,0.18,0.14,,0.03,0.34,2011,Fighting
+7632,Mini Ninjas,DS,Eidos Interactive  ,IO Interactive  ,,,0.16,0.15,,0.04,0.34,2009,Action
+7633,NBA 2K12,Wii,2K Sports  ,Visual Concepts  ,,,0.29,0.03,,0.02,0.34,2011,Sports
+7634,LEGO Jurassic World,PC,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,,0.04,,0.0,0.04,2015,Action
+7635,Xenosaga Episode III: Also sprach Zarathustra,PS2,Namco  ,Monolith Soft  ,7.9,,0.09,0.07,0.18,0.02,0.37,2006,Role-Playing
+7636,Just Dance 2017,XOne,Ubisoft  ,Ubisoft Paris  ,,,0.25,0.05,,0.03,0.34,2016,Music
+7637,Driver 2 Advance,GBA,Atari  ,Sennari Interactive  ,6.8,,0.25,0.09,,0.01,0.34,2002,Action
+7638,Freeway,2600,Activision  ,Activision  ,,,0.32,0.02,,0.0,0.34,1981,Action
+7639,DanceDanceRevolution,Wii,Konami  ,Konami  ,,,0.28,0.04,,0.02,0.34,2010,Simulation
+7640,Monster Rancher 4,PS2,Tecmo  ,Tecmo  ,,,0.08,0.06,0.19,0.02,0.34,2003,Simulation
+7641,Risen 3: Titan Lords Enhanced Edition,PC,Deep Silver  ,Piranha Bytes  ,6.3,,,0.08,,0.0,0.09,2014,Role-Playing
+7642,Vancouver 2010 - The Official Video Game of the Olympic Winter Games,PS3,Sega  ,Eurocom Entertainment Software  ,,,0.09,0.19,,0.07,0.34,2010,Sports
+7643,Supreme Commander 2,X360,Square Enix  ,Gas Powered Games  ,8.2,,0.23,0.09,,0.03,0.34,2010,Strategy
+7644,Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,PS2,Buena Vista  ,Capcom  ,,,0.17,0.13,,0.04,0.34,2005,Adventure
+7645,Iron Storm,SAT,Working Designs  ,SystemSoft  ,,,,,0.34,0.0,0.34,1996,Strategy
+7646,MotorStorm: Arctic Edge,PS2,Sony Computer Entertainment  ,Virtuos  ,7.4,,0.07,0.03,,0.25,0.34,2009,Racing
+7647,The Tower Of Elements,PC,Unknown  ,Wulo Games  ,,,,,,,,N/A,Strategy
+7648,The Fairly Odd Parents: Shadow Showdown,GBA,THQ  ,Helixe  ,,,0.25,0.09,,0.01,0.34,2004,Platform
+7649,Trauma Center: Second Opinion,Wii,Atlus  ,Atlus Co.  ,8.2,,0.28,0.01,0.03,0.03,0.34,2006,Simulation
+7650,Marvel Super Heroes,PS,Capcom  ,Capcom  ,,,0.19,0.13,,0.02,0.34,1997,Fighting
+7651,Super Bust-A-Move,PS2,Acclaim Entertainment  ,Taito Corporation  ,,,0.17,0.13,,0.04,0.34,2000,Puzzle
+7652,Hitman: Contracts,XB,Eidos Interactive  ,IO Interactive  ,,,0.26,0.07,,0.01,0.34,2004,Shooter
+7653,Knights of Pen and Paper +1,PC,Unknown  ,Behold Studios  ,,,,,,,,N/A,Role-Playing
+7654,Tom Clancy's Ghost Recon: Shadow Wars,3DS,Ubisoft  ,Ubisoft  ,7.9,,0.22,0.1,,0.03,0.34,2011,Strategy
+7655,Thunderstrike: Operation Phoenix,PS2,Eidos Interactive  ,Core Design Ltd.  ,,,0.17,0.13,,0.04,0.34,2001,Simulation
+7656,Alien's Return,2600,ITT Family Games  ,Gem International Corporation  ,,,0.32,0.02,,0.0,0.34,1983,Action
+7657,Frostbite,2600,Activision  ,Activision  ,,,0.32,0.02,,0.0,0.34,1983,Action
+7658,Avatar: The Last Airbender - The Burning Earth,DS,THQ  ,TOSE Software  ,,,0.31,0.0,,0.03,0.34,2007,Action
+7659,SimCity Creator,DS,Electronic Arts  ,The Sims Studio  ,,,0.29,0.02,,0.03,0.34,2008,Simulation
+7660,Monopoly,PS3,Electronic Arts  ,EA Bright Light  ,,,0.25,0.06,,0.03,0.34,2008,Misc
+7661,Twisted Metal,PS3,Sony Computer Entertainment  ,Eat Sleep Play  ,,,0.32,,,0.03,0.34,2012,Racing
+7662,Speed Racer: The Videogame,DS,Warner Bros. Interactive  ,Virtuos Games  ,,,0.28,0.04,,0.03,0.34,2008,Racing
+7663,Costume Quest,PC,Unknown  ,Double Fine Productions  ,8.0,,,,,,,2011,Role-Playing
+7664,DETOUR,PC,Unknown  ,Sandswept Studios  ,,,,,,,,2011,Strategy
+7665,WWE Day of Reckoning 2,GC,THQ  ,Yuke's Future Media Creators  ,8.3,8.5,0.26,0.07,,0.01,0.34,2005,Fighting
+7666,Revenge of the Titans,PC,Puppy Games  ,Puppy Games  ,8.0,,,0.0,,,0.0,2010,Strategy
+7667,The Urbz: Sims in the City,XB,Electronic Arts  ,Maxis  ,,,0.22,0.11,,0.01,0.34,2004,Simulation
+7668,SpongeBob SquarePants: The Yellow Avenger,DS,THQ  ,Tantatus Interactive  ,,,0.31,0.0,,0.02,0.34,2005,Action
+7669,Conan,PS3,THQ  ,Nihilistic Software  ,,,0.13,0.15,,0.05,0.34,2007,Action
+7670,Fantastic Voyage,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,,,0.32,0.02,,0.0,0.34,1982,Action
+7671,The Sims 3: Town Life Stuff,PC,Electronic Arts  ,EA Redwood Shores  ,,,0.11,0.18,,0.05,0.34,2011,Simulation
+7672,Star Ocean: Second Evolution,PSP,Square Enix  ,TOSE Software  ,8.0,,0.14,0.02,0.16,0.02,0.34,2009,Role-Playing
+7673,Night Warriors: Darkstalkers' Revenge,SAT,Capcom  ,Capcom  ,,,,,0.34,0.0,0.34,1996,Fighting
+7674,Tenchu Z,X360,Microsoft  ,K2 LLC  ,5.7,,0.27,0.02,0.02,0.03,0.34,2007,Action
+7675,Dragon Quest: Shounen Yangus to Fushigi no Dungeon,PS2,Square Enix  ,Cavia Inc.  ,,,,,0.29,,0.29,2006,Role-Playing
+7676,Fatal Frame: Maiden of Black Water,All,Koei Tecmo  ,Koei Tecmo Games  ,,,,,,,,2021,Action-Adventure
+7677,Hatsune Miku: Project Diva 2nd,PSP,Sega  ,Sega  ,,,,,0.41,,0.41,2010,Misc
+7678,Ninja Gaiden: Dragon Sword,DS,Tecmo  ,Team Ninja  ,8.0,,0.16,0.01,0.02,0.02,0.21,2008,Action
+7679,Off Road Challenge,N64,Midway Games  ,Avalanche Software  ,,,0.27,0.06,,0.0,0.34,1998,Racing
+7680,Samurai Warriors 4,All,Koei Tecmo  ,Omega Force  ,,,,,,,,2014,Action
+7681,Bank Heist,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,,,0.32,0.02,,0.0,0.34,1983,Action
+7682,Backstreet Billiards,PS,ASCII Entertainment  ,argent  ,7.2,,0.19,0.13,,0.02,0.34,1998,Misc
+7683,Solar 2,PC,Unknown  ,Murudai  ,8.0,,,,,,,2011,Misc
+7684,Carnival,2600,Coleco  ,Coleco  ,,,0.32,0.02,,0.0,0.34,1982,Shooter
+7685,Leisure Suit Larry: Magna Cum Laude,PS2,VU Games  ,High Voltage Software  ,,,0.17,0.13,,0.04,0.34,2004,Adventure
+7686,Tales of the World: Radiant Mythology 2,PSP,Namco Bandai  ,Alfa System  ,,,,,0.33,,0.33,2009,Role-Playing
+7687,MVP 06 NCAA Baseball,XB,EA Sports  ,EA Canada  ,,,0.25,0.07,,0.01,0.34,2006,Sports
+7688,Momotarou Dentetsu DS: Tokyo & Japan,DS,Hudson Soft  ,Hudson Soft  ,,,,,0.34,,0.34,2007,Misc
+7689,Divinity: Original Sin,PS4,Focus Home Interactive  ,Larian Studios  ,,,0.13,0.13,0.04,0.05,0.34,2015,Role-Playing
+7690,Point Blank,PS,Namco  ,Namco  ,,,0.05,0.03,0.23,0.02,0.34,1998,Shooter
+7691,Skylanders: Trap Team,3DS,Activision  ,Toys for Bob  ,,,0.21,0.1,,0.03,0.34,2014,Misc
+7692,F.E.A.R.,X360,Vivendi Games  ,Day 1 Studios  ,8.6,,0.28,0.03,,0.03,0.34,2006,Shooter
+7693,The Shoot,PS3,Sony Computer Entertainment  ,Cohort Studios  ,,,0.13,0.15,0.01,0.05,0.34,2010,Shooter
+7694,Tiny Tank,PS,Sony Computer Entertainment  ,Appaloosa Interactive  ,,,0.19,0.13,,0.02,0.34,1999,Action
+7695,Transport Fever,PC,Astragon  ,Urban Games  ,,,,0.06,,0.0,0.06,2016,Simulation
+7696,Smart Girl's Party Game,DS,UFO Interactive  ,Starfish Inc.  ,,,0.31,0.0,,0.02,0.34,2008,Misc
+7697,Lord of Arcana,PSP,Square Enix  ,Square Enix  ,4.7,,0.08,0.05,0.17,0.04,0.34,2011,Role-Playing
+7698,Spy Hunter,XB,Midway Games  ,Point of View  ,,,0.25,0.07,,0.01,0.34,2002,Racing
+7699,NBA 2K17,PS3,2K Sports  ,Visual Concepts  ,,,0.16,0.11,0.02,0.05,0.34,2016,Sports
+7700,Dynasty Warriors 6 Empires,PS3,KOEI  ,Omega Force  ,6.4,,0.14,0.03,0.15,0.02,0.34,2009,Action
+7701,Damned,PC,Unknown  ,9heads Game Studios  ,,,,,,,,N/A,Action-Adventure
+7702,The King of Fighters XIV,PS4,Atlus  ,SNK Playmore  ,,,0.21,0.02,0.06,0.05,0.34,2016,Fighting
+7703,Space Beret,PC,Unknown  ,Amaterasu Software  ,,,,,,,,N/A,Shooter
+7704,Herbie: Fully Loaded,GBA,Buena Vista  ,Climax Group  ,5.0,,0.24,0.09,,0.01,0.34,2005,Racing
+7705,Teenage Mutant Ninja Turtles,GC,Konami  ,Konami  ,,,0.26,0.07,,0.01,0.34,2003,Action
+7706,My Baby Boy,DS,SouthPeak Interactive  ,Dancing Dots  ,,,0.3,0.02,,0.03,0.34,2008,Simulation
+7707,Remember Me,PS3,Capcom  ,DONTNOD Entertainment  ,,,0.1,0.18,,0.05,0.34,2013,Action
+7708,Project Versus J,PS3,Namco Bandai Games  ,Unknown  ,,,0.07,0.05,0.2,0.02,0.34,2015,Misc
+7709,Guitar Hero Live,X360,Activision  ,FreeStyleGames  ,,,0.2,0.11,,0.03,0.34,2015,Music
+7710,Football Manager Handheld 2008,PSP,Sega  ,Sports Interactive  ,,,,0.33,,0.0,0.34,2007,Sports
+7711,The LEGO Movie Videogame,PC,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.02,0.04,,0.0,0.06,2014,Action-Adventure
+7712,Dragon Ball Heroes: Ultimate Mission 2,3DS,Namco Bandai Games  ,Dimps Corporation  ,,,,,0.34,,0.34,2014,Fighting
+7713,Iron Man 2,DS,Sega  ,"Sega Studios, San Francisco  ",,,0.14,0.16,,0.03,0.34,2010,Action
+7714,Imagine: Movie Star,DS,Ubisoft  ,Powerhead Games  ,,,0.31,0.0,,0.03,0.34,2008,Simulation
+7715,Disney Sing It: Pop Hits,PS2,Disney Interactive Studios  ,Zoe Mode  ,,,0.1,0.02,,0.22,0.34,2009,Misc
+7716,Puzzle Quest: Challenge of the Warlords,DS,D3 Publisher  ,1st Playable Productions  ,,,0.28,0.01,0.03,0.02,0.34,2007,Puzzle
+7717,Bejeweled 3,DS,PopCap Games  ,PopCap Games  ,,,0.29,0.02,,0.03,0.34,2011,Puzzle
+7718,The Eye of Judgment,PS3,Sony Computer Entertainment  ,SCE Japan Studio  ,7.5,,0.28,0.0,0.02,0.03,0.34,2007,Strategy
+7719,Giana Sisters: Twisted Dreams,PC,Unknown  ,Unknown  ,,,,,,,,N/A,Misc
+7720,007 Legends,PS3,Activision  ,Eurocom  ,,,0.11,0.17,,0.06,0.34,2012,Shooter
+7721,Dynasty Warriors: Gundam 2,PS2,Namco Bandai  ,Omega Force  ,4.9,,0.04,0.03,0.25,0.01,0.34,2009,Action
+7722,Fade to Black,PS,Electronic Arts  ,Delphine Software International  ,,,0.19,0.13,,0.02,0.34,1996,Action
+7723,MXRider,PS2,Infogrames  ,Paradigm Entertainment  ,,,0.16,0.13,,0.04,0.34,2001,Racing
+7724,Sniper: Ghost Warrior 2,PS3,City Interactive  ,City Interactive  ,,,0.05,0.2,0.03,0.05,0.34,2013,Shooter
+7725,Pirates of the Caribbean: At World's End,X360,Disney Interactive Studios  ,Eurocom Entertainment Software  ,,,0.29,0.02,,0.03,0.34,2007,Action
+7726,Delta Force: Black Hawk Down,XB,NovaLogic  ,Climax Group  ,,,0.25,0.07,,0.01,0.34,2005,Shooter
+7727,Hard Reset,PC,Kalypso Media  ,Flying Wild Hog  ,7.6,,,,,,,2012,Shooter
+7728,NHL 09,PS3,Electronic Arts  ,EA Canada  ,,,0.29,0.02,,0.03,0.34,2008,Sports
+7729,Shaun White Snowboarding,PSP,Ubisoft  ,Ubisoft Montreal  ,6.3,,0.26,0.04,,0.03,0.34,2008,Sports
+7730,World Championship Poker 2: Featuring Howard Lederer,PS2,Crave Entertainment  ,Point of View  ,,,0.16,0.13,,0.04,0.34,2005,Misc
+7731,Harry Potter and the Deathly Hallows - Part 2,X360,Electronic Arts  ,EA Bright Light  ,4.8,,0.19,0.11,,0.03,0.33,2011,Action
+7732,Samurai Warriors 3Z,PS3,Tecmo Koei  ,Omega Force  ,,,,,0.33,,0.33,2011,Action
+7733,Sengoku Musou 3 Z,PS3,Tecmo Koei  ,Omega Force  ,,,,,0.33,,0.33,2011,Action
+7734,Tom Clancy's Ghost Recon Advanced Warfighter,XB,Ubisoft  ,Ubisoft Shanghai  ,,,0.21,0.11,,0.01,0.33,2006,Shooter
+7735,Pony Island,PC,Unknown  ,Daniel Mullins Games  ,,,,,,,,N/A,Puzzle
+7736,Dead or Alive 5,X360,Tecmo Koei  ,Team Ninja  ,7.6,,0.2,0.08,0.03,0.03,0.33,2012,Fighting
+7737,NCAA Basketball 10,PS3,Electronic Arts  ,EA Canada  ,,,0.31,,,0.03,0.33,2009,Sports
+7738,Tokyo Highway Battle,PS,Crave Entertainment  ,Genki  ,,,0.06,0.04,0.21,0.02,0.33,1996,Racing
+7739,Dishonored: Death of the Outsider,PS4,Bethesda Softworks  ,Arkane Studios  ,,,0.1,0.18,,0.05,0.33,2017,Action
+7740,Untold Legends: The Warriors Code,PSP,Sony Online Entertainment  ,Sony Online Entertainment  ,6.8,,0.14,0.12,,0.08,0.33,2006,Role-Playing
+7741,Final Fantasy IX,PC,Unknown  ,Square Enix  ,,,,,,,,N/A,Role-Playing
+7742,Beyond Good & Evil,PS2,Ubisoft  ,Ubisoft Montpellier  ,8.3,,0.16,0.13,,0.04,0.33,2003,Adventure
+7743,Valkyria Chronicles Remastered,PS4,Sega  ,Sega  ,,,0.14,0.08,0.08,0.04,0.33,2016,Role-Playing
+7744,Banjo-Kazooie: Grunty's Revenge,GBA,THQ  ,Rare Ltd.  ,6.6,,0.24,0.09,,0.01,0.33,2003,Platform
+7745,Bomberman World,PS,Atlus  ,Hudson Soft  ,6.5,,0.06,0.04,0.22,0.02,0.33,1998,Puzzle
+7746,Night at the Museum: Battle of the Smithsonian,DS,Majesco  ,"Pipeworks Software, Inc.  ",,,0.12,0.18,,0.04,0.33,2009,Action
+7747,Transformers: Revenge of the Fallen -- Decepticons,DS,Activision  ,Vicarious Visions  ,,,0.17,0.13,,0.03,0.33,2009,Action
+7748,Mega Man ZX Advent,DS,Capcom  ,Inti Creates  ,7.6,,0.22,0.0,0.09,0.02,0.33,2007,Platform
+7749,Jeanne d'Arc,PSP,Sony Computer Entertainment  ,Level 5  ,8.4,,0.21,,0.1,0.02,0.33,2007,Role-Playing
+7750,Street Fighter Alpha 3 MAX,PSP,Capcom  ,Capcom  ,7.8,,0.27,0.01,0.02,0.03,0.33,2006,Fighting
+7751,Call of Duty: Infinite Warfare,PC,Activision  ,Infinity Ward  ,,,0.12,0.19,,0.03,0.33,2016,Shooter
+7752,The Lego Ninjago Movie Videogame,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.21,0.09,,0.03,0.33,2017,Action
+7753,Deathtrap Dungeon,PS,Eidos Interactive  ,Unknown  ,,,0.19,0.13,,0.02,0.33,1998,Action
+7754,Ape Escape Academy,PSP,Sony Computer Entertainment  ,Shift  ,5.3,,0.13,0.15,,0.05,0.33,2006,Party
+7755,Mystery Case Files: The Malgrave Incident,Wii,Nintendo  ,Big Fish Games  ,6.3,,0.17,0.13,,0.03,0.33,2011,Adventure
+7756,Avatar: The Last Airbender,DS,THQ  ,AWE Games  ,,,0.3,0.01,,0.02,0.33,2006,Adventure
+7757,Harry Potter and the Deathly Hallows - Part 2,Wii,Electronic Arts  ,EA Bright Light  ,,,0.17,0.13,,0.03,0.33,2011,Action
+7758,Ninja Blade,X360,Microsoft  ,From Software  ,6.7,,0.14,0.14,0.02,0.03,0.33,2009,Action
+7759,The King of Fighters XIII,X360,Atlus  ,SNK Playmore Corporation  ,,,0.23,0.07,0.01,0.03,0.33,2011,Fighting
+7760,WWE Wrestlemania XIX,GC,THQ  ,Yuke's  ,7.8,,0.26,0.07,,0.01,0.33,2003,Fighting
+7761,The Sims 2,GC,Electronic Arts  ,Maxis  ,7.6,,0.26,0.07,,0.01,0.33,2005,Simulation
+7762,Hulk,XB,Universal Interactive  ,Radical Entertainment  ,,,0.25,0.07,,0.01,0.33,2003,Action
+7763,BookWorm,DS,PopCap Games  ,PopCap Games  ,,,0.3,0.01,,0.02,0.33,2009,Puzzle
+7764,We Sing Deutsche Hits,Wii,Nordic Games  ,Le Cortex  ,,,,0.29,,0.04,0.33,2011,Misc
+7765,Klonoa 2: Lunatea's Veil,PS2,Namco  ,Namco  ,9.4,,0.12,0.1,0.08,0.03,0.33,2001,Platform
+7766,Deus Ex: Invisible War,XB,Eidos Interactive  ,Ion Storm  ,8.5,,0.25,0.07,,0.01,0.33,2003,Shooter
+7767,Bee Movie Game,Wii,Activision  ,Smart Bomb Interactive  ,,,0.3,0.01,,0.03,0.33,2007,Action
+7768,Disney's Treasure Planet,PS2,Sony Computer Entertainment  ,Bizarre Creations  ,,,0.16,0.13,,0.04,0.33,2002,Action
+7769,NASCAR Thunder 2002,XB,EA Sports  ,EA Tiburon  ,,,0.25,0.07,,0.01,0.33,2001,Racing
+7770,Etrian Odyssey,DS,Atlus  ,Atlus Co. / Lancarse  ,7.4,,0.19,0.03,0.09,0.02,0.33,2007,Role-Playing
+7771,BeatMania Append GottaMix,PS,Konami  ,Konami  ,,,,,0.31,0.02,0.33,1999,Simulation
+7772,Fracture,X360,LucasArts  ,Day 1 Studios  ,4.0,,0.15,0.14,0.0,0.04,0.33,2008,Shooter
+7773,Cabela's Dangerous Hunts 2011,PS3,Activision  ,Cauldron  ,,,0.26,0.04,,0.03,0.33,2010,Sports
+7774,Tak 2: The Staff of Dreams,GC,THQ  ,Avalanche Software  ,,,0.26,0.07,,0.01,0.33,2004,Platform
+7775,Virtua Tennis 2009,X360,Sega  ,Sumo Digital  ,,,0.12,0.18,,0.03,0.33,2009,Sports
+7776,NBA 2K10,PSP,2K Sports  ,Visual Concepts  ,5.5,,0.3,0.0,0.0,0.03,0.33,2009,Sports
+7777,LEGO Harry Potter Collection,NS,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.15,0.16,,0.03,0.33,2018,Action
+7778,Dead Realm,PC,Unknown  ,"Section Studios, Inc.  ",,,,,,,,N/A,Action-Adventure
+7779,Kelly Slater's Pro Surfer,PS2,Activision  ,Treyarch  ,,,0.16,0.13,,0.04,0.33,2002,Sports
+7780,Shrek SuperSlam,GBA,Activision  ,Amaze Entertainment / Griptonite Games  ,,,0.24,0.09,,0.01,0.33,2005,Action
+7781,Legends of Wrestling II,PS2,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,,,0.16,0.13,,0.04,0.33,2002,Fighting
+7782,World Stadium 3,PS,Namco  ,Namco  ,,,,,0.31,0.02,0.33,1999,Sports
+7783,Alien: Isolation,PS3,Sega  ,Creative Assembly  ,,,0.12,0.16,,0.05,0.33,2014,Adventure
+7784,Extra Bases,GB,Bandai  ,Namco  ,,,,,0.33,,0.33,1991,Sports
+7785,The Crew 2,XOne,Ubisoft  ,Ivory Tower  ,,,0.2,0.1,,0.03,0.33,2018,Racing
+7786,Super Power League 2,SNES,Hudson Soft  ,Hudson Soft  ,,,,,0.33,0.0,0.33,1994,Sports
+7787,Binary Domain,PS3,Sega  ,Amusement Vision  ,,,0.09,0.07,0.14,0.03,0.33,2012,Action
+7788,Planet Puzzle League,DS,Nintendo  ,Intelligent Systems  ,8.6,,0.14,0.01,0.16,0.01,0.33,2007,Puzzle
+7789,Minute to win it,X360,Zoo Games  ,Zoo Entertainment Inc.  ,,,0.3,,,0.03,0.33,2011,Misc
+7790,MLB 09: The Show,PS2,Sony Computer Entertainment  ,SCE San Diego Studio  ,,,0.16,0.13,,0.04,0.33,2009,Sports
+7791,Botanicula,PC,Amanita Design  ,Amanita Design  ,,,,0.02,,0.0,0.03,2012,Adventure
+7792,Hell's Kitchen: The Game,Wii,Ubisoft  ,Ludia Inc.  ,,,0.3,0.0,,0.03,0.33,2008,Simulation
+7793,Cool Boarders 2001,PS2,Sony Computer Entertainment  ,Idol Minds Digital Entertainment  ,,,0.16,0.13,,0.04,0.33,2001,Sports
+7794,Classic NES Series: Castlevania,GBA,Nintendo  ,Konami  ,7.4,,0.17,0.06,0.09,0.01,0.33,2004,Platform
+7795,Grow Home,PC,Ubisoft  ,Ubisoft Reflections  ,,,,,,,,2015,Platform
+7796,Scooby-Doo! First Frights,PS2,Warner Bros. Interactive  ,Torus Games  ,,,0.14,0.03,,0.16,0.33,2009,Adventure
+7797,Fight Night Round 3,XB,EA Sports  ,EA Chicago  ,,,0.26,0.06,,0.01,0.33,2006,Fighting
+7798,GT Advance Championship Racing,GBA,THQ  ,MTO  ,7.5,,0.24,0.09,,0.01,0.33,2001,Racing
+7799,Way of the Samurai 2,PS2,Capcom  ,Acquire  ,,,0.05,0.04,0.23,0.01,0.33,2004,Action
+7800,Lego Batman 3: Beyond Gotham,PC,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,,0.06,,0.0,0.06,2014,Action
+7801,Naruto: Rise of a Ninja,X360,Ubisoft  ,Ubisoft Montreal  ,7.8,,0.29,0.01,,0.03,0.33,2007,Action
+7802,BattleTanx,N64,3DO  ,3DO  ,,,0.26,0.06,,0.0,0.33,1998,Action
+7803,Custom Robo,N64,Unknown  ,Noise Inc.  ,,,,,0.29,0.04,0.33,N/A,Fighting
+7804,Dead or Alive 5 Last Round,All,Koei Tecmo  ,Team Ninja  ,,,,,,,,2015,Fighting
+7805,MegaRace,All,Software Toolworks  ,Cryo Interactive  ,,,,,,,,1993,Racing
+7806,Ultimate NES Remix,3DS,Nintendo  ,Nintendo  ,7.0,,0.19,0.11,,0.03,0.33,2014,Action
+7807,Pitfall 3D: Beyond the Jungle,PS,Activision  ,Activision  ,,,0.18,0.12,,0.02,0.33,1998,Platform
+7808,Disgaea 2: Cursed Memories,PS2,NIS America  ,Nippon Ichi Software  ,7.9,,0.09,0.07,0.15,0.02,0.33,2006,Role-Playing
+7809,Clock Tower 3,PS2,Capcom  ,SunSoft  ,7.0,,0.1,0.08,0.12,0.03,0.33,2003,Adventure
+7810,Night at the Museum: Battle of the Smithsonian,Wii,Majesco  ,"Pipeworks Software, Inc.  ",,,0.17,0.13,,0.03,0.33,2009,Action
+7811,Battle Dodge Ball,SNES,Banpresto  ,Banpresto  ,,,,,0.33,,0.33,1991,Sports
+7812,Call of Duty 2: Big Red One,GC,Activision  ,Treyarch  ,7.5,,0.25,0.07,,0.01,0.33,2005,Shooter
+7813,Murdered: Soul Suspect,PS4,Square Enix  ,Airtight Games  ,,,0.09,0.17,0.02,0.05,0.33,2014,Action-Adventure
+7814,Harry Potter and the Half-Blood Prince,PS3,Electronic Arts  ,Bright Light Productions  ,,,0.15,0.13,,0.05,0.33,2009,Action
+7815,Resonance of Fate,X360,Sega  ,tri-Ace  ,7.4,,0.12,0.13,0.06,0.03,0.33,2010,Role-Playing
+7816,The X-Factor,Wii,Deep Silver  ,Deep Silver  ,,,,0.29,,0.04,0.33,2010,Misc
+7817,Def Jam Rapstar,Wii,Konami  ,4mm Games / Terminal Reality  ,,,0.29,0.02,,0.02,0.33,2010,Misc
+7818,PlayerUnknown's Battlegrounds,PS4,Sony Interactive Entertainment  ,PUBG Corporation  ,,,0.13,0.15,,0.05,0.33,2018,Shooter
+7819,The Adventures of Tintin: The Game,Wii,Ubisoft  ,Ubisoft  ,,,0.12,0.16,,0.04,0.33,2011,Adventure
+7820,Chicken Riot,Wii,City Interactive  ,City Interactive  ,,,0.14,0.16,,0.03,0.33,2010,Action
+7821,Disgaea: Hour of Darkness,PS2,Atlus  ,Nippon Ichi Software  ,8.8,,0.16,0.13,,0.04,0.33,2003,Role-Playing
+7822,NeoGeo Battle Coliseum,PS2,SNK Playmore  ,SNK Playmore Corporation  ,,,0.16,0.13,,0.04,0.33,2007,Fighting
+7823,Fire Emblem: Ankoku Ryu to Hikari no Tsurugi,NES,Nintendo  ,Intelligent Systems  ,,,,,,,,1990,Strategy
+7824,Squishy the Suicidal Pig,PC,Unknown  ,Tomi Maarela  ,,,,,,,,N/A,Platform
+7825,Kirby: Battle Royale,3DS,Nintendo  ,HAL Laboratory  ,6.0,,0.07,0.05,0.2,0.01,0.33,2018,Fighting
+7826,Spongebob Squarepants: Creature from the Krusty Krab,GC,THQ  ,Blitz Games  ,,,0.25,0.07,,0.01,0.33,2006,Platform
+7827,Capcom Classics Collection Reloaded,PSP,Capcom  ,Capcom  ,7.1,,0.26,0.0,0.03,0.03,0.33,2006,Misc
+7828,Farming Simulator 17,XOne,Focus Home Interactive  ,Giants Software  ,,,0.19,0.11,,0.03,0.33,2016,Simulation
+7829,Data Hacker: Reboot,PC,New Reality Games  ,New Reality Games  ,,,,,,,,2015,Role-Playing
+7830,MLB 08: The Show,PSP,Sony Computer Entertainment  ,SCEA San Diego Studios  ,8.3,,0.3,,,0.02,0.33,2008,Sports
+7831,Parodius,PS,Konami  ,Konami  ,,,,,0.31,0.02,0.33,1996,Shooter
+7832,Tokyo Mirage Sessions #FE,WiiU,Nintendo  ,Atlus  ,8.0,,0.17,0.06,0.08,0.02,0.33,2016,Role-Playing
+7833,SSX Blur,Wii,EA Sports BIG   ,EA Montreal  ,,,0.29,0.01,,0.02,0.33,2007,Sports
+7834,Spy Kids 3-D: Game Over,GBA,Disney Interactive Studios  ,Digital Eclipse  ,,,0.24,0.09,,0.01,0.33,2003,Platform
+7835,Sakura Wars 3: Paris wa Moeteiru ka,DC,Sega  ,Overworks  ,,,,,0.33,0.0,0.33,2001,Adventure
+7836,NCAA GameBreaker 2001,PS,Sony Computer Entertainment  ,989 Sports  ,,,0.18,0.12,,0.02,0.33,2000,Sports
+7837,Power Rangers: Ninja Storm,GBA,THQ  ,Natsume  ,,,0.24,0.09,,0.01,0.33,2003,Platform
+7838,MX vs. ATV Untamed,Wii,THQ  ,Rainbow Studios  ,,,0.28,0.03,,0.02,0.33,2008,Racing
+7839,Naruto: Gekitou Ninja Taisen! 4,GC,Tomy Corporation  ,Eighting  ,,,,,0.32,0.01,0.33,2005,Fighting
+7840,Sniper Elite III,X360,505 Games  ,Rebellion Developments  ,,,0.18,0.12,,0.03,0.33,2014,Shooter
+7841,Kidou Senshi Gundam F91: Formula Senki 0122,SNES,Bandai  ,Bandai  ,,,,,0.33,0.0,0.33,1991,Strategy
+7842,MVP Baseball 2005,GC,EA Sports  ,EA Canada  ,8.7,,0.25,0.07,,0.01,0.33,2005,Sports
+7843,Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kounin: KanKen DS 2 + Jouyou Kanji Jiten,DS,Rocket Company  ,Imagineer  ,,,,,0.33,,0.33,2007,Misc
+7844,Dark Souls: Remastered,NS,Bandai Namco Entertainment  ,From Software  ,8.8,9.0,0.16,0.11,0.03,0.03,0.33,2018,Role-Playing
+7845,DX Game of Life 2,PS,Takara  ,Takara  ,,,,,0.31,0.02,0.33,1997,Misc
+7846,Fable III,PC,Microsoft Game Studios  ,Lionhead Studios  ,7.0,,0.11,0.17,,0.05,0.33,2011,Role-Playing
+7847,The Room,PC,Fireproof Games  ,Fireproof Games  ,,,,,,,,2014,Puzzle
+7848,NBA Live 96,PS,Electronic Arts  ,EA Canada  ,,,0.16,0.11,0.04,0.02,0.33,1996,Sports
+7849,DECA Sports Freedom,X360,Hudson Soft  ,Hudson Soft  ,3.0,,0.27,0.04,,0.02,0.33,2010,Sports
+7850,Family Party: 90 Great Games Party Pack,Wii,D3 Publisher  ,D3 Publisher  ,,,0.31,0.0,,0.02,0.33,2010,Misc
+7851,Samurai Warriors 2: Xtreme Legends (JP sales),PS2,KOEI  ,Omega Force  ,,,,,0.33,,0.33,2008,Action
+7852,Teen Titans,GC,THQ  ,A2M  ,6.3,,0.25,0.07,,0.01,0.33,2006,Action
+7853,"Warhammer 40,000: Squad Command",PSP,THQ  ,RedLynx  ,6.6,,0.11,0.14,,0.08,0.33,2007,Strategy
+7854,Taiko Drum Master: Don and Katsu's Space-Time Great Adventure,3DS,Namco Bandai Games  ,Namco Bandai Games  ,,,,,0.33,,0.33,2014,Music
+7855,Frogger II: Threeedeep!,2600,Parker Bros.  ,Parker Bros  ,,,0.31,0.02,,0.0,0.33,1984,Action
+7856,Golden Axe: Beast Rider,X360,Sega  ,Secret Level  ,4.0,7.0,0.19,0.11,,0.03,0.33,2008,Action
+7857,Iron Man 2,Wii,Sega  ,"Sega Studios, San Francisco  ",,,0.15,0.15,,0.03,0.33,2010,Action
+7858,NBA Live 06,GC,EA Sports  ,EA Canada  ,,,0.25,0.07,,0.01,0.33,2005,Sports
+7859,Fate/Extra,PSP,Aksys Games  ,imageepoch Inc.  ,,,0.19,0.01,0.1,0.03,0.33,2011,Role-Playing
+7860,Fireball,2600,Unknown  ,Starpath Corp.  ,,,0.3,0.02,,0.0,0.33,1982,Action
+7861,Buzz! The Ultimate Music Quiz,PS3,Sony Computer Entertainment  ,Relentless Software  ,,,,0.25,,0.08,0.33,2010,Misc
+7862,Dr. Mario / Puzzle League,GBA,Nintendo  ,Intelligent Systems  ,7.5,,0.12,0.04,0.16,0.01,0.33,2005,Puzzle
+7863,Disney Fairies: Tinker Bell and the Great Fairy Rescue,DS,Disney Interactive Studios  ,Hyde  ,,,0.17,0.12,,0.03,0.33,2010,Adventure
+7864,Shin Nippon Pro Wrestling: Toukon Retsuden,PS,Tomy Corporation  ,Yuke's Media Creations  ,,,,,0.3,0.02,0.33,1995,Fighting
+7865,Major League Baseball 2K6,XB,2K Sports  ,Kush Games  ,7.3,,0.24,0.07,,0.01,0.33,2006,Sports
+7866,Pinball Hall of Fame: The Gottlieb Collection,PS2,Crave Entertainment  ,FarSight Studios  ,,,0.16,0.12,,0.04,0.33,2004,Misc
+7867,EA Playground,DS,Electronic Arts  ,Piranha Games  ,,,0.29,0.01,,0.03,0.33,2007,Sports
+7868,Harry Potter and the Deathly Hallows - Part 2,PS3,Electronic Arts  ,EA Bright Light  ,,,0.14,0.14,,0.05,0.33,2011,Action
+7869,Discovery Kids: Puppy Playtime,DS,505 Games  ,505 Games  ,,,0.3,,,0.02,0.33,2009,Simulation
+7870,Style Lab: Jewelry Design,DS,Ubisoft  ,1st Playable Productions  ,,,0.3,,,0.02,0.33,2009,Simulation
+7871,Medal of Honor: Warfighter,PC,Electronic Arts  ,Danger Close Games  ,,,0.14,0.16,,0.03,0.33,2012,Shooter
+7872,The Witcher: Enhanced Edition,PC,Atari  ,CD Projekt Red Studio  ,8.3,,0.32,0.01,,,0.33,2008,Role-Playing
+7873,NCAA Basketball 10,X360,Electronic Arts  ,EA Canada  ,,,0.3,,,0.03,0.32,2009,Sports
+7874,Final Fantasy XI: Wings of the Goddess,X360,Square Enix  ,Square Enix  ,6.5,,0.28,0.0,0.02,0.03,0.32,2007,Role-Playing
+7875,Teenage Mutant Ninja Turtles 2: Battle Nexus,GBA,Konami  ,Konami  ,,,0.23,0.09,,0.01,0.32,2004,Action
+7876,Elebits,Wii,Konami  ,Konami  ,7.3,,0.22,0.01,0.08,0.02,0.32,2006,Action
+7877,Nicktoons: Movin,PS2,THQ  ,Unknown  ,,,0.16,0.12,,0.04,0.32,2004,Action
+7878,Fire Emblem Gaiden,NES,Nintendo  ,Intelligent Systems  ,,,,,,,,1992,Strategy
+7879,Silent Hill: Downpour,X360,Konami  ,Konami  ,,,0.22,0.08,,0.03,0.32,2012,Adventure
+7880,Power Rangers Samurai,Wii,Namco Bandai  ,Namco Bandai Games  ,,,0.27,0.03,,0.03,0.32,2011,Action
+7881,One Piece: Romance Dawn,PSP,Namco Bandai Games  ,Three Rings  ,,,,,0.32,,0.32,2012,Role-Playing
+7882,SWAT: Global Strike Team,PS2,Sierra Entertainment  ,Argonaut Games  ,,,0.16,0.12,,0.04,0.32,2003,Shooter
+7883,Battlestations: Pacific,X360,Eidos Interactive  ,Eidos Studios Hungary  ,,,0.17,0.11,0.01,0.03,0.32,2009,Strategy
+7884,Championship Bass,PS,EA Sports  ,EA Seattle  ,7.1,,0.18,0.12,,0.02,0.32,2000,Sports
+7885,Audiosurf 2,PC,Unknown  ,Dylan Fitterer  ,,,,,,,,N/A,Music
+7886,Golden Axe: Beast Rider,PS3,Sega  ,Secret Level  ,4.5,,0.13,0.14,,0.06,0.32,2008,Action
+7887,Ratz Instagib,PC,Unknown  ,Lino Slahuschek  ,,,,,,,,N/A,Shooter
+7888,And Yet It Moves,PC,Broken Rules  ,TU Wien  ,8.0,,,,,,,2009,Platform
+7889,Dead Rising 2: Off the Record,PS3,Capcom  ,Blue Castle Games  ,7.1,,0.11,0.08,0.1,0.03,0.32,2011,Action
+7890,Drakengard 3,PS3,Square Enix  ,Unknown  ,,,0.11,,0.19,0.02,0.32,2014,Misc
+7891,The Black Eyed Peas Experience,X360,Ubisoft  ,Ubisoft  ,,,0.2,0.1,,0.03,0.32,2011,Misc
+7892,Silent Hill HD Collection,PS3,Konami Digital Entertainment  ,Konami  ,,,0.15,0.1,0.03,0.04,0.32,2012,Action
+7893,DiRT 2,PSP,Codemasters  ,Codemasters  ,,,0.09,0.15,,0.08,0.32,2009,Racing
+7894,Ben 10 Ultimate Alien: Cosmic Destruction,DS,D3 Publisher  ,Griptonite Games  ,,,0.22,0.08,,0.03,0.32,2010,Platform
+7895,NHL Breakaway 98,N64,Acclaim Entertainment  ,Iguana Entertainment  ,,,0.3,0.02,,0.0,0.32,1998,Sports
+7896,Invasion: Brain Craving,PC,Unknown  ,New Reality Games  ,,,,,,,,N/A,Action-Adventure
+7897,Bratz: Girlz Really Rock,DS,THQ  ,Barking Lizards Technologies LLC  ,,,0.18,0.11,,0.03,0.32,2008,Action
+7898,Marvel: Ultimate Alliance 2,Wii,Activision  ,n-Space  ,5.6,,0.25,0.05,,0.03,0.32,2009,Role-Playing
+7899,Hatsune Miku: Project Diva F 2nd,PSV,Sega  ,Sega  ,,,0.08,0.05,0.16,0.04,0.32,2014,Music
+7900,Momotarou Dentetsu 20-Shuunen,DS,Hudson Soft  ,Hudson Soft  ,,,,,0.32,,0.32,2008,Misc
+7901,Kinetica,PS2,Sony Computer Entertainment  ,SCEA Santa Monica Studio  ,,,0.16,0.12,,0.04,0.32,2001,Racing
+7902,Eternal Sonata,X360,Namco Bandai  ,Tri-Crescendo  ,7.9,,0.19,0.04,0.08,0.02,0.32,2007,Role-Playing
+7903,Shin Megami Tensei: Persona 2: Innocent Sin,PSP,Atlus  ,Atlus Co.  ,7.0,,0.14,0.04,0.11,0.04,0.32,2011,Role-Playing
+7904,Wipeout 2,Wii,Activision  ,Endemol  ,,,0.3,,,0.02,0.32,2011,Misc
+7905,Bust-A-Move '99,PS,Acclaim Entertainment  ,Taito Corporation  ,7.7,,0.18,0.12,,0.02,0.32,1999,Puzzle
+7906,NBA Street V3,XB,EA Sports BIG   ,EA Canada  ,,,0.28,0.03,,0.01,0.32,2005,Sports
+7907,Pony Friends 2,DS,Square Enix  ,Tantalus Interactive  ,,,0.21,0.09,,0.02,0.32,2010,Simulation
+7908,My Baby: First Steps,DS,SouthPeak Interactive  ,Nobilis  ,,,0.27,0.03,,0.02,0.32,2009,Simulation
+7909,Dragon Quest Monsters 1·2,PS,Enix  ,TOSE  ,,,,,0.3,0.02,0.32,2002,Role-Playing
+7910,Kurushi Final: Mental Blocks,PS,Sony Computer Entertainment  ,Sony Computer Entertainment  ,,,,,0.32,,0.32,1999,Puzzle
+7911,Operation Flashpoint: Red River,PS3,Codemasters  ,Codemasters  ,6.8,,0.06,0.14,0.07,0.05,0.32,2011,Shooter
+7912,Dead Space 2,PC,Electronic Arts  ,Visceral Games  ,8.9,,0.13,0.15,,0.04,0.32,2011,Shooter
+7913,Army of Two: The 40th Day,PSP,Electronic Arts  ,Buzz Monkey Software  ,4.8,,0.12,0.13,,0.08,0.32,2010,Shooter
+7914,God Mode,PC,Atlus  ,Unknown  ,,,,,,,,2014,Misc
+7915,F1 Race Stars,PS3,Codemasters  ,Codemasters Birmingham  ,,,0.07,0.2,,0.05,0.32,2012,Racing
+7916,OverBlood,PS,Electronic Arts  ,Riverhillsoft  ,,,0.05,0.04,0.21,0.02,0.32,1997,Action
+7917,Borderlands: The Pre-Sequel,PC,2K Games  ,Unknown  ,,,0.14,0.15,,0.03,0.32,2014,Misc
+7918,ESPN X-Games Pro Boarder,PS,Electronic Arts  ,Radical Entertainment  ,,,0.18,0.12,,0.02,0.32,1998,Sports
+7919,LEGO The Incredibles,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.19,0.1,,0.03,0.32,2018,Action
+7920,Power Rangers Samurai,DS,Namco Bandai  ,Namco Bandai Games  ,,,0.26,0.04,,0.03,0.32,2011,Action
+7921,Battlefleet Gothic: Armada,PC,Koch Media  ,Tindalos Interactive  ,,,,0.0,,0.0,0.0,2016,Strategy
+7922,FIFA Street 3,PS3,EA Sports BIG   ,EA Canada  ,,,0.08,0.18,0.0,0.06,0.32,2008,Sports
+7923,Harvest Moon: Back to Nature,PS,Natsume  ,Victor Interactive Software  ,,,0.11,0.07,0.12,0.02,0.32,2000,Simulation
+7924,Overlord II,X360,Codemasters  ,Triumph Studios  ,,,0.15,0.14,,0.03,0.32,2009,Action
+7925,Naruto: Ultimate Ninja (JP sales),PS2,Namco Bandai  ,CyberConnect2  ,,,,,0.32,,0.32,2006,Fighting
+7926,Dance Dance Revolution Universe,X360,Konami  ,Bemani  ,,,0.3,,,0.02,0.32,2007,Simulation
+7927,Final Fantasy XI: Online,PS2,Square Enix  ,Square Enix  ,8.4,,0.08,0.06,0.15,0.02,0.32,2004,MMO
+7928,Madden NFL 09,DS,EA Sports  ,EA Tiburon  ,,,0.3,0.0,,0.02,0.32,2008,Sports
+7929,MLB 07: The Show,PS3,Sony Computer Entertainment  ,SCE San Diego Studio  ,,,0.29,,,0.03,0.32,2007,Sports
+7930,Bleach: Shattered Blade,Wii,Sega  ,Polygon Magic  ,5.3,,0.21,0.01,0.08,0.02,0.32,2007,Fighting
+7931,Beautiful Katamari,X360,Namco Bandai  ,Now Production  ,7.3,,0.14,0.02,0.15,0.02,0.32,2007,Puzzle
+7932,"Go, Diego, Go!: Great Dinosaur Rescue",PS2,2K Play  ,High Voltage Software  ,,,0.16,0.12,,0.04,0.32,2008,Action
+7933,Vin Diesel: Wheelman,PS3,Ubisoft  ,Tigon  ,6.9,,0.12,0.14,,0.05,0.32,2009,Racing
+7934,Darkwatch,PS2,Capcom  ,High Moon Studios  ,,,0.16,0.12,,0.04,0.32,2005,Shooter
+7935,Chibi-Robo! Zip Lash,3DS,Nintendo  ,Nintendo  ,5.5,,0.14,0.09,0.07,0.02,0.32,2015,Platform
+7936,Tony Hawk's American Wasteland,X360,Activision  ,Neversoft Entertainment  ,8.2,,0.28,0.01,,0.03,0.32,2005,Sports
+7937,The Bridge,PC,Unknown  ,Unknown  ,,,,,,,,2013,Misc
+7938,LEGO Marvel's Avengers,WiiU,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.15,0.14,0.01,0.03,0.32,2016,Action
+7939,Prince of Persia: The Sands of Time,GC,Ubisoft  ,Ubisoft Montreal  ,9.0,,0.25,0.06,,0.01,0.32,2003,Adventure
+7940,The Hat Man: Shadow Ward,PC,Unknown  ,Game Mechanics LLC  ,,,,,,,,N/A,Action-Adventure
+7941,Sky Odyssey,PS2,Activision  ,CAProduction  ,,,0.16,0.12,,0.04,0.32,2000,Simulation
+7942,Folklore,PS3,Sony Computer Entertainment  ,Game Republic  ,7.5,8.7,0.2,0.04,0.05,0.03,0.32,2007,Role-Playing
+7943,Zeno Clash,PC,Tripwire Interactive  ,ACE Team  ,,,,,,,,2009,Shooter
+7944,Nagano Winter Olympics 98,N64,Konami  ,Konami Computer Entertainment Osaka  ,,,0.15,0.04,0.13,0.0,0.32,1998,Sports
+7945,Rayman 2: The Great Escape,PS,Ubisoft  ,Ubisoft Shanghai  ,8.7,,0.18,0.12,,0.02,0.32,2000,Platform
+7946,Kirby's Block Ball,GB,Nintendo  ,HAL Laboratory  ,,,,,0.32,,0.32,1996,Puzzle
+7947,South Park: The Fractured But Whole,PC,Ubisoft  ,Ubisoft San Francisco  ,,,0.05,0.03,,0.01,0.09,2017,Role-Playing
+7948,Fortress,GBA,Majesco  ,Pipe Dream Interactive  ,6.6,,0.23,0.08,,0.01,0.32,2001,Action
+7949,Blood Omen: Legacy of Kain,All,Crystal Dynamics  ,Silicon Knights  ,,,,,,,,1996,Action-Adventure
+7950,FIFA 2001 Major League Soccer,PS,EA Sports  ,EA Canada  ,,,0.18,0.12,,0.02,0.32,2000,Sports
+7951,Karaoke Revolution Presents American Idol Encore 2,Wii,Konami  ,Blitz Games  ,,,0.3,,,0.02,0.32,2008,Misc
+7952,HunieCam Studio,PC,Unknown  ,HuniePot  ,,,,,,,,N/A,Simulation
+7953,Fantastic Four,All,Activision  ,7 Studios  ,,,,,,,,2005,Action-Adventure
+7954,Mobile Suit Gundam Battlefield Record U.C.0081,PS3,Bandai  ,Bec  ,,,,,0.24,,0.24,2009,Action
+7955,Rally Cross,PS,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.18,0.12,,0.02,0.32,1997,Racing
+7956,Frogger's Adventures: The Rescue,PS2,Konami  ,Konami  ,,,0.16,0.12,,0.04,0.32,2003,Platform
+7957,Extreme Pinball,PS,Electronic Arts  ,Epic Games  ,,,0.18,0.12,,0.02,0.32,1996,Misc
+7958,Karaoke Revolution Volume 3,PS2,Konami  ,Harmonix Music Systems  ,,,0.16,0.12,,0.04,0.32,2004,Misc
+7959,Phineas and Ferb: Across the 2nd Dimension,PS3,Disney Interactive Studios  ,High Impact Games  ,6.8,,0.15,0.12,,0.05,0.32,2011,Action
+7960,The Jackbox Party Pack 3,PC,Jackbox Games  ,Jackbox Games  ,,,,,,,,2016,Party
+7961,Seaman: Kindan no Pet - Gaze Hakushi no Jikken Shima,PS2,ASCII Entertainment  ,VIVARIUM Inc.  ,,,,,0.32,,0.32,2001,Simulation
+7962,Street Fighter Alpha 2,SAT,Capcom  ,Capcom  ,8.1,,,,0.32,,0.32,1996,Fighting
+7963,No.1 Muscle Ranking - Kinniku Banzuke Vol. 1: Oregasaikyouno Otokoda!,PS,Konami  ,Konami  ,,,,,0.3,0.02,0.32,1999,Sports
+7964,Spintires: MudRunner,PC,Focus Home Interactive  ,Saber Interactive  ,,,,0.0,,0.0,0.01,2017,Simulation
+7965,Cartoon Network Collection: Game Boy Advance Video Platinum Edition,GBA,Majesco  ,Majesco Games  ,,,0.23,0.08,,0.01,0.32,2005,Misc
+7966,Ultimate Fighting Championship: Throwdown,PS2,Crave Entertainment  ,Opus Studio  ,,,0.16,0.12,,0.04,0.32,2002,Fighting
+7967,SpongeBob SquarePants: Double Pack,GBA,THQ  ,THQ  ,,,0.23,0.08,,0.01,0.32,2005,Platform
+7968,Tetris 2 + Bombliss,NES,BPS  ,ChunSoft  ,,,,,0.32,,0.32,1991,Puzzle
+7969,"Carnival Games: Monkey See, Monkey Do!",X360,2K Play  ,Take-Two Interactive  ,,,0.14,0.15,,0.03,0.32,2011,Misc
+7970,Disney's Extreme Skate Adventure,PS2,Activision  ,Toys for Bob  ,,,0.16,0.12,,0.04,0.32,2003,Sports
+7971,Rock Band Country Track Pack,PS2,MTV Games  ,Harmonix Music Systems  ,,,0.16,0.12,,0.04,0.32,2009,Misc
+7972,WipEout Pulse,PSP,Sony Computer Entertainment  ,Studio Liverpool  ,8.2,,0.13,0.12,,0.06,0.32,2008,Racing
+7973,Farming Simulator 19,XOne,Focus Home Interactive  ,Giants Software  ,,,0.19,0.09,,0.03,0.32,2018,Simulation
+7974,Prey,X360,2K Games  ,Venom Games / Human Head Studios  ,8.2,,0.27,0.03,,0.02,0.32,2006,Shooter
+7975,"Ed, Edd n Eddy: Jawbreakers!",GBA,BAM! Entertainment  ,Crawfish Interactive - Climax  ,5.0,,0.23,0.08,,0.01,0.32,2002,Adventure
+7976,F1 2016,PC,Codemasters  ,Codemasters  ,,,,0.08,,0.0,0.08,2017,Racing
+7977,NEKOPARA Vol. 2,PC,Unknown  ,Neko Works  ,,,,,,,,N/A,Visual Novel
+7978,Dragster,2600,Activision  ,Activision  ,,,0.3,0.02,,0.0,0.32,1980,Racing
+7979,Frankenstein's Monster,2600,Data Age  ,Data Age  ,,,0.3,0.02,,0.0,0.32,1983,Action
+7980,BlazBlue: Chrono Phantasma,PS3,Arc System Works  ,Arc System Works  ,,,0.15,,0.14,0.03,0.32,2014,Fighting
+7981,Riven: The Sequel to Myst,PS,Acclaim Entertainment  ,SunSoft  ,,,0.18,0.12,,0.02,0.32,1997,Adventure
+7982,Derby Stallion DS,DS,Enterbrain  ,ParityBit  ,,,,,0.32,,0.32,2008,Sports
+7983,Cabela's Dangerous Hunts 2011,X360,Activision  ,Cauldron  ,,,0.28,0.01,,0.02,0.32,2010,Sports
+7984,The Darkness II,PS3,2K Games  ,Digital Extremes  ,,,0.14,0.14,,0.04,0.32,2012,Shooter
+7985,Cars 3: Driven to Win,NS,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,,,0.13,0.14,0.02,0.02,0.32,2017,Racing
+7986,The Biggest Loser,DS,THQ  ,Webfoot Technologies  ,,,0.18,0.11,,0.03,0.32,2009,Sports
+7987,NBA 2K3,XB,Sega  ,Visual Concepts  ,,,0.24,0.07,,0.01,0.32,2002,Sports
+7988,Batman: Arkham Origins,WiiU,Warner Bros. Interactive Entertainment  ,Warner Bros. Interactive Entertainment  ,,,0.19,0.1,0.0,0.03,0.32,2013,Action-Adventure
+7989,Dragon Ball Z: Battle of Z,PS3,Namco Bandai Games  ,ArtDink  ,,,0.1,0.11,0.07,0.04,0.32,2014,Fighting
+7990,Dragon Quest Monsters: Battle Road Victory,Wii,Square Enix  ,Armor Project/Bird Studio  ,,,,,0.32,,0.32,2010,Strategy
+7991,Shin Momotarou Densetsu,SNES,Hudson Soft  ,Hudson Soft  ,,,,,0.32,,0.32,1993,Role-Playing
+7992,From TV Animation One Piece: Grand Battle! 3,PS2,Bandai  ,Ganbarion  ,,,,,0.32,,0.32,2003,Fighting
+7993,Puzzle & Dragons X: God Chapter / Dragon Chapter,3DS,GungHo Online Entertainment  ,GungHo Online Entertainment  ,,,,,0.32,,0.32,2016,Puzzle
+7994,Bigfoot: Collision Course,Wii,Zoo Digital Publishing  ,Destination Software  ,,,0.3,,,0.02,0.32,2008,Racing
+7995,Sega Smash Pack,GBA,THQ  ,CodeFire  ,,,0.23,0.08,,0.01,0.32,2002,Misc
+7996,All-Star Baseball 2005,PS2,Acclaim Entertainment  ,Acclaim Entertainment  ,,,0.16,0.12,,0.04,0.32,2004,Sports
+7997,Marvel Nemesis: Rise of the Imperfects,PSP,Electronic Arts  ,Team Fusion  ,6.8,,0.29,0.0,,0.02,0.32,2005,Fighting
+7998,The Conveni: Ano Machi wo Dokusen Seyo,PS,Human Entertainment  ,Human Entertainment  ,,,,,0.3,0.02,0.32,1997,Simulation
+7999,Shin Super Robot Taisen Special Disk,PS,Banpresto  ,Banpresto  ,,,,,0.3,0.02,0.32,1997,Strategy
+8000,Live A Live,SNES,Square  ,SquareSoft  ,,,,,0.32,,0.32,1994,Role-Playing
+8001,NFL Fever 2004,XB,Microsoft Game Studios  ,Microsoft Game Studios  ,,,0.24,0.07,,0.01,0.32,2003,Sports
+8002,Madden NFL 2002,GBA,EA Sports  ,BudCat Creations  ,,,0.23,0.08,,0.01,0.32,2001,Sports
+8003,UEFA Euro 2008 Austria-Switzerland,PS2,Electronic Arts  ,Unknown  ,,,0.03,0.0,,0.28,0.32,2008,Sports
+8004,Test Drive Unlimited,X360,Atari  ,Eden Studios  ,8.0,,0.23,0.04,0.02,0.02,0.32,2006,Racing
+8005,Singularity,X360,Activision  ,Raven Software  ,7.7,,0.24,0.04,0.0,0.03,0.32,2010,Shooter
+8006,Birthday Party Bash,Wii,2K Play  ,Cat Daddy Games  ,,,0.29,0.0,,0.02,0.32,2009,Misc
+8007,Kingdom Under Fire: The Crusaders,XB,Microsoft  ,Phantagram  ,,,0.24,0.07,,0.01,0.32,2004,Strategy
+8008,Goosebumps HorrorLand,DS,Scholastic Inc.  ,Gusto Games  ,,,0.29,0.0,,0.02,0.32,2008,Adventure
+8009,4x4 Evolution,PS2,Gathering of Developers  ,Terminal Reality  ,,,0.16,0.12,,0.04,0.32,2001,Racing
+8010,Clive Barker's Jericho,X360,Codemasters  ,Mercury Steam / Alchemic Productions  ,5.8,,0.28,0.01,,0.02,0.32,2007,Shooter
+8011,LEGO The Lord of the Rings,PSV,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.09,0.16,,0.07,0.32,2012,Misc
+8012,Overlord II,PS3,Codemasters  ,Triumph Studios  ,,,0.11,0.15,,0.05,0.32,2009,Action
+8013,Momotarou Dentetsu Happy,SNES,Hudson Soft  ,Hudson Soft  ,,,,,0.32,,0.32,1996,Misc
+8014,Power Rangers: Time Force,PS,THQ  ,Climax Group  ,,,0.18,0.12,,0.02,0.32,2001,Action
+8015,Payday 2,PS4,505 Games  ,Overkill Software  ,6.5,,0.12,0.14,,0.05,0.32,2015,Shooter
+8016,Romance of the Three Kingdoms VII,PS2,KOEI  ,Koei  ,,,0.08,0.06,0.16,0.02,0.32,2002,Strategy
+8017,Atom Zombie Smasher,PC,Unknown  ,Blendo Games  ,7.2,,,,,,,2011,Strategy
+8018,Chicken Blaster,Wii,Zoo Games  ,FrontLine Studios  ,,,0.29,0.0,,0.02,0.32,2009,Shooter
+8019,Littlest Pet Shop: City Friends,DS,Electronic Arts  ,EA Salt Lake  ,,,0.29,0.0,,0.02,0.32,2009,Simulation
+8020,BlazBlue: Continuum Shift,X360,Aksys Games  ,Arc System Works  ,8.6,,0.23,0.04,0.02,0.02,0.32,2010,Fighting
+8021,DJ Hero,PS2,Activision  ,FreeStyleGames  ,8.3,,0.1,0.02,,0.2,0.32,2009,Misc
+8022,"Monsters, Inc.",PS2,Sony Computer Entertainment  ,Artificial Mind and Movement  ,,,0.15,0.12,,0.04,0.32,2002,Adventure
+8023,Rugby World Cup 2011,PS3,505 Games  ,HB Studios Multimedia  ,4.5,,,0.25,,0.07,0.32,2011,Sports
+8024,One Way Heroics,PC,Unknown  ,Smoking Wolf  ,,,,,,,,N/A,Role-Playing
+8025,Quiz Magic Academy DS,DS,Konami  ,Konami  ,,,,,0.32,,0.32,2008,Misc
+8026,Crash of the Titans,X360,Sierra Entertainment  ,Radical Entertainment  ,6.6,,0.27,0.02,,0.02,0.32,2007,Action
+8027,Dynasty Warriors 4 Empires,PS2,KOEI  ,Omega Force  ,,,,,0.32,,0.32,2004,Action
+8028,Shenmue II,XB,Microsoft  ,Sega-AM2  ,7.9,,0.22,0.08,,0.01,0.32,2002,Adventure
+8029,Heart of Darkness,PS,Interplay  ,Amazing Studios  ,,,0.18,0.12,,0.02,0.32,1998,Platform
+8030,Virtua Striker 2,DC,Sega  ,Sega  ,,,,,0.32,,0.32,2000,Sports
+8031,Little Deviants,PSV,Sony Computer Entertainment  ,Bigbig Studios  ,,,0.14,0.13,,0.05,0.32,2012,Platform
+8032,Shin Megami Tensei: Devil Survivor 2,DS,Atlus  ,Atlus Co.  ,,,0.16,0.02,0.12,0.01,0.31,2012,Role-Playing
+8033,SimplePlanes,PC,Unknown  ,"Jundroo, LLC  ",,,,,,,,N/A,Simulation
+8034,LUFTRAUSERS,PC,Vlambeer  ,Unknown  ,,,,,,,,2014,Misc
+8035,Shrek the Third,PSP,Activision  ,Amaze Entertainment  ,,,0.08,0.15,,0.09,0.31,2007,Action
+8036,WarCraft II: The Dark Saga,PS,Electronic Arts  ,Blizzard Entertainment  ,7.3,,0.18,0.12,,0.02,0.31,1997,Strategy
+8037,1001 Touch Games,DS,Unknown  ,Avanquest Software  ,,,0.11,0.17,,0.03,0.31,2011,Action
+8038,METRO Redux,XOne,Deep Silver  ,4a-games  ,,,0.15,0.14,,0.03,0.31,2014,Shooter
+8039,MonHun Nikki: Poka Poka Ailu Mura G,PSP,Capcom  ,From Software  ,,,,,0.31,,0.31,2011,Role-Playing
+8040,Harry Potter and the Half-Blood Prince,X360,Electronic Arts  ,Bright Light Productions  ,,,0.17,0.11,,0.03,0.31,2009,Action
+8041,Tricky Towers,PC,Unknown  ,WeirdBeard  ,,,,,,,,N/A,Strategy
+8042,Crash Nitro Kart,XB,VU Games  ,Vicarious Visions  ,,,0.24,0.07,,0.01,0.31,2003,Racing
+8043,Monster Lab,Wii,Eidos Interactive  ,Backbone Entertainment  ,,,0.27,0.02,,0.02,0.31,2008,Role-Playing
+8044,Tales of Phantasia,GBA,Nintendo  ,Wolfteam / Namco Tales Studio  ,7.0,,0.08,0.03,0.17,0.01,0.29,2006,Role-Playing
+8045,NBA ShootOut,PS,Sony Computer Entertainment  ,Sony Interactive Studios America  ,,,0.17,0.12,,0.02,0.31,1996,Sports
+8046,Bust-A-Move Universe,3DS,Square Enix  ,Arika  ,5.6,,0.08,0.15,0.06,0.02,0.31,2011,Puzzle
+8047,Jikkyou Powerful Pro Yakyuu 14,PS2,Konami  ,PawaPuro Production  ,,,,,0.31,,0.31,2007,Sports
+8048,Fishing Master,Wii,Konami  ,Hudson Soft  ,,,0.29,0.0,,0.02,0.31,2007,Sports
+8049,Ultimate Marvel vs. Capcom 3,PSV,Capcom  ,Capcom  ,,,0.17,0.09,,0.05,0.31,2012,Fighting
+8050,Peppa Pig: Theme Park Fun,DS,P2 Games  ,Strawdogs Studios Limited  ,,,,0.28,,0.03,0.31,2011,Misc
+8051,Madden NFL 2004,GBA,EA Sports  ,BudCat Creations  ,,,0.22,0.08,,0.01,0.31,2003,Sports
+8052,Digimon World: Dawn / Dusk,DS,Namco Bandai  ,Bandai Namco Games  ,,,0.12,,0.18,0.01,0.31,2007,Role-Playing
+8053,Ganbare Goemon: KiraKira Douchuu - Boku ga Dancer ni Natta Riyuu,SNES,Konami  ,Konami  ,,,,,0.31,0.0,0.31,1995,Platform
+8054,Manhunt 2,PSP,Rockstar Games  ,Rockstar London  ,,,0.04,0.18,,0.1,0.31,2007,Action
+8055,Jikkyou Powerful Pro Yakyuu Portable 3,PSP,Konami  ,PawaPuro Productions  ,,,,,0.31,,0.31,2008,Sports
+8056,Mario Golf,GB,Nintendo  ,Camelot Software Planning  ,,,,,0.31,,0.31,1999,Sports
+8057,Pandora's Tower,Wii,Xseed Games  ,Ganbarion  ,,,0.11,0.1,0.08,0.03,0.31,2013,Role-Playing
+8058,Sonic Boom: Rise of Lyric,WiiU,Sega  ,Big Red Button  ,3.7,,0.19,0.09,,0.03,0.31,2014,Action-Adventure
+8059,Sesame Street: Elmo's Letter Adventure,PS,NewKidCo  ,Realtime Associates  ,,,0.17,0.12,,0.02,0.31,1998,Misc
+8060,Catherine,X360,Atlus  ,Atlus  ,7.9,,0.2,0.06,0.03,0.02,0.31,2011,Puzzle
+8061,NBA Inside Drive 2003,XB,Microsoft Game Studios  ,High Voltage Software  ,,,0.23,0.07,,0.01,0.31,2002,Sports
+8062,Super Robot Wars OG Gaiden,PS2,Unknown  ,Banpresto  ,,,,,,,,N/A,Role-Playing
+8063,FIFA Street,PS2,EA Sports BIG   ,EA Canada  ,,,0.15,0.12,,0.04,0.31,2005,Sports
+8064,Namco Museum: Virtual Arcade,X360,Namco Bandai  ,Namco Bandai Games  ,7.0,,0.27,0.01,0.01,0.02,0.31,2008,Misc
+8065,Monsters vs. Aliens,PS3,Activision  ,Beenox  ,,,0.21,0.06,,0.04,0.31,2009,Platform
+8066,Sniper Elite III,PS3,505 Games  ,Rebellion Developments  ,,,0.12,0.14,,0.05,0.31,2014,Shooter
+8067,Jampack: Summer 2003 (RP-M),PS2,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.15,0.12,,0.04,0.31,2003,Misc
+8068,Alone in the Dark: One-Eyed Jack's Revenge,PS,Kokopeli Digital Studios  ,I*Motion  ,,,0.17,0.12,,0.02,0.31,1996,Adventure
+8069,Yu-Gi-Oh! The Dawn of Destiny,XB,Konami  ,Konami Computer Entertainment Japan  ,,,0.23,0.07,,0.01,0.31,2004,Strategy
+8070,The Matrix: Path of Neo,XB,Atari  ,Shiny Entertainment  ,6.7,,0.23,0.07,,0.01,0.31,2005,Action
+8071,Mega Man Maverick Hunter X,PSP,Capcom  ,Capcom  ,7.9,,0.27,0.01,,0.03,0.31,2006,Platform
+8072,Modnation Racers: Road Trip,PSV,Sony Computer Entertainment  ,SCEA  ,,,0.15,0.11,,0.05,0.31,2012,Racing
+8073,Mortal Kombat: Shaolin Monks,XB,Midway Games  ,Midway Studios Los Angeles  ,,,0.23,0.07,,0.01,0.31,2005,Action
+8074,7 Wonders II,DS,Mumbo Jumbo  ,MumboJumbo  ,,,0.13,0.15,,0.03,0.31,2010,Puzzle
+8075,Einhänder,PS,Sony Computer Entertainment  ,SquareSoft  ,,,0.1,0.07,0.13,0.02,0.31,1998,Shooter
+8076,Tiny Toon Adventures: The Great Beanstalk,PS,NewKidCo  ,Terraglyph Interactive Studios  ,,,0.17,0.12,,0.02,0.31,1998,Misc
+8077,Foto Frenzy: Spot The Diffrence,DS,Storm City Games  ,Storm City Games  ,,,0.29,,,0.02,0.31,2009,Puzzle
+8078,Clash of the Titans: The Videogame,PS3,Namco Bandai  ,Game Republic  ,,,0.09,0.15,0.01,0.05,0.31,2010,Action
+8079,My Horse & Me,Wii,Atari  ,W!Games  ,,,0.27,0.02,,0.02,0.31,2008,Sports
+8080,The Legend of Spyro: Dawn of the Dragon,X360,Vivendi Games  ,Etranges Libellules  ,,,0.16,0.13,,0.03,0.31,2008,Platform
+8081,Dragon Quest Builders: Revive Alefgard,PSV,Square Enix  ,Square Enix  ,,,,,0.31,,0.31,2016,Role-Playing
+8082,Fuel,X360,Codemasters  ,Asobo Studio  ,6.6,,0.09,0.18,0.0,0.04,0.31,2009,Racing
+8083,Armored Core: Silent Line,PS2,Agetec  ,From Software  ,,,0.07,0.06,0.16,0.02,0.31,2003,Simulation
+8084,SD Gundam G Generation Wars,PS2,Bandai  ,Tom Create  ,,,,,0.31,,0.31,2009,Strategy
+8085,Dr. Seuss: How the Grinch Stole Christmas,DS,CokeM Interactive  ,Unknown  ,,,0.29,,,0.02,0.31,2007,Action
+8086,Panzer Dragoon II Zwei,SAT,Sega  ,Team Andromeda  ,,,,,0.31,0.0,0.31,1996,Shooter
+8087,KISS Pinball,PS,Take-Two Interactive  ,Take-Two Interactive  ,,,0.17,0.12,,0.02,0.31,2001,Action
+8088,Brothers In Arms: Earned In Blood,XB,Ubisoft  ,Unknown  ,,,0.23,0.07,,0.01,0.31,2005,Action
+8089,Dark Void,X360,Capcom  ,Airtight Games  ,6.1,,0.19,0.09,,0.03,0.31,2010,Action
+8090,2 Games in 1: Disney's Brother Bear / The Lion King 1 1/2,GBA,THQ  ,Vicarious Visions  ,,,0.22,0.08,,0.01,0.31,2005,Action
+8091,Super Robot Taisen Complete Box,PS,Banpresto  ,Bandai  ,,,,,0.29,0.02,0.31,1999,Strategy
+8092,Gold's Gym: Cardio Workout (Others sales),Wii,Ubisoft  ,Rocket Company  ,,,,0.3,,0.02,0.31,2009,Sports
+8093,Atonement: Scourge of Time,PC,Unknown  ,Astronomic Games  ,,,,,,,,N/A,Adventure
+8094,The LEGO Movie Videogame,PSV,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.04,0.2,,0.07,0.31,2014,Action-Adventure
+8095,XCOM 2,PC,2K Games  ,Firaxis Games  ,,,0.12,0.16,,0.02,0.31,2015,Strategy
+8096,Yellow: The Yellow Artifact,PC,Unknown  ,Unknown  ,,,,,,,,N/A,Platform
+8097,SimAnimals,Wii,Electronic Arts  ,Electronic Arts  ,,,0.14,0.14,,0.03,0.31,2009,Simulation
+8098,UEFA Euro 2016,PS4,Konami Digital Entertainment  ,Konami Digital Entertainment  ,,,,0.22,0.05,0.04,0.31,2016,Sports
+8099,Barbie as The Island Princess,DS,Activision  ,Human Soft / Ivolgamus  ,,,0.28,0.01,,0.02,0.31,2007,Adventure
+8100,Project Starship,PC,Unknown  ,Panda Indie Studio  ,,,,,,,,N/A,Shooter
+8101,Happy Feet,DS,Midway Games  ,Artificial Mind and Movement  ,,,0.27,0.01,,0.02,0.31,2006,Adventure
+8102,A.C.E.: Another Century's Episode R,PS3,Namco Bandai  ,From Software  ,,,,,0.26,,0.26,2010,Simulation
+8103,Animal Crossing,N64,Nintendo  ,Nintendo EAD  ,,,,,0.26,0.05,0.31,2001,Simulation
+8104,Bass Hunter 64,N64,Take-Two Interactive  ,Gear Head Entertainment  ,6.0,,0.25,0.06,,0.0,0.31,1999,Sports
+8105,Dead or Alive: Dimensions,3DS,Tecmo Koei  ,Team Ninja  ,7.8,,0.13,0.22,0.07,0.03,0.45,2011,Fighting
+8106,DmC Devil May Cry: Definitive Edition,PS4,Capcom  ,QLOC  ,,,0.12,0.13,,0.05,0.31,2015,Action
+8107,Fairy Tail,All,Koei Tecmo  ,Gust  ,,,,,,,,2020,Role-Playing
+8108,Goemon's Great Adventure,N64,Konami  ,Konami Computer Entertainment Osaka  ,,,0.06,0.02,0.13,0.1,0.31,1999,Platform
+8109,Hot Wheels Turbo Racing,N64,Electronic Arts  ,Stormfront Studios  ,,,0.25,0.06,,0.0,0.31,1999,Racing
+8110,Jikkyou Powerful Pro Yakyuu 4,N64,Konami  ,Diamond Head  ,,,,,0.26,0.05,0.31,1997,Sports
+8111,Vigilante 8,N64,Activision  ,"Luxoflux, Inc.  ",,,0.25,0.06,,0.0,0.31,1998,Racing
+8112,Warriors Orochi 4,NS,Koei Tecmo  ,Omega Force  ,8.5,,0.02,,0.05,0.0,0.07,2018,Action
+8113,Hitman,XOne,Square Enix  ,IO Interactive  ,,,0.2,0.08,,0.03,0.31,2017,Action
+8114,MySims SkyHeroes,DS,Electronic Arts  ,The Sims Studio  ,,,0.2,0.08,,0.03,0.31,2010,Action
+8115,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,PC,Unknown  ,Opus Studio  ,,,,,,,,N/A,Action
+8116,Major League Baseball 2K8,PS3,2K Sports  ,Kush Games  ,,,0.28,,0.0,0.03,0.31,2008,Sports
+8117,Might & Magic: Clash of Heroes,PC,Ubisoft  ,Capybara Games  ,,8.0,,,,,,2011,Role-Playing
+8118,SingStar Take That,PS3,Sony Computer Entertainment  ,SCEE London Studio  ,,,,0.28,,0.03,0.31,2009,Misc
+8119,J-League Winning Eleven 2007: Club Championship,PS2,Konami  ,Konami  ,,,,,0.31,,0.31,2007,Sports
+8120,Star Wars Jedi Knight II: Jedi Outcast,XB,LucasArts  ,Vicarious Visions  ,,,0.23,0.07,,0.01,0.31,2003,Shooter
+8121,Mega Man Battle Network 2,GBA,Ubisoft  ,Capcom  ,,,0.22,0.08,,0.01,0.31,2002,Action
+8122,Mega Man Zero Collection,DS,Capcom  ,Inti Creates  ,7.5,,0.17,0.01,0.11,0.02,0.31,2010,Platform
+8123,Lord of the Rings: Battle for Middle-Earth,X360,Electronic Arts  ,EA Los Angeles  ,,,0.28,,,0.02,0.31,2006,Strategy
+8124,Lego Batman 3: Beyond Gotham,PSV,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.05,0.19,,0.07,0.31,2014,Action
+8125,Mountain King,2600,CBS Electronics  ,CBS Electronics  ,,,0.29,0.02,,0.0,0.31,1983,Action
+8126,Tiger Woods PGA Tour 06,X360,EA Sports  ,EA Sports  ,6.9,,0.28,0.0,,0.02,0.31,2005,Sports
+8127,Jampack Volume 12,PS2,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.15,0.12,,0.04,0.31,2005,Misc
+8128,Shaun White Snowboarding,PS2,Ubisoft  ,Ubisoft Montreal  ,6.2,,0.15,0.12,,0.04,0.31,2008,Sports
+8129,Devil Summoner: Soul Hackers,SAT,Atlus  ,Atlus Co.  ,,,,,0.31,,0.31,1997,Role-Playing
+8130,Shrek's Carnival Craze Party Games,Wii,Activision  ,Ivolgamus  ,,,0.28,0.0,,0.02,0.31,2008,Misc
+8131,The Incredible Hulk,Wii,Sega  ,Edge of Reality  ,,,0.28,0.01,,0.02,0.31,2008,Action
+8132,Sonic Mania,PS4,Sega  ,PagodaWest Games  ,,,0.1,0.15,0.01,0.05,0.31,2017,Platform
+8133,J Stars Victory Vs.,PS4,Namco Bandai Games  ,Namco Bandai Games  ,,,0.11,0.14,,0.05,0.31,2015,Fighting
+8134,Demolition Racer,PS,Infogrames  ,Pitbull Syndicate  ,,,0.17,0.12,,0.02,0.31,1999,Racing
+8135,Midway Arcade Treasures 2,XB,Midway Games  ,Backbone Entertainment  ,,,0.24,0.05,,0.01,0.31,2004,Misc
+8136,Final Fantasy IV,PS,SquareSoft  ,SquareSoft  ,,,,,0.29,0.02,0.31,2001,Role-Playing
+8137,MX vs. ATV Reflex,PC,Unknown  ,Double Helix Games  ,,,,,,,,N/A,Racing
+8138,Yu-Gi-Oh! 5D's World Championship 2010 Reverse of Arcadia,DS,Konami  ,Konami  ,7.6,,0.18,0.02,0.09,0.02,0.31,2010,Strategy
+8139,NASCAR Thunder 2003,GC,EA Sports  ,EA Tiburon  ,8.8,,0.24,0.06,,0.01,0.31,2002,Racing
+8140,Mercenary Kings,PC,Tribute Games  ,Unknown  ,,,,,,,,2014,Misc
+8141,XCOM 2,PS4,2K Games  ,Firaxis Games  ,,,0.16,0.1,,0.05,0.31,2016,Strategy
+8142,The Jackbox Party Pack,PC,Jackbox Games  ,Jackbox Games  ,,,,,,,,2014,Party
+8143,NHL FaceOff 2000,PS,989 Studios  ,SolWorks  ,,,0.17,0.12,,0.02,0.31,1999,Sports
+8144,Jonah Lomu Rugby Challenge,X360,Mad Catz  ,Sidhe Interactive  ,,,0.09,0.19,,0.03,0.31,2011,Sports
+8145,Star Wars Racer Revenge,PS2,LucasArts  ,Rainbow Studios  ,7.8,,0.15,0.12,,0.04,0.31,2002,Racing
+8146,Cabela's Outdoor Adventures (2009),Wii,Activision  ,Activision  ,,,0.28,,,0.02,0.31,2009,Sports
+8147,Dream Daddy: A Dad Dating Simulator,PC,Unknown  ,Game Grumps  ,,,,,,,,N/A,Simulation
+8148,Spider-Man 3,PSP,Activision  ,Treyarch  ,5.3,,0.01,0.24,,0.06,0.31,2007,Platform
+8149,NCAA Final Four 2002,PS2,Sony Computer Entertainment  ,989 Sports  ,,,0.15,0.12,,0.04,0.31,2001,Sports
+8150,TRON: Evolution,X360,Disney Interactive Studios  ,Propaganda Games  ,,,0.24,0.05,,0.02,0.31,2010,Action
+8151,LEGO Ninjago: Shadow of Ronin,3DS,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.05,0.19,0.05,0.02,0.31,2015,Action-Adventure
+8152,Calvin Tucker's Redneck Jamboree,Wii,Zoo Games  ,Humagade  ,,,0.28,0.0,,0.02,0.31,2008,Misc
+8153,South Park: Chef's Luv Shack,PS,Acclaim Entertainment  ,Acclaim Studios Austin  ,3.1,,0.17,0.12,,0.02,0.31,1999,Misc
+8154,Music Maker,PS2,Magix  ,Magix  ,,,0.15,0.12,,0.04,0.31,2003,Misc
+8155,Slot Machine,2600,Atari  ,Atari  ,,,0.29,0.02,,0.0,0.31,2079,Action
+8156,Ganbare Goemon 2: Kiteretsu Shougun Magginesu,SNES,Konami  ,Konami  ,,,,,0.31,0.0,0.31,1993,Platform
+8157,Dynasty Warriors 8: Xtreme Legends,PS4,Tecmo Koei  ,Unknown  ,,,0.09,0.12,0.06,0.04,0.31,2014,Misc
+8158,Astroblast,2600,Mattel Interactive  ,Mattel  ,,,0.29,0.02,,0.0,0.31,1982,Action
+8159,40 Winks,PS,GT Interactive  ,Eurocom Entertainment Software  ,5.5,,0.17,0.12,,0.02,0.31,1999,Platform
+8160,Blade II,PS2,Activision  ,Mucky Foot Productions  ,,,0.15,0.12,,0.04,0.31,2002,Action
+8161,My Virtual Tutor: Reading Adventure Pre-K to Kindergarten,DS,Mentor Interactive  ,1st Playable Productions  ,,,0.29,,,0.02,0.31,2009,Misc
+8162,The Settlers 7: Paths to a Kingdom,PC,Ubisoft  ,Blue Byte  ,7.8,,,0.27,,0.04,0.31,2010,Strategy
+8163,Math Play,DS,Natsume  ,Denyu-Sha  ,,,0.28,0.0,,0.02,0.31,2007,Puzzle
+8164,Blackguards,PC,Daedalic Entertainment  ,Unknown  ,,,,,,,,2014,Misc
+8165,A Collection of Intellivision Classic Games,PS,Activision  ,LTI  ,4.3,,0.17,0.12,,0.02,0.31,1999,Misc
+8166,Star Wars Episode III: Revenge of the Sith,DS,Ubisoft  ,Ubisoft Montreal  ,7.3,,0.25,0.03,,0.02,0.31,2005,Action
+8167,Silent Hill: Shattered Memories,PSP,Konami  ,Climax Group  ,7.8,,0.09,0.13,0.01,0.07,0.31,2010,Adventure
+8168,Her Story,PC,Sam Barlow  ,Sam Barlow  ,8.7,,,,,,,2015,Adventure
+8169,Bruce Lee: Quest of the Dragon,XB,Universal Interactive  ,Ronin Entertainment  ,,,0.23,0.07,,0.01,0.31,2002,Fighting
+8170,Spin Jam,PS,Empire Interactive  ,H2O Entertainment  ,,,0.17,0.12,,0.02,0.31,2000,Puzzle
+8171,KuruKuru Kururin,GBA,Nintendo  ,Eighting/Raizing  ,7.2,,,,0.3,0.01,0.31,2001,Puzzle
+8172,Disney's The Emperor's New Groove,PS,Sony Computer Entertainment  ,Argonaut Software  ,,,0.17,0.12,,0.02,0.31,2000,Platform
+8173,NBA Live 08,PSP,Electronic Arts  ,EA Canada  ,6.8,,0.28,0.0,0.0,0.02,0.31,2007,Sports
+8174,Disney's Stitch: Experiment 626,PS2,Disney Interactive Studios  ,High Voltage Software  ,,,0.15,0.12,,0.04,0.31,2002,Action
+8175,RPG Tsukuru 2,SNES,ASCII Entertainment  ,Kuusou Kagaku  ,,,,,0.31,0.0,0.31,1996,Role-Playing
+8176,Yuu Yuu Hakusho 2: Kakutou no Sho,SNES,Namco  ,Unknown  ,,,,,0.31,,0.31,1994,Fighting
+8177,Orphen: Scion of Sorcery,PS2,Activision  ,Shade  ,,,0.15,0.12,,0.04,0.31,2000,Role-Playing
+8178,NASCAR 2011: The Game,X360,Activision  ,Eutechnyx  ,6.0,,0.29,,,0.02,0.31,2011,Racing
+8179,Agony,Series,PlayWay  ,Madmind Studio  ,,,,,,,,2018,Action-Adventure
+8180,Agony,All,PlayWay  ,Madmind Studio  ,,,,,,,,2018,Action-Adventure
+8181,Shrek: Forever After,DS,Activision  ,Griptonite Games  ,,,0.18,0.1,,0.03,0.31,2010,Platform
+8182,Tales of the World: Radiant Mythology,PSP,Namco Bandai  ,Alfa System  ,7.0,,0.17,0.01,0.23,0.02,0.43,2007,Role-Playing
+8183,Ultimate Spider-Man,GBA,Activision  ,Vicarious Visions  ,,,0.22,0.08,,0.01,0.3,2005,Action
+8184,F1 2013,X360,Codemasters  ,Codemasters Birmingham  ,,,0.01,0.28,0.0,0.02,0.3,2013,Racing
+8185,Resident Evil: Revelations 2,PS3,Capcom  ,Capcom  ,,,0.06,0.05,0.17,0.02,0.3,2015,Action
+8186,Contra 4,DS,Konami  ,WayForward Technologies  ,8.1,,0.28,,0.01,0.02,0.3,2007,Shooter
+8187,Shrek Swamp Kart Speedway,GBA,TDK Mediactive  ,Prolific  ,,,0.22,0.08,,0.01,0.3,2002,Racing
+8188,The King of Fighters XIII,PS3,Atlus  ,SNK Playmore Corporation  ,7.8,,0.17,0.07,0.04,0.03,0.3,2011,Fighting
+8189,Def Jam Rapstar,X360,Konami  ,4mm Games / Terminal Reality  ,7.4,,0.26,0.03,,0.02,0.3,2010,Misc
+8190,Gameboy Gallery,GB,Nintendo  ,Nintendo  ,,,,,0.3,0.0,0.3,1995,Misc
+8191,Virtua Cop 2,SAT,Sega  ,Sega-AM2  ,,,,,0.3,,0.3,1996,Shooter
+8192,Ehrgeiz,PS,Square  ,DreamFactory  ,6.7,,0.17,0.12,,0.02,0.3,1999,Fighting
+8193,Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center Kawashima Ryuuta Kyouju Kanshu: Nou Ryoku Trainer Portable,PSP,Sega  ,Sega  ,,,,,0.3,,0.3,2005,Misc
+8194,Spyro: Attack of the Rhynocs,GBA,Universal Interactive  ,Digital Eclipse  ,,,0.22,0.08,,0.01,0.3,2003,Platform
+8195,"Army Men World War: Land, Sea, Air",PS,3DO  ,3DO  ,,,0.17,0.12,,0.02,0.3,2000,Action
+8196,2nd Super Robot Wars Original Generation,PS3,Namco Bandai Games  ,TOSE  ,,,,,0.3,,0.3,2012,Role-Playing
+8197,Madagascar,DS,Activision  ,Vicarious Visions  ,6.3,,0.25,0.03,,0.02,0.3,2005,Platform
+8198,Naruto: Ninja Destiny (US sales),DS,D3 Publisher  ,Takara Tomy  ,,,0.3,,,,0.3,2008,Fighting
+8199,Tom Clancy's Splinter Cell 3D,3DS,Ubisoft  ,Gameloft  ,8.0,,0.14,0.07,0.07,0.02,0.3,2011,Action
+8200,Magic 2015 - Duels of the Planeswalker,PC,Wizards of the Coast  ,Stainless Games  ,,,,,,,,2014,Strategy
+8201,Battlefield: Hardline,X360,Electronic Arts  ,EA DICE  ,,,0.18,0.09,,0.03,0.3,2015,Shooter
+8202,Jumping Flash!,PS,Sony Computer Entertainment  ,Exact  ,,,0.05,0.03,0.21,0.02,0.3,1995,Platform
+8203,Karaoke Revolution Party,PS2,Konami  ,Harmonix Music Systems  ,,,0.15,0.12,,0.04,0.3,2005,Misc
+8204,Burnout,GC,Acclaim Entertainment  ,Criterion Games  ,7.7,,0.23,0.06,,0.01,0.3,2002,Racing
+8205,Cities: Skylines,PS4,Koch Media  ,Colossal Order  ,,,0.15,0.07,0.04,0.05,0.3,2017,Simulation
+8206,Lizzie McGuire 3: Homecoming Havoc,GBA,Buena Vista  ,Climax Group Inc.  ,,,0.22,0.08,,0.01,0.3,2005,Platform
+8207,Lumines ll,PSP,Buena Vista  ,Q Entertainment  ,8.0,,0.12,0.12,,0.07,0.3,2006,Puzzle
+8208,Chaos Legion,PS2,Capcom  ,Capcom Production Studio 6  ,6.2,,0.15,0.12,,0.04,0.3,2003,Action
+8209,Charlie and the Chocolate Factory,GBA,Global Star Software  ,High Voltage Software / Backbone Entertainment  ,,,0.22,0.08,,0.01,0.3,2005,Adventure
+8210,Neopets: The Darkest Faerie,PS2,Sony Computer Entertainment  ,Idol Minds Digital Entertainment  ,,,0.15,0.12,,0.04,0.3,2005,Adventure
+8211,Blazing Heroes,SAT,Sega  ,Micro Cabin  ,,,,,0.3,0.0,0.3,1996,Role-Playing
+8212,Rhythm Tengoku,GBA,Nintendo  ,Nintendo SPD Group No.1  ,,,,,0.3,0.01,0.3,2006,Music
+8213,Monopoly for Nintendo Switch,NS,Ubisoft  ,Engine Software  ,5.3,,0.06,0.22,0.01,0.02,0.3,2017,Board Game
+8214,NBA 2K19,NS,2K Sports  ,Visual Concepts  ,,,0.24,0.02,0.01,0.03,0.3,2018,Sports
+8215,Super Robot Taisen W,DS,Banpresto  ,Banpresto  ,,,,,0.3,,0.3,2007,Strategy
+8216,Cart World Series,PS,Sony Computer Entertainment  ,SCEA  ,7.0,,0.17,0.11,,0.02,0.3,1997,Racing
+8217,Sing Party,WiiU,Nintendo  ,FreeStyleGames  ,6.8,,0.15,0.13,,0.03,0.3,2012,Party
+8218,24: The Game,PS2,2K Games  ,SCEE Cambridge  ,,,0.15,0.12,,0.04,0.3,2006,Adventure
+8219,The Dukes of Hazzard II: Daisy Dukes It Out,PS,SouthPeak Interactive  ,Sinister Games  ,,,0.17,0.11,,0.02,0.3,2000,Racing
+8220,Pro Evolution Soccer 2013,X360,Konami Digital Entertainment  ,Konami  ,,,0.08,0.2,,0.03,0.3,2012,Sports
+8221,Famista '91,NES,Namco  ,Namco  ,,,,,0.3,0.0,0.3,1990,Sports
+8222,Tom Clancy's Rainbow Six: Siege,PC,Ubisoft  ,Ubisoft Montreal  ,,,0.18,0.09,,0.03,0.3,2015,Shooter
+8223,LEGO Marvel's Avengers,3DS,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.08,0.17,0.03,0.02,0.3,2016,Action
+8224,Super Robot Taisen OG: Original Generations Gaiden,PS2,Banpresto  ,Banpresto  ,,,,,0.3,,0.3,2007,Strategy
+8225,PowerUp Heroes,X360,Ubisoft  ,Ubisoft  ,4.0,,0.18,0.09,,0.03,0.3,2011,Fighting
+8226,Decathlete,SAT,Sega  ,Sega  ,,,,,0.3,0.0,0.3,1996,Sports
+8227,My Hero One's Justice,PS4,Bandai Namco Entertainment  ,Byking  ,,,0.16,0.05,0.04,0.05,0.3,2018,Fighting
+8228,Looney Tunes: Duck Amuck,DS,Warner Bros. Interactive  ,WayForward Technologies  ,6.4,,0.28,0.0,,0.02,0.3,2007,Action
+8229,Resident Evil Archives: Resident Evil,Wii,Capcom  ,Capcom Production Studio 4  ,7.6,,0.16,0.04,0.08,0.02,0.3,2009,Action
+8230,Tales of the Tempest,DS,Namco  ,Dimps Corporation  ,,,,,0.18,,0.18,2006,Role-Playing
+8231,Magna Carta 2,X360,Namco Bandai  ,SoftMax  ,6.6,,0.13,0.07,0.07,0.02,0.3,2009,Role-Playing
+8232,LEGO City Undercover,XOne,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.15,0.12,,0.03,0.3,2017,Platform
+8233,Jonas,DS,Disney Interactive Studios  ,Altron  ,,,0.27,0.0,,0.02,0.3,2009,Adventure
+8234,Romance of the Three Kingdoms VIII,PS2,KOEI  ,Koei  ,,,0.05,0.04,0.19,0.01,0.3,2003,Strategy
+8235,Stranglehold,PS3,Midway Games  ,Midway Games  ,,,0.24,0.03,0.0,0.03,0.3,2007,Shooter
+8236,Fossil Fighters (JP sales),DS,Nintendo  ,RED Entertainment  ,,,,,0.3,,0.3,2009,Role-Playing
+8237,Daikaijyuu Monogatari,SNES,Hudson Soft  ,Birthday  ,,,,,0.3,,0.3,1994,Role-Playing
+8238,Hard Hitter Tennis,PS2,Atlus  ,Magical Company Ltd  ,,,0.15,0.11,,0.04,0.3,2002,Sports
+8239,Sorcery,PS3,Sony Computer Entertainment  ,The Workshop  ,,,0.14,0.11,,0.05,0.3,2012,Action-Adventure
+8240,Stronghold 2,PC,2K Games  ,FireFly Studios  ,,,,0.0,,0.0,0.0,2005,Strategy
+8241,.hack//G.U. Last Recode,All,Bandai Namco Entertainment  ,CyberConnect2  ,,,,,,,,2017,Role-Playing
+8242,Agents of Mayhem,All,Deep Silver  ,Volition  ,,,,,,,,2017,Action-Adventure
+8243,Asterix & Obelix Take On Caesar,All,Cryo Interactive  ,Tek 5  ,,,,,,,,1999,Action
+8244,Atelier Ryza 3: Alchemist of the End & the Secret Key,All,Koei Tecmo  ,Gust  ,,,,,,,,2023,Role-Playing
+8245,Atlantis: The Lost Tales,All,Interplay Productions  ,Cryo Interactive Entertainment  ,,,,,,,,1997,Adventure
+8246,Bloodstained: Curse of the Moon,NS,Inti Creates  ,Inti Creates  ,,,,,,,,2018,Platform
+8247,Disney's Aladdin in Nasira's Revenge,All,Sony Computer Entertainment  ,Argonaut Games  ,,,,,,,,2001,Platform
+8248,Dragon Lore,All,Mindscape  ,Cryo Interactive  ,,,,,,,,1994,Adventure
+8249,Dreamfall: The Longest Journey,All,Aspyr  ,Funcom  ,,,,,,,,2006,Adventure
+8250,Earth Defense Force 5,PS4,D3 Publisher  ,Sandlot  ,,6.5,,,0.24,,0.24,2018,Shooter
+8251,Earth Defense Force 6,All,D3 Publisher  ,Sandlot  ,,,,,,,,2022,Shooter
+8252,Endless Space,PC,Iceberg Interactive  ,Amplitude Studios  ,,,,0.0,,0.0,0.0,2012,Strategy
+8253,Everspace 2,PC,Rockfish Games  ,Rockfish Games  ,,,,,,,,2023,Shooter
+8254,Fallout Tactics,PC,14 Degrees East  ,Micro Forte  ,,,,0.0,,0.0,0.0,2001,Strategy
+8255,Front Mission 3,PS,Square  ,SquareSoft  ,,,0.1,0.07,0.31,0.03,0.52,2000,Strategy
+8256,Gabriel Knight,Series,Sierra Online   ,Sierra On-Line  ,,,,,,,,1993,Adventure
+8257,Galactic Civilizations II: Dread Lords,PC,Stardock  ,Stardock  ,,,,,,,,2006,Strategy
+8258,God Wars,Series,Kadokawa Games  ,Kadokawa Games  ,,,,,,,,2017,Role-Playing
+8259,Grand Prix 3,PC,Microprose  ,MicroProse  ,9.3,,,,,,,2000,Racing
+8260,In Memoriam,All,The Adventure Company  ,Lexis Numerique  ,,,,,,,,2004,Adventure
+8261,Jagged Alliance 2,PC,TalonSoft  ,SirTech  ,,,,0.01,,0.0,0.01,1999,Strategy
+8262,Little Big Adventure 2,PC,Unknown  ,Adeline Software  ,,,,,,,,N/A,Action-Adventure
+8263,Lode Runner,All,Broderbund  ,Douglas E. Smith  ,,,,,,,,1983,Platform
+8264,Monster Truck Madness 64,N64,Rockstar Games  ,Edge of Reality  ,5.5,,0.24,0.06,,0.0,0.3,1999,Racing
+8265,Natural Selection 2,PC,Unknown  ,Unknown Worlds Entertainment  ,,,,,,,,N/A,Shooter
+8266,Nobunaga's Ambition: Sphere of Influence,All,Koei Tecmo  ,Koei Tecmo Games  ,,,,,,,,2013,Strategy
+8267,Putt-Putt Joins the Parade,All,Humongous Entertainment  ,Humongous Entertainment  ,,,,,,,,1992,Adventure
+8268,Quake II,N64,Activision  ,Raster Productions  ,,,0.24,0.06,,0.0,0.3,1999,Shooter
+8269,Ridiculous Fishing,iOS,Unknown  ,Vlambeer  ,,,,,,,,N/A,Action
+8270,Sherlock Holmes: Crimes & Punishments,PC,Focus Home Interactive  ,Frogwares  ,,,,0.05,,0.0,0.05,2014,Adventure
+8271,Shovel Knight,WiiU,Yacht Club Games  ,Yacht Club Games  ,9.0,,0.05,0.04,,0.01,0.1,2014,Platform
+8272,Silent Hill 3,PS2,Konami  ,Team Silent  ,8.4,9.0,0.35,0.27,,0.09,0.71,2003,Adventure
+8273,Silent Hunter,PC,SSI  ,Aeon Electronic Entertainment  ,,,,,,,,1996,Simulation
+8274,Slime Rancher 2,All,Monomi Park  ,Monomi Park  ,,,,,,,,2022,Simulation
+8275,SNK Heroines: Tag Team Frenzy,All,NIS America  ,SNK  ,,,,,,,,2018,Fighting
+8276,Stonekeep,All,Interplay Productions  ,Interplay Productions  ,,,,,,,,1995,Role-Playing
+8277,Terraria,X360,505 Games  ,Engine Software  ,7.8,,0.35,0.29,,0.06,0.69,2013,Action-Adventure
+8278,The Dig,PC,LucasArts  ,LucasArts  ,,,,,,,,1995,Adventure
+8279,The Settlers IV,PC,Blue Byte  ,Blue Byte  ,,,,0.02,,0.0,0.02,2001,Strategy
+8280,Tropico 2: Pirate Cove,All,Gathering of Developers  ,Frog City Software  ,,,,,,,,2003,Simulation
+8281,Uniracers,SNES,Nintendo  ,DMA Design  ,,,,,,,,1994,Racing
+8282,VA-11 HALL-A,PC,Ysbryd Games  ,Sukeban Games  ,8.4,,,,,,,2016,Adventure
+8283,Warcraft: Orcs & Humans,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,,,0.89,1.08,,0.11,2.08,1994,Strategy
+8284,SoulCalibur VI,XOne,Bandai Namco Games  ,Project Soul  ,,,0.26,0.01,,0.03,0.3,2018,Fighting
+8285,Kingdom Rush,PC,Ironhide Game Studio  ,Ironhide Game Studio  ,,,,,,,,2011,Shooter
+8286,The Jackbox Party Pack 2,PC,Jackbox Games  ,Jackbox Games  ,,,,,,,,2015,Party
+8287,Crazy Taxi: Catch a Ride,GBA,THQ  ,Graphic State  ,4.8,,0.21,0.08,,0.01,0.3,2003,Racing
+8288,Imagine: Family Doctor,DS,Ubisoft  ,WizarBox  ,,,0.27,0.01,,0.02,0.3,2009,Simulation
+8289,Nounai Aeshe: IQ Suppli DS,DS,Spike  ,Art  ,,,,,0.3,,0.3,2006,Misc
+8290,Macross Digital Mission VF-X,PS,Bandai  ,Unit  ,,,,,0.28,0.02,0.3,1997,Simulation
+8291,Rayman 2: Revolution,PS2,Ubisoft  ,Ubisoft  ,8.7,,0.15,0.11,,0.04,0.3,2001,Platform
+8292,Yu Yu Hakusho Ghost Files: Spirit Detective,GBA,Atari  ,Atari Games  ,,,0.21,0.08,,0.01,0.3,2003,Action
+8293,Super Bomberman 5,SNES,Hudson Soft  ,Hudson Soft  ,,,,,0.3,0.0,0.3,1997,Puzzle
+8294,Army Men: Air Attack 2,PS,3DO  ,3DO  ,,,0.17,0.11,,0.02,0.3,2000,Action
+8295,Saint Seiya: Soldiers' Soul,PS4,Namco Bandai Games  ,Namco Bandai Games  ,,,,0.21,0.05,0.04,0.3,2015,Fighting
+8296,Devil May Cry 4,PC,Capcom  ,Capcom  ,7.5,,0.01,0.02,,0.0,0.04,2008,Action
+8297,Invizimals: Shadow Zone,PSP,Sony Computer Entertainment  ,Novarama  ,,,0.05,0.16,,0.08,0.3,2011,Strategy
+8298,NBA Live 2003,GC,EA Sports  ,EA Canada  ,8.4,,0.23,0.06,,0.01,0.3,2002,Sports
+8299,Pride FC: Fighting Championships,PS2,THQ  ,Anchor  ,,,0.15,0.11,,0.04,0.3,2003,Fighting
+8300,Eternal Ring,PS2,Agetec  ,From Software  ,,,0.1,0.07,0.1,0.03,0.3,2000,Role-Playing
+8301,Dragon Force,SAT,Working Designs  ,Sega  ,9.0,,,,0.3,0.0,0.3,1996,Strategy
+8302,Dynasty Warriors 6,X360,KOEI  ,Omega Force  ,6.2,,0.15,0.06,0.06,0.02,0.3,2008,Action
+8303,LYNE,PC,Unknown  ,Thomas Bowker  ,,,,,,,,N/A,Puzzle
+8304,LEGO DC Super-Villains,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.2,0.07,,0.03,0.3,2018,Action-Adventure
+8305,WWE 2K17,X360,2K Games  ,Yuke's  ,,,0.14,0.13,,0.03,0.3,2016,Sports
+8306,Dance Dance Revolution Universe 3,X360,Konami  ,Bemani  ,,,0.28,,,0.02,0.3,2008,Simulation
+8307,Final Fantasy Type-0 HD,XOne,Square Enix  ,Square Enix  ,,,0.2,0.07,,0.03,0.3,2015,Role-Playing
+8308,Winning Post 2,SNES,KOEI  ,Koei  ,,,,,0.3,,0.3,1995,Sports
+8309,Star Gladiator Episode: I Final Crusade,PS,Capcom  ,Capcom  ,,,0.07,0.05,0.15,0.02,0.3,1996,Fighting
+8310,LISA,PC,Unknown  ,Dingaling  ,,,,,,,,N/A,Role-Playing
+8311,Call of Duty: Black Ops 3,PC,Activision  ,Treyarch  ,,,,0.28,,0.02,0.3,2015,Shooter
+8312,The Smurfs: Dance Party,Wii,Ubisoft  ,Ubisoft  ,,,0.23,0.04,,0.03,0.3,2011,Misc
+8313,Just Dance 2018,PS4,Ubisoft  ,Ubisoft Paris  ,,,0.1,0.15,,0.05,0.3,2017,Music
+8314,Showdown: Legends of Wrestling,PS2,Acclaim Entertainment  ,Acclaim Studios Austin  ,,,0.15,0.11,,0.04,0.3,2004,Fighting
+8315,Squinkies,DS,Activision  ,"Human Soft, Inc.  ",,,0.26,0.02,,0.02,0.3,2011,Misc
+8316,Far East of Eden Zero,SNES,Hudson Soft  ,Hudson Soft  ,,,,,0.3,0.0,0.3,1995,Role-Playing
+8317,Wacky Races: Crash & Dash,Wii,Eidos Interactive  ,Farmind Ltd  ,,,0.27,0.0,,0.02,0.3,2008,Racing
+8318,Rapala Pro Bass Fishing 2010,Wii,Activision  ,FUN Labs  ,,,0.22,0.05,,0.03,0.3,2010,Sports
+8319,Full Spectrum Warrior,PS2,THQ  ,Pandemic Studios  ,8.5,,0.15,0.11,,0.04,0.3,2005,Strategy
+8320,Starhawk,PS3,Sony Computer Entertainment  ,LightBox Interactive  ,,,0.18,0.05,0.03,0.03,0.3,2012,Shooter
+8321,Taiko no Tatsujin Wii: Minna de Party * 3-Yome!,Wii,Namco Bandai  ,Bandai Namco Games  ,,,,,0.3,,0.3,2010,Misc
+8322,Fist of the North Star: Ken's Rage 2,PS3,Tecmo Koei  ,Koei  ,5.0,,,,0.3,,0.3,2013,Action
+8323,Sonic & Sega All-Stars Racing Transformed,3DS,Sega  ,Sumo Digital  ,,,0.12,0.15,,0.02,0.3,2013,Racing
+8324,The Sims 2: Pets,PS2,Electronic Arts  ,Maxis  ,,,0.02,0.01,,0.27,0.3,2006,Simulation
+8325,FIFA 15,PC,EA Sports  ,EA Canada  ,7.0,,,0.28,,0.02,0.3,2014,Sports
+8326,Angry Birds: Star Wars,PS3,Activision  ,Exient Entertainment  ,,,0.1,0.15,,0.05,0.3,2013,Puzzle
+8327,Power Pro Kun Pocket 6,GBA,Konami  ,Diamond Head  ,,,,,0.29,0.01,0.3,2003,Sports
+8328,Power Pro Kun Pocket 10,DS,Konami  ,PawaPuro Production  ,,,,,0.3,,0.3,2007,Sports
+8329,The Suite Life of Zack & Cody: Circle of Spies,DS,Disney Interactive Studios  ,Artificial Mind and Movement  ,,,0.17,0.09,,0.03,0.3,2007,Action
+8330,Shaun White Snowboarding: World Stage,Wii,Ubisoft  ,Ubisoft Montreal  ,7.2,,0.24,0.03,,0.02,0.3,2009,Sports
+8331,Finding Nemo: The Continuing Adventures,GBA,THQ  ,Altron  ,8.0,,0.21,0.08,,0.01,0.3,2004,Action
+8332,MySims Party,DS,Electronic Arts  ,EA Redwood Shores  ,,,0.15,0.12,,0.03,0.3,2009,Simulation
+8333,Spirit: Stallion of the Cimarron,GBA,THQ  ,Hyperspace Cowgirls  ,,,0.21,0.08,,0.01,0.3,2002,Platform
+8334,Shrek the Third,DS,Activision  ,Vicarious Visions  ,,,0.26,0.02,,0.02,0.3,2007,Action
+8335,Future Cop L.A.P.D.,PS,Electronic Arts  ,Electronic Arts  ,,,0.16,0.11,,0.02,0.3,1998,Simulation
+8336,Hamster Tarou,GB,Jorudan  ,Jorudan  ,,,,,0.3,,0.3,1999,Simulation
+8337,Star Saviors,PC,Unknown  ,Sharpened Edge Studios  ,,,,,,,,N/A,Shooter
+8338,Capcom Classics Collection Remixed,PSP,Capcom  ,Digital Eclipse  ,7.7,,0.27,0.0,,0.02,0.3,2006,Misc
+8339,Shark Tale,GC,Activision  ,Edge of Reality  ,,,0.23,0.06,,0.01,0.3,2004,Action
+8340,Radiant Historia,DS,Atlus  ,Atlus Co.  ,8.5,,0.19,,0.09,0.02,0.3,2011,Role-Playing
+8341,Guitar Hero: Van Halen,X360,Activision  ,Neversoft Entertainment  ,6.2,,0.16,0.1,,0.03,0.3,2009,Misc
+8342,MLB SlugFest Loaded,PS2,Midway Games  ,Point of View  ,,,0.14,0.11,,0.04,0.3,2004,Sports
+8343,Batman: The Brave and the Bold the Videogame,DS,Warner Bros. Interactive  ,WayForward Technologies  ,7.5,,0.23,0.04,,0.02,0.3,2010,Action
+8344,Dreamworks Madagascar Kartz,PS3,Activision  ,Sidhe Interactive  ,,,0.19,0.07,,0.04,0.3,2009,Racing
+8345,Pit People,PC,The Behemoth  ,The Behemoth  ,,,,,,,,2018,Strategy
+8346,Dark and Light,PC,Unknown  ,Snail Games USA  ,,,,,,,,N/A,Role-Playing
+8347,Teenage Mutant Ninja Turtles,XB,Konami  ,Konami  ,,,0.22,0.06,,0.01,0.3,2003,Action
+8348,Phineas and Ferb Ride Again,DS,Disney Interactive Studios  ,Altron  ,,,0.24,0.03,,0.02,0.3,2010,Action
+8349,Sniper Elite 4,XOne,Rebellion Developments  ,Rebellion Developments  ,,,0.18,0.09,,0.03,0.3,2017,Shooter
+8350,FIFA 13,3DS,EA Sports  ,EA Canada  ,,,0.06,0.21,,0.02,0.3,2012,Sports
+8351,I Spy: Spooky Mansion,Wii,Storm City Games  ,Storm City Games  ,,,0.27,,,0.02,0.3,2010,Puzzle
+8352,N3: Ninety-Nine Nights,X360,Microsoft Game Studios  ,Q Entertainment / Phantagram  ,6.3,,0.2,0.03,0.05,0.02,0.3,2006,Action
+8353,Syphon Filter: Dark Mirror,PSP,Sony Computer Entertainment  ,SCEA Bend Studio  ,8.5,,0.26,0.01,,0.03,0.3,2006,Shooter
+8354,Bejeweled 3,PC,PopCap Games  ,PopCap Games  ,8.1,,0.04,0.05,,0.01,0.1,2010,Puzzle
+8355,AMF Bowling 2004,XB,Mud Duck Productions  ,Bethesda Softworks  ,,,0.22,0.06,,0.01,0.3,2003,Sports
+8356,Harry Potter and the Order of the Phoenix,X360,Electronic Arts  ,EA Games  ,,,0.24,0.03,,0.02,0.3,2007,Adventure
+8357,Scooby-Doo! Night of 100 Frights,GC,THQ  ,Heavy Iron Studios  ,,,0.23,0.06,,0.01,0.3,2002,Platform
+8358,MySims SkyHeroes,Wii,Electronic Arts  ,The Sims Studio  ,6.4,,0.16,0.1,,0.03,0.3,2010,Action
+8359,The Walking Dead: Season Two,PS4,Telltale Games  ,Unknown  ,,,0.13,0.09,0.03,0.05,0.3,2014,Misc
+8360,There's Poop In My Soup,PC,Unknown  ,K Bros Games  ,,,,,,,,N/A,Action
+8361,Imagine: Makeup Artist,DS,Ubisoft  ,Global A Entertainment  ,,,0.27,,,0.02,0.29,2020,Simulation
+8362,Sword Art Online: Fatal Bullet,PS4,Namco Bandai Games  ,Dimps Corporation  ,,,0.11,0.03,0.13,0.03,0.29,2018,Role-Playing
+8363,Spider-Man: Friend or Foe,X360,Activision  ,Next Level Games  ,5.9,,0.26,0.01,,0.02,0.29,2007,Action
+8364,RealSports Boxing,2600,Atari  ,Atari  ,,,0.28,0.02,,0.0,0.29,1987,Sports
+8365,Grandia II,PS2,Ubisoft  ,Game Arts  ,7.4,,0.14,0.11,,0.04,0.29,2002,Role-Playing
+8366,Lego Star Wars: The Force Awakens,WiiU,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.12,0.13,0.02,0.02,0.29,2016,Action-Adventure
+8367,Blood Bowl 2,PC,Unknown  ,Cyanide Studios  ,,,,,,,,N/A,Sports
+8368,Front Mission Evolved,PS3,Square Enix  ,Double Helix Games  ,,,0.09,0.07,0.11,0.03,0.29,2010,Shooter
+8369,Fable: The Journey,X360,Microsoft Studios  ,Lionhead Studios  ,,,0.19,0.08,,0.03,0.29,2012,Role-Playing
+8370,Need for Speed Underground,GBA,Electronic Arts  ,Pocketeers  ,,,0.21,0.08,,0.01,0.29,2003,Racing
+8371,Power Pro Kun Pocket 4,GBA,Konami  ,Diamond Head  ,,,,,0.29,0.01,0.29,2002,Sports
+8372,Naruto to Boruto: Shinobi Striker,PS4,Bandai Namco Games  ,Soleil Software Studio Inc.  ,8.5,,0.19,0.03,0.02,0.05,0.29,2018,Action
+8373,Rabbids: Alive & Kicking,X360,Ubisoft  ,Ubisoft  ,,,0.15,0.11,,0.03,0.29,2011,Misc
+8374,Guardian Heroes,SAT,Sega  ,"Treasure Co., Ltd.  ",,,,,0.29,,0.29,1996,Role-Playing
+8375,WWII Aces,Wii,Destineer  ,Arcade Moon  ,,,0.27,,,0.02,0.29,2008,Simulation
+8376,Glory of Heracles,DS,Nintendo  ,Paon Corporation  ,6.8,,0.19,,0.08,0.02,0.29,2010,Role-Playing
+8377,Outlaw Golf,XB,Simon & Schuster Interactive  ,Hypnotix  ,,,0.22,0.06,,0.01,0.29,2002,Sports
+8378,Mini Ninjas,X360,Eidos Interactive  ,IO Interactive  ,,,0.12,0.14,,0.03,0.29,2009,Action
+8379,ExerBeat,Wii,Namco Bandai  ,Tamsoft Corporation  ,,,0.1,0.16,,0.03,0.29,2011,Sports
+8380,Gears of War Triple Pack,X360,Microsoft Game Studios  ,Epic Games  ,,,0.27,,,0.02,0.29,2011,Shooter
+8381,Fisherman's Bait 2: Big Ol' Bass,PS,Konami  ,Konami  ,,,0.16,0.11,,0.02,0.29,1999,Sports
+8382,Lupin the 3rd: Treasure of the Sorcerer King,PS2,Bandai  ,Banpresto  ,,,0.02,0.02,0.25,0.01,0.29,2004,Adventure
+8383,Yooka-Laylee,PS4,Team17 Software  ,Playtonic Games  ,,,0.09,0.16,,0.05,0.29,2018,Platform
+8384,Call of Juarez: The Cartel,PS3,Ubisoft  ,Techland  ,5.4,,0.12,0.12,,0.05,0.29,2011,Shooter
+8385,NES Remix,WiiU,Nintendo  ,Nintendo  ,,,0.18,,0.09,0.02,0.29,2013,Misc
+8386,Ben 10 Alien Force: Vilgax Attacks,PS2,D3 Publisher  ,Papaya Studio Corporation  ,,,0.11,0.03,,0.15,0.29,2009,Action
+8387,Nicktoons: Battle for Volcano Island,DS,THQ  ,Natsume  ,,,0.27,0.0,,0.02,0.29,2006,Action
+8388,NBA Street V3,GC,EA Sports BIG   ,EA Canada  ,,,0.23,0.06,,0.01,0.29,2005,Sports
+8389,WinBack: Covert Operations,PS2,KOEI  ,Omega Force  ,,,0.14,0.11,,0.04,0.29,2001,Shooter
+8390,Assassin's Creed IV: Black Flag,WiiU,Ubisoft  ,Ubisoft Montreal  ,8.5,,0.17,0.1,,0.03,0.29,2013,Action-Adventure
+8391,Shrek: Forever After,Wii,Activision  ,XPEC Entertainment Inc.  ,,,0.18,0.09,,0.03,0.29,2010,Platform
+8392,X-Men Legends II: Rise of Apocalypse,PSP,Activision  ,Vicarious Visions  ,8.5,,0.25,0.01,,0.02,0.29,2005,Role-Playing
+8393,Dynasty Warriors: Strikeforce,PS3,Tecmo Koei  ,Omega Force  ,6.8,,0.11,0.08,0.07,0.03,0.29,2010,Action
+8394,Strider (2014),PC,Capcom  ,Double Helix Games  ,,,,,,,,2014,Platform
+8395,Kagero: Deception II,PS,Tecmo  ,Tecmo  ,,,0.03,0.02,0.22,0.02,0.29,1998,Strategy
+8396,Up,X360,THQ  ,THQ  ,6.5,,0.2,0.07,,0.03,0.29,2009,Adventure
+8397,Jikkyou Powerful Pro Yakyuu 2000 Kaimakuban,PS,Konami  ,Diamond Head  ,,,,,0.27,0.02,0.29,2000,Sports
+8398,Harvest Moon: Magical Melody,Wii,Natsume  ,Marvelous Interactive  ,6.3,,0.23,0.04,,0.02,0.29,2009,Simulation
+8399,Alvin and the Chipmunks: The Squeakquel,DS,Majesco  ,ImaginEngine  ,,,0.27,0.0,,0.02,0.29,2009,Misc
+8400,NBA Live 06,X360,EA Sports  ,EA Canada  ,6.5,,0.27,0.0,,0.02,0.29,2005,Sports
+8401,Kenka Bancho: Badass Rumble,PSP,Atlus  ,Spike  ,7.0,,0.07,,0.2,0.01,0.29,2009,Action
+8402,FlatOut: Head On,PSP,Warner Bros. Interactive  ,Bugbear Entertainment  ,7.3,,0.13,0.11,,0.06,0.29,2008,Racing
+8403,J-League Victory Goal '96,SAT,Sega  ,Sega  ,,,,,0.29,0.0,0.29,1996,Sports
+8404,Talon Man Remastered,Amig,Out of crumpét's:  ,OutOfTime  ,,9.0,,,,,,2018,Puzzle
+8405,Zoo Tycoon 2 DS,DS,THQ  ,Altron  ,6.9,,0.24,0.03,,0.02,0.29,2008,Strategy
+8406,TouchMaster: Connect,DS,Warner Bros. Interactive  ,DoubleTap Games  ,,,0.1,0.16,,0.03,0.29,2010,Puzzle
+8407,Jeopardy! 2nd Edition,PS,Hasbro Interactive  ,Hasbro Interactive  ,,,0.16,0.11,,0.02,0.29,2000,Misc
+8408,SD Gundam G Century,PS,Bandai  ,Bandai  ,,,,,0.27,0.02,0.29,1997,Strategy
+8409,Wanted: Weapons of Fate,PS3,Warner Bros. Interactive  ,GRIN  ,6.2,,0.14,0.1,0.01,0.04,0.29,2009,Shooter
+8410,Ratchet & Clank: Size Matters,PS2,Sony Computer Entertainment  ,High Impact Games  ,,,0.13,0.1,0.03,0.03,0.29,2008,Platform
+8411,Just Dance 2017,NS,Ubisoft  ,Ubisoft Paris  ,6.5,,0.07,0.2,,0.02,0.29,2017,Music
+8412,NieR,X360,Square Enix  ,Cavia Inc.  ,6.4,,0.13,0.1,0.04,0.02,0.29,2010,Role-Playing
+8413,Ace Combat: Joint Assault,PSP,Namco Bandai  ,Project ACES  ,7.0,,0.06,0.05,0.15,0.03,0.29,2010,Simulation
+8414,Atelier Iris 3: Grand Phantasm (US Sales),PS2,NIS America  ,Gust  ,6.1,,0.14,0.11,,0.04,0.29,2007,Role-Playing
+8415,Itadaki Street 2: Neon Sign wa Bara Iro ni,SNES,Enix  ,Tomcat System  ,,,,,0.29,0.0,0.29,1994,Misc
+8416,Imagine: Fashion Designer World Tour,DS,Ubisoft  ,Virtual Toys  ,,,0.27,,,0.02,0.29,2009,Simulation
+8417,From TV Animation One Piece: Treasure Battle!,GC,Bandai  ,Ganbarion  ,,,,,0.28,0.01,0.29,2002,Fighting
+8418,NHL 19,XOne,EA Sports  ,EA Canada  ,,,0.26,,,0.03,0.29,2018,Sports
+8419,Sonic Adventure DX: Director's Cut,PC,Activision  ,Sonic Team  ,,,,0.0,,0.0,0.0,2004,Platform
+8420,Dolphin,2600,Activision  ,Activision  ,,,0.27,0.02,,0.0,0.29,1983,Action
+8421,Area 51,XB,Midway Games  ,Midway Studios  Austin  ,,,0.22,0.06,,0.01,0.29,2005,Shooter
+8422,Karaoke Revolution Glee: Volume 3,Wii,Konami  ,Hijinx Studios  ,,,0.23,0.04,,0.02,0.29,2011,Misc
+8423,Just Dance Wii 2,Wii,Nintendo  ,Ubisoft  ,,,,,0.29,,0.29,2012,Music
+8424,The Godfather: Dons Edition,PS3,Electronic Arts  ,Electronic Arts  ,,,0.25,0.02,,0.03,0.29,2007,Action
+8425,Prince of Persia: Rival Swords,Wii,Ubisoft  ,Ubisoft Montreal  ,7.0,,0.24,0.03,,0.02,0.29,2007,Action
+8426,Hamster Club 4: Shigessa Daidassou,GBA,Jorudan  ,Jorudan  ,,,,,0.28,0.01,0.29,2003,Simulation
+8427,The Chronicles of Riddick: Assault on Dark Athena,X360,Atari  ,Starbreeze Studios AB  ,8.2,,0.16,0.1,,0.03,0.29,2009,Shooter
+8428,John Deere: Harvest in the Heartland,DS,Destineer  ,Black Lantern Studios  ,,,0.23,0.04,,0.02,0.29,2007,Simulation
+8429,Mega Man X8,PS2,Capcom  ,Capcom  ,,,0.14,0.11,,0.04,0.29,2004,Platform
+8430,Everspace,PC,Unknown  ,Rockfish Games  ,,,,,,,,N/A,Shooter
+8431,Ford Mustang: The Legend Lives,PS2,2K Games  ,Eutechnyx  ,,,0.14,0.11,,0.04,0.29,2005,Racing
+8432,Phoenix Wright: Ace Attorney: Spirit of Justice,3DS,Capcom  ,Capcom  ,8.1,,,,0.29,,0.29,2016,Adventure
+8433,Fast Food,2600,Unknown  ,Telesys  ,,,0.27,0.02,,0.0,0.29,1982,Action
+8434,Trace Memory,DS,Nintendo  ,Cing  ,6.5,,0.15,0.01,0.12,0.01,0.29,2005,Adventure
+8435,Sesame Street: Cookie's Counting Carnival,Wii,Warner Bros. Interactive  ,Black Lantern Studios  ,,,0.27,,,0.02,0.29,2010,Misc
+8436,Jikkyou Powerful Pro Yakyuu 8,PS2,Konami  ,Diamond Head  ,,,,,0.29,,0.29,2001,Sports
+8437,Forsaken 64,N64,Acclaim Entertainment  ,Iguana Entertainment  ,8.3,,0.23,0.06,,0.0,0.29,1998,Shooter
+8438,Hatsune Miku: Project Diva Extend,PSP,Sega  ,Sega  ,,,,,0.33,,0.33,2011,Simulation
+8439,Jeremy McGrath Supercross 2000,N64,Acclaim Entertainment  ,Acclaim Entertainment  ,,,0.23,0.06,,0.0,0.29,2000,Racing
+8440,Ken Griffey Jr.'s Slugfest,N64,Nintendo  ,Angel Studios  ,,,0.23,0.06,,0.0,0.29,1999,Sports
+8441,Naruto Shippuden: Ultimate Ninja 4,PS2,Namco Bandai  ,CyberConnect2  ,,,0.26,0.01,0.13,0.26,0.66,2009,Fighting
+8442,Supercross 2000,N64,Electronic Arts  ,MBL Research  ,,,0.23,0.06,,0.0,0.29,1999,Racing
+8443,The New Tetris,N64,Nintendo  ,H2O Interactive  ,,,0.22,0.05,0.02,0.0,0.29,1999,Puzzle
+8444,Top Gear Overdrive,N64,Kemco  ,Snowblind Studios  ,,,0.23,0.06,,0.0,0.29,1998,Racing
+8445,War Gods,N64,Midway Games  ,Eurocom Entertainment Software  ,,,0.23,0.06,,0.0,0.29,1997,Fighting
+8446,Xena: Warrior Princess - The Talisman of Fate,N64,Titus  ,Saffire Corporation  ,,,0.23,0.06,,0.0,0.29,1999,Fighting
+8447,Duel Masters: Sempai Legends,GBA,Atari  ,Mistic Software  ,7.1,,0.21,0.08,,0.01,0.29,2004,Misc
+8448,Trauma Center: New Blood,Wii,Atlus  ,Atlus Co.  ,7.5,,0.22,0.04,0.01,0.02,0.29,2007,Simulation
+8449,Marvel Super Hero Squad,PS2,THQ  ,Mass Media Inc.  ,,,0.14,0.11,,0.04,0.29,2009,Adventure
+8450,BATTLETECH,PC,Unknown  ,Harebrained Schemes  ,,,,,,,,N/A,Action-Adventure
+8451,Heroes of the Pacific,PS2,Ubisoft  ,IR Gurus Interactive  ,,,0.14,0.11,,0.04,0.29,2005,Simulation
+8452,The BIGS 2,Wii,2K Sports  ,Blue Castle Games  ,6.3,,0.26,0.01,,0.02,0.29,2009,Sports
+8453,The Lord of the Rings: The Third Age,GC,Electronic Arts  ,EA Redwood Shores  ,7.9,,0.22,0.06,,0.01,0.29,2004,Role-Playing
+8454,Tricolour Lovestory,PC,Unknown  ,HL-Galgame  ,,,,,,,,N/A,Visual Novel
+8455,Nicktoons: Battle for Volcano Island,GC,THQ  ,Blue Tongue  ,,,0.22,0.06,,0.01,0.29,2006,Action
+8456,Sonic Boom: Shattered Crystal,3DS,Sega  ,Sanzaru Games  ,3.8,,0.17,0.09,,0.03,0.29,2014,Platform
+8457,LEGO Harry Potter: Years 5-7,PSP,Warner Bros. Interactive  ,Traveller's Tales  ,,,0.11,0.12,,0.06,0.29,2011,Action
+8458,Mah Jong Quest: Expeditions,DS,Activision  ,Game Brains  ,,,0.02,0.26,,0.01,0.29,2007,Puzzle
+8459,Madden NFL 08,XB,EA Sports  ,EA Tiburon  ,,,0.22,0.06,,0.01,0.29,2007,Sports
+8460,Overcooked! 2,NS,Sold Out  ,Ghost Town Games  ,8.4,,0.17,0.09,0.01,0.03,0.29,2018,Simulation
+8461,DX Game of Life,PS,Takara  ,Takara  ,,,,,0.27,0.02,0.29,1996,Misc
+8462,Montaro,PC,Unknown  ,JCKSLAP  ,,,,,,,,N/A,Action
+8463,Alien: Isolation,X360,Sega  ,Creative Assembly  ,,,0.16,0.11,,0.03,0.29,2014,Adventure
+8464,Pirates of the Caribbean,XB,Bethesda Softworks  ,Akella  ,,,0.22,0.06,,0.01,0.29,2003,Role-Playing
+8465,RPG Maker,PS,Agetec  ,Kuusou Kagaku  ,,,,,0.29,,0.29,2000,Role-Playing
+8466,Mass Effect Trilogy,PC,Electronic Arts  ,Unknown  ,,,0.09,0.17,,0.02,0.29,2012,Misc
+8467,The Punisher,XB,THQ  ,Volition Inc.  ,,,0.22,0.06,,0.01,0.29,2005,Shooter
+8468,The Legend of Legacy,3DS,Atlus  ,Cattle Call  ,6.0,,0.14,0.02,0.11,0.02,0.29,2015,Role-Playing
+8469,Turning Point: Fall of Liberty,X360,Codemasters  ,Spark Unlimited  ,,,0.23,0.04,,0.02,0.29,2008,Shooter
+8470,Majin and the Forsaken Kingdom,PS3,Namco Bandai  ,Game Republic  ,7.0,,0.09,0.14,0.01,0.05,0.29,2010,Adventure
+8471,MLB Pennant Race,PS,Sony Computer Entertainment  ,Sony Interactive Studios America  ,,,0.16,0.11,,0.02,0.29,1996,Sports
+8472,Monkey Island 2 Special Edition: LeChuck's Revenge,PC,LucasArts  ,LucasArts  ,,,,,,,,2010,Adventure
+8473,Disgaea 3: Absence of Detention,PSV,NIS America  ,Nippon Ichi Software  ,,,0.11,0.06,0.07,0.04,0.29,2012,Role-Playing
+8474,Cars 3: Driven to Win,PS4,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,,,0.06,0.18,0.01,0.04,0.29,2017,Racing
+8475,SD Gundam Gaiden: Knight Gundam Monogatari: Ooinaru Isan,SNES,Angel Studios  ,Unknown  ,,,,,0.29,0.0,0.29,1991,Role-Playing
+8476,The Sims 2,PC,Electronic Arts  ,Maxis  ,8.9,,0.02,0.24,,0.03,0.29,2004,Simulation
+8477,MLB Power Pros,Wii,2K Sports  ,PawaPuro Production  ,8.5,,0.23,,0.04,0.02,0.29,2007,Sports
+8478,Shrek Super Party,PS2,TDK Mediactive  ,Mass Media  ,,,0.14,0.11,,0.04,0.29,2002,Misc
+8479,Aragami,PC,Lince Works  ,Lince Works  ,,,,,,,,2016,Action
+8480,"Sakura Wars 4: Koi Seyo,Otome",DC,Sega  ,Overworks  ,,,,,0.29,,0.29,2002,Adventure
+8481,"Sakura Wars: So Long, My Love",PS2,NIS America  ,RED Entertainment  ,8.8,,0.07,0.05,0.15,0.02,0.29,2010,Role-Playing
+8482,Dynasty Tactics,PS2,KOEI  ,Koei  ,,,0.06,0.05,0.16,0.02,0.29,2002,Strategy
+8483,One Piece Unlimited Cruise 2: Awakening of a Hero,Wii,Namco Bandai  ,Ganbarion  ,,,,0.1,0.17,0.01,0.29,2009,Adventure
+8484,Skylanders Imaginators,X360,Activision  ,Toys for Bob  ,,,0.14,0.12,,0.02,0.29,2016,Platform
+8485,Downwell,PC,Unknown  ,Moppin  ,,,,,,,,N/A,Platform
+8486,Sengoku Basara: Samurai Heroes,Wii,Capcom  ,Capcom  ,6.0,,0.06,0.02,0.2,0.01,0.29,2010,Action
+8487,Snowboarding,PS,A1 Games  ,Atelier Double  ,,,0.16,0.11,,0.02,0.29,2000,Sports
+8488,Warriors Orochi 2,PSP,KOEI  ,Omega Force  ,5.3,,0.06,0.0,0.22,0.01,0.29,2009,Action
+8489,Puzzle Quest: Challenge of the Warlords,Wii,D3 Publisher  ,Vicious Cycle  ,,,0.26,0.0,,0.02,0.29,2007,Puzzle
+8490,Metal Gear Solid V: The Definitive Experience,PS4,Konami Digital Entertainment  ,Kojima Productions  ,,,0.13,0.08,0.03,0.04,0.29,2016,Action
+8491,Outrage,PC,Unknown  ,Astronomic Games  ,,,,,,,,N/A,Action-Adventure
+8492,Dead to Rights II,All,Namco  ,WideScreen Games  ,,,,,,,,2005,Action-Adventure
+8493,Army of Two: The Devil's Cartel,PS3,Electronic Arts  ,Visceral Games  ,,,0.11,0.12,0.01,0.05,0.29,2013,Shooter
+8494,Learn with Pokémon: Typing Adventure,DS,Nintendo  ,Genius Sonority Inc.  ,,,,,0.29,,0.29,2011,Misc
+8495,Dragon Ball Heroes: Ultimate Mission,3DS,Namco Bandai Games  ,Dimps Corporation  ,,,,,0.29,,0.29,2013,Fighting
+8496,007 Legends,X360,Activision  ,Eurocom  ,,,0.13,0.13,,0.02,0.29,2012,Shooter
+8497,Rocketbirds: Hardboiled Chicken,PC,Unknown  ,Ratloop Asia Pte Ltd  ,,,,,,,,N/A,Platform
+8498,Dead Rising: Chop Till You Drop,Wii,Capcom  ,Capcom Production Studio 1 / TOSE Software  ,6.7,7.2,0.15,0.07,0.05,0.02,0.29,2009,Action
+8499,Surf's Up,PS2,Ubisoft  ,Ubisoft Montreal  ,,,0.14,0.11,,0.04,0.29,2007,Sports
+8500,Looney Tunes Racing,PS,Infogrames  ,Circus Freak  ,,,0.16,0.11,,0.02,0.29,2000,Racing
+8501,Feel the Magic XY/XX,DS,Sega  ,Sonic Team  ,7.7,,0.17,0.0,0.1,0.02,0.29,2004,Puzzle
+8502,Final Fantasy X-2: International + Last Mission,PS2,Square Enix  ,Square Enix  ,,,,,0.29,,0.29,2004,Role-Playing
+8503,One Piece Unlimited World: Red,PS3,Namco Bandai Games  ,Ganbarion  ,,,0.09,0.1,0.06,0.04,0.29,2014,Action-Adventure
+8504,Ever Oasis,3DS,Nintendo  ,GREZZO  ,8.1,,0.13,0.08,0.05,0.02,0.29,2017,Role-Playing
+8505,Namco Museum Vol.2,PS,Namco  ,Namco  ,,,0.03,0.02,0.21,0.02,0.29,1996,Misc
+8506,Neopets Puzzle Adventure,DS,Capcom  ,Infinite Interactive  ,,,0.26,0.0,,0.02,0.29,2008,Puzzle
+8507,Worms: WMD,PC,Team17 Digital Ltd  ,Team17 Digital Ltd  ,,,,,,,,2016,Strategy
+8508,Drayt Empire,PC,Unknown  ,RPG Video  ,,,,,,,,N/A,Role-Playing
+8509,Rayman 3: Hoodlum Havoc,PS2,Ubisoft  ,Ubisoft  ,7.4,,0.14,0.11,,0.04,0.29,2003,Platform
+8510,Rivals of Aether,PC,Unknown  ,Unknown  ,,,,,,,,2016,Fighting
+8511,Penguin no Mondai: Saikyou Penguin Densetsu! A Penguin's Troubles,DS,Konami  ,Konami  ,,,,,0.29,,0.29,2008,Adventure
+8512,Psi-Ops: The Mindgate Conspiracy,PS2,Midway Games  ,Midway Games  ,,,0.14,0.11,,0.04,0.29,2004,Shooter
+8513,Tomba! 2: The Evil Swine Return,PS,Sony Computer Entertainment  ,Whoopee Camp  ,,,0.16,0.11,,0.02,0.29,1999,Platform
+8514,Mary-Kate and Ashley: Magical Mystery Mall,PS,Acclaim Entertainment  ,n-Space  ,,,0.36,0.24,,0.04,0.65,2000,Adventure
+8515,SD Gundam G Generation Portable,PSP,Namco Bandai  ,Bandai Namco Games  ,,,,,0.27,,0.27,2006,Strategy
+8516,BeatMania Append 4thMix: The beat goes on,PS,Konami  ,Konami  ,,,,,0.27,0.02,0.29,1999,Simulation
+8517,Rock Revolution,X360,Konami  ,Zoe Mode / HB Studios  ,3.6,,0.26,0.0,,0.02,0.29,2008,Misc
+8518,Romance of the Three Kingdoms III: Dragon of Destiny,SNES,KOEI  ,Koei  ,,,,,0.29,,0.29,1993,Strategy
+8519,NASCAR 08,X360,EA Sports  ,EA Tiburon  ,,,0.26,0.0,,0.02,0.29,2007,Racing
+8520,Just Cause 4,XOne,Square Enix  ,Avalanche Studios  ,,,0.17,0.09,,0.03,0.29,2018,Action-Adventure
+8521,For The King,PC,Unknown  ,IronOak Games  ,,,,,,,,N/A,Role-Playing
+8522,Dragon Ball Z: Budokai Tenkaichi 2,Wii,Atari  ,Spike  ,,,0.24,0.03,,0.02,0.29,2006,Fighting
+8523,Purr Pals,Wii,Crave Entertainment  ,inXile  ,,,0.26,,,0.02,0.29,2008,Simulation
+8524,Sherlock Holmes: Crimes & Punishments,PS4,Focus Home Interactive  ,Frogwares  ,,,0.1,0.14,,0.05,0.29,2014,Adventure
+8525,Power Pro Kun Pocket 11,DS,Konami  ,PawaPuro Production  ,,,,,0.29,,0.29,2008,Sports
+8526,Sonic Forces,XOne,Sega  ,Sonic Team  ,,,0.15,0.11,,0.03,0.29,2017,Platform
+8527,Culdcept,3DS,NIS America  ,OmiyaSoft  ,,,0.04,0.01,0.23,0.01,0.29,2017,Strategy
+8528,Spyro: A Hero's Tail,GC,VU Games  ,Eurocom Entertainment Software  ,6.4,,0.22,0.06,,0.01,0.29,2004,Platform
+8529,Sesame Street: Elmo's A-to-Zoo Adventure,DS,Warner Bros. Interactive  ,Black Lantern Studios  ,,,0.26,,,0.02,0.29,2010,Misc
+8530,Links 2004,XB,Microsoft Game Studios  ,Indie Built  ,,,0.21,0.06,,0.01,0.29,2003,Sports
+8531,PGA Tour 97,PS,EA Sports  ,VAC  ,,,0.16,0.11,,0.02,0.29,1996,Sports
+8532,Turbo Pug 3D,PC,Unknown  ,Wulo Games  ,,,,,,,,N/A,Action
+8533,Tony Hawk: Shred,PS3,Activision  ,Robomodo  ,,,0.18,0.06,,0.04,0.29,2010,Sports
+8534,Earthworm Jim,GBA,Majesco  ,Game Titan  ,7.2,,0.2,0.08,,0.01,0.29,2001,Platform
+8535,The Golden Compass,PS3,Sega  ,Shiny Entertainment  ,4.3,,0.14,0.1,,0.05,0.29,2007,Adventure
+8536,Bratz: Super Babyz,DS,THQ  ,Creat Studios  ,,,0.26,0.0,,0.02,0.28,2008,Action
+8537,Baby Pals,DS,Crave Entertainment  ,Brain Toys  ,,,0.26,0.01,,0.02,0.28,2007,Simulation
+8538,Monster 4x4: Masters of Metal,PS2,Ubisoft  ,Ubisoft Barcelona / Inland Productions  ,,,0.14,0.11,,0.04,0.28,2003,Racing
+8539,SingStar Country,PS2,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.14,0.11,,0.04,0.28,2008,Misc
+8540,Jewel Quest Mysteries: Curse of the Emerald Tear,DS,Avanquest  ,TBD  ,,,,0.25,,0.04,0.28,2010,Puzzle
+8541,VMX Racing,PS,Playmates  ,Studio E  ,,,0.16,0.11,,0.02,0.28,1997,Racing
+8542,Hot Shots Golf: World Invitational,PS3,Sony Computer Entertainment  ,Clap Hanz  ,,,,,0.28,,0.28,2013,Shooter
+8543,Disney's Extreme Skate Adventure,GBA,Activision  ,Vicarious Visions  ,6.6,,0.2,0.08,,0.01,0.28,2003,Sports
+8544,Harvest Moon DS Cute (US sales),DS,Natsume  ,Marvelous Interactive  ,,,0.28,,,,0.28,2008,Simulation
+8545,Dragon Ball GT: Transformation,GBA,Atari  ,Webfoot Technologies  ,7.7,,0.2,0.08,,0.01,0.28,2005,Action
+8546,Super Fire ProWrestling X,SNES,Human Entertainment  ,Human Club  ,,,,,0.28,,0.28,1995,Fighting
+8547,Tales of Berseria,PC,Namco Bandai Games  ,Namco Bandai Games  ,,,,,,,,2018,Role-Playing
+8548,Junior Brain Trainer 2,DS,GSP  ,Sanuk Games  ,,,0.04,0.21,,0.03,0.28,2011,Misc
+8549,International Superstar Soccer,SNES,Konami  ,Konami  ,,,,,0.28,0.0,0.28,1995,Sports
+8550,NBA 2K12,PSP,2K Sports  ,Visual Concepts  ,,,0.22,0.03,,0.03,0.28,2011,Sports
+8551,Tigger's Honey Hunt,PS,NewKidCo  ,Doki Denki  ,,,0.16,0.11,,0.02,0.28,2000,Platform
+8552,The Warriors,XB,Rockstar Games  ,Rockstar Toronto  ,,,0.21,0.06,,0.01,0.28,2005,Action
+8553,Shadow Hearts,PS2,Midway Games  ,Sacnoth  ,7.0,,0.09,0.07,0.1,0.02,0.28,2001,Role-Playing
+8554,Bladestorm: The Hundred Years' War,PS3,KOEI  ,Omega Force  ,,,0.1,0.03,0.14,0.02,0.28,2007,Action
+8555,Assassin's Creed II: Discovery,DS,Ubisoft  ,Griptonite Games  ,7.3,,0.15,0.11,,0.03,0.28,2009,Platform
+8556,Haven: Call of the King,PS2,Midway Games  ,Traveller's Tales  ,,,0.14,0.11,,0.04,0.28,2002,Platform
+8557,Street Hoops,XB,Activision  ,Black Ops Entertainment  ,,,0.21,0.06,,0.01,0.28,2002,Sports
+8558,Disney Channel: All Star Party,Wii,Disney Interactive Studios  ,"Page 44 Studios, LLC  ",,,0.18,0.08,,0.03,0.28,2010,Misc
+8559,Dark Souls II: Scholar of the First Sin,XOne,Namco Bandai Games  ,From Software  ,,,0.19,0.07,,0.03,0.28,2015,Role-Playing
+8560,Yu-Gi-Oh! Double Pack,GBA,Konami  ,Konami  ,,,0.2,0.08,,0.01,0.28,2006,Role-Playing
+8561,X-Men: Reign of Apocalypse,GBA,Activision  ,Digital Eclipse  ,,,0.2,0.08,,0.01,0.28,2001,Action
+8562,Star Trek Bridge Crew,PS4,Ubisoft  ,Red Storm Entertainment  ,,,0.11,0.12,,0.05,0.28,2017,Action
+8563,R: Racing Evolution,PS2,Namco  ,Namco  ,,,0.14,0.11,,0.04,0.28,2003,Racing
+8564,Netsu Chu! Pro Yakyuu 2003,PS2,Namco  ,Namco  ,,,,,0.28,,0.28,2003,Sports
+8565,Next Hatsune Miku: Project Diva,PS3,Sega  ,Sega  ,,,0.08,,0.19,0.02,0.28,2013,Music
+8566,ATV Quad Power Racing 2,GC,Acclaim Entertainment  ,Climax Entertainment  ,,,0.22,0.06,,0.01,0.28,2003,Racing
+8567,Digimon Adventure: Anode Tamer,WS,Bandai  ,Bandai  ,,,,,0.28,,0.28,1999,Role-Playing
+8568,DeathSmiles,X360,Aksys Games  ,Cave  ,8.0,,0.15,0.06,0.05,0.02,0.28,2010,Shooter
+8569,Fantastic 4: Flame On,GBA,Activision  ,Torus Games  ,,,0.2,0.08,,0.01,0.28,2005,Action
+8570,World of Tanks,PC,Wargaming.net  ,Wargaming.net  ,7.8,,,0.23,,0.05,0.28,2011,Shooter
+8571,Marvel Nemesis: Rise of the Imperfects,XB,Electronic Arts  ,Nihilistic Software  ,,,0.21,0.06,,0.01,0.28,2005,Fighting
+8572,All Star Cheer Squad,DS,THQ  ,Gorilla Systems  ,,,0.26,0.0,,0.02,0.28,2008,Sports
+8573,The King of Fighters '95,SAT,SNK  ,SNK Corporation  ,,,,,0.28,,0.28,1996,Fighting
+8574,Pirates of the Caribbean: Dead Man's Chest,PSP,Buena Vista  ,Griptonite Games  ,4.3,,0.25,0.01,,0.02,0.28,2006,Adventure
+8575,F/A-18F Super Hornet,GBA,Majesco  ,UK Magic  ,,,0.2,0.08,,0.01,0.28,2004,Simulation
+8576,Final Fantasy VI Advance,GBA,Nintendo  ,Square Enix  ,9.1,,,,0.28,0.01,0.28,2007,Role-Playing
+8577,Hatoful Boyfriend,PC,Devolver Digital  ,Mediatonic Ltd.  ,,,,,,,,2014,Visual Novel
+8578,Polaris,2600,Tigervision  ,Taito  ,,,0.26,0.02,,0.0,0.28,1983,Action
+8579,WarioWare Gold,3DS,Nintendo  ,Intelligent Systems  ,8.1,,0.11,0.03,0.13,0.01,0.28,2018,Misc
+8580,Reel Fishing: Angler's Dream,Wii,Natsume  ,SIMS  ,,,0.25,0.01,0.0,0.02,0.28,2009,Sports
+8581,Viewtiful Joe,PS2,Capcom  ,Clover Studio  ,,,0.14,0.11,,0.04,0.28,2004,Action
+8582,Triple Play 2000,N64,EA Sports  ,Treyarch  ,,,0.27,0.01,,0.0,0.28,1999,Sports
+8583,Yakuza Kenzan!,PS3,Sega  ,Sega  ,,,,,0.36,,0.36,2008,Adventure
+8584,Moshi Monsters: Moshlings Theme Park,3DS,Activision  ,"Black Lantern Studios, Inc.  ",,,0.13,0.13,,0.02,0.28,2012,Simulation
+8585,How to Train Your Dragon 2,3DS,Little Orbit  ,Torus Games  ,,,0.04,0.22,,0.02,0.28,2014,Action-Adventure
+8586,Bratz Ponyz,DS,Game Factory  ,Neko Entertainment  ,,,0.26,0.0,,0.02,0.28,2007,Adventure
+8587,Guitar Hero: Van Halen,Wii,Activision  ,Neversoft Entertainment  ,5.0,,0.13,0.12,,0.03,0.28,2009,Misc
+8588,Arcade Hits: Frisky Tom,PS,Hamster Corporation  ,Hamster  ,,,0.16,0.11,,0.02,0.28,2002,Action
+8589,Medieval Moves: Deadmund's Quest,PS3,Sony Computer Entertainment  ,Zindagi Games  ,7.0,,0.13,0.11,,0.05,0.28,2011,Action
+8590,SAW,X360,Konami  ,Zombie Studios  ,6.2,,0.13,0.12,,0.03,0.28,2009,Action
+8591,Shrek the Third,Wii,Activision  ,Amaze Entertainment  ,,,0.25,0.01,,0.02,0.28,2007,Action
+8592,Harry Potter and the Sorcerer's Stone,PS2,Electronic Arts  ,Warthog  ,,,0.14,0.11,,0.04,0.28,2003,Action
+8593,Kung Zhu,DS,Activision  ,Black Lantern Studios  ,,,0.26,0.0,,0.02,0.28,2010,Action
+8594,Unreal Championship 2: The Liandri Conflict,XB,Midway Games  ,Epic Games  ,,,0.22,0.05,,0.01,0.28,2005,Shooter
+8595,Kung Fu Chaos,XB,Microsoft Game Studios  ,Just Add Monsters  ,7.0,,0.21,0.06,,0.01,0.28,2003,Fighting
+8596,Ben 10 Ultimate Alien: Cosmic Destruction,Wii,D3 Publisher  ,Papaya Studios  ,,,0.17,0.09,,0.02,0.28,2010,Platform
+8597,Transformers: Dark of the Moon,X360,Activision  ,High Moon Studios  ,6.5,,0.13,0.12,,0.03,0.28,2011,Action
+8598,Godzilla: Domination!,GBA,Atari  ,WayForward Pocket Team  ,4.7,,0.2,0.07,,0.01,0.28,2002,Fighting
+8599,The Heavy Rain and Beyond: Two Souls Collection,PS4,Sony Computer Entertainment  ,Quantic Dream  ,,,,0.24,,0.04,0.28,2016,Action
+8600,El Shaddai: Ascension of the Metatron,PS3,Ignition Entertainment  ,Ignition Entertainment  ,8.0,,0.11,0.07,0.08,0.03,0.28,2011,Action
+8601,Operation Flashpoint: Red River,X360,Codemasters  ,Codemasters  ,7.0,,0.1,0.14,0.01,0.03,0.28,2011,Shooter
+8602,Half Dead,PC,Unknown  ,Room710Games  ,,,,,,,,N/A,Action-Adventure
+8603,Famista '92,NES,Namco  ,Namco  ,,,,,0.28,,0.28,1991,Sports
+8604,Tales of the World: Radiant Mythology 3,PSP,Namco Bandai  ,Alfa System  ,,,,,0.28,,0.28,2011,Role-Playing
+8605,Jissen Pachi-Slot Hisshouhou! Moujuu-Oh S,PS2,Sammy Corporation  ,Sammy Studios  ,,,,,0.28,,0.28,2002,Misc
+8606,Jackass the Game,PS2,Red Mile Entertainment  ,Sidhe Interactive  ,,,0.14,0.11,,0.04,0.28,2007,Action
+8607,Lord of Darkness,SNES,KOEI  ,Koei  ,,,,,0.28,0.0,0.28,1994,Strategy
+8608,Hannah Montana: Spotlight World Tour,PS2,Disney Interactive Studios  ,Avalanche Software  ,,,0.12,0.02,,0.14,0.28,2008,Action
+8609,Rocket Power: Beach Bandits,GBA,THQ  ,Helixe  ,,,0.2,0.07,,0.01,0.28,2002,Platform
+8610,Carol Vorderman's Sudoku,PS2,Eidos Interactive  ,Empire Interactive  ,7.4,,,0.23,,0.05,0.28,2007,Puzzle
+8611,MX SuperFly featuring Ricky Carmichael,PS2,THQ  ,Pacific Coast Power & Light  ,,,0.14,0.11,,0.04,0.28,2002,Racing
+8612,Cake Mania 2: Jill's Next Adventure!,DS,Majesco  ,Digital Embryo  ,,,0.26,0.0,,0.02,0.28,2008,Puzzle
+8613,Surf's Up,DS,Ubisoft  ,Ubisoft Quebec  ,,,0.26,0.0,,0.02,0.28,2007,Sports
+8614,Incitement 3,PC,Unknown  ,Astronomic Games  ,,,,,,,,N/A,Role-Playing
+8615,Batman: The Brave and the Bold the Videogame,Wii,Warner Bros. Interactive  ,WayForward Technologies  ,7.5,,0.2,0.05,,0.02,0.28,2010,Action
+8616,Syphon Filter: Dark Mirror,PS2,Sony Computer Entertainment  ,SCEA Bend Studio  ,,,0.14,0.11,,0.04,0.28,2007,Shooter
+8617,Just Dance 2015,PS3,Ubisoft  ,Ubisoft Paris  ,,,0.15,0.08,,0.05,0.28,2014,Music
+8618,Conflict: Desert Storm II - Back to Bagdhad,XB,Gotham Games  ,Pivotal Games  ,,,0.21,0.06,,0.01,0.28,2003,Shooter
+8619,Dead to Rights: Retribution,PS3,Namco Bandai  ,Volatile Games  ,6.0,,0.1,0.12,0.02,0.05,0.28,2010,Shooter
+8620,Mission: Impossible - Operation Surma,PS2,Atari  ,Paradigm Entertainment  ,,,0.14,0.11,,0.04,0.28,2003,Action
+8621,MLB 07: The Show,PSP,Sony Computer Entertainment  ,SCEA San Diego Studios  ,8.1,,0.26,,,0.02,0.28,2007,Sports
+8622,Madballs in Babo:Invasion,PC,Unknown  ,Playbrains  ,,,,,,,,N/A,Action
+8623,Pitfall: The Mayan Adventure,GBA,Majesco  ,Pipe Dream Interactive  ,,,0.2,0.07,,0.01,0.28,2001,Platform
+8624,Driver: Parallel Lines,PS2,Atari  ,Reflections Interactive  ,,,0.12,0.1,0.03,0.03,0.28,2006,Racing
+8625,Trivial Pursuit,PS3,Electronic Arts  ,Adrenalin Interactive  ,,,0.12,0.11,,0.05,0.28,2009,Misc
+8626,The Urbz: Sims In the City (US weekly sales),DS,Electronic Arts  ,Griptonite Games  ,,,0.26,,,0.02,0.28,2004,Simulation
+8627,Oxenfree,PC,Unknown  ,Night School Studio  ,,,,,,,,N/A,Adventure
+8628,Skylanders Imaginators,PS3,Activision  ,Toys for Bob  ,,,0.08,0.16,,0.04,0.28,2016,Platform
+8629,Mega Man ZX,DS,Capcom  ,Inti Creates  ,8.1,,0.16,0.0,0.1,0.02,0.28,2006,Platform
+8630,Retro City Rampage,PC,Unknown  ,Unknown  ,,,,,,,,N/A,Misc
+8631,Little Nightmares,PC,Namco Bandai Games  ,Tarsier Studios  ,8.6,,,0.01,,0.0,0.01,2017,Platform
+8632,Backyard Wrestling 2: There Goes the Neighborhood,PS2,Eidos Interactive  ,Paradox Development  ,,,0.14,0.11,,0.04,0.28,2004,Fighting
+8633,HellAngel,PC,Unknown  ,Andrey Malyarov  ,,,,,,,,N/A,Action
+8634,Disney's Treasure Planet,GBA,Disney Interactive Studios  ,Disney Interactive  ,6.3,,0.2,0.07,,0.01,0.28,2002,Action
+8635,Dead or Alive,PS,Tecmo  ,Team Ninja  ,8.3,,0.09,0.06,0.1,0.02,0.28,1998,Fighting
+8636,Cabela's Big Game Hunter 2012,X360,Activision  ,Activision  ,,,0.24,0.02,,0.02,0.28,2011,Sports
+8637,Need for Speed: Most Wanted (2012),WiiU,Electronic Arts  ,Criterion Games  ,8.4,,0.13,0.13,,0.02,0.28,2013,Racing
+8638,Thief,X360,Square Enix  ,Eidos Montreal  ,,,0.14,0.12,,0.02,0.28,2014,Action
+8639,Wild ARMs 5,PS2,Xseed Games  ,Media.Vision  ,7.5,,0.14,0.11,,0.04,0.28,2007,Role-Playing
+8640,Just Dance 2017,X360,Ubisoft  ,Ubisoft Paris  ,,,0.19,0.07,,0.03,0.28,2016,Music
+8641,Tom and Jerry Tales,DS,Warner Bros. Interactive  ,Sensory Sweep  ,,,0.2,0.06,,0.02,0.28,2006,Platform
+8642,Need for Speed: Most Wanted,PC,Electronic Arts  ,EA Canada  ,,,0.02,0.24,,0.02,0.28,2005,Racing
+8643,NFL Blitz 20-02,PS2,Midway Games  ,Point of View  ,,,0.14,0.11,,0.04,0.28,2002,Sports
+8644,Bayonetta 2,WiiU,Nintendo  ,PlatinumGames  ,9.3,,0.37,0.32,0.1,0.06,0.86,2014,Action
+8645,Dynasty Warriors 9 Empires,All,Koei Tecmo  ,Omega Force  ,,,,,,,,2022,Strategy
+8646,Mega Man 7,SNES,Capcom  ,Capcom  ,,,0.03,0.01,0.23,0.01,0.28,1995,Platform
+8647,Okami,Wii,Capcom  ,Ready at Dawn Studios  ,9.0,9.6,0.43,0.09,0.04,0.05,0.6,2008,Adventure
+8648,Persona 4 Arena Ultimax,All,Atlus  ,Arc System Works  ,,,,,,,,2013,Fighting
+8649,Sword of Mana,GBA,Nintendo  ,Brownie Brown  ,,,0.31,0.11,0.3,0.02,0.74,2003,Role-Playing
+8650,We Ski & Snowboard,Wii,Namco Bandai  ,Namco Bandai Games  ,,,0.38,0.29,0.15,0.08,0.89,2009,Sports
+8651,Xenosaga Episode II: Jenseits von Gut und Böse,PS2,Namco  ,Monolith Soft  ,7.3,,0.28,0.22,,0.07,0.58,2005,Role-Playing
+8652,Shrek: Ogres & Dronkeys,DS,Activision  ,WayForward Technologies  ,,,0.26,0.0,,0.02,0.28,2007,Simulation
+8653,NCAA March Madness 2005,XB,EA Sports  ,EA Canada  ,,,0.21,0.06,,0.01,0.28,2004,Sports
+8654,Yu-Gi-Oh! World Championship 2008,DS,Konami  ,Konami  ,,,0.13,0.02,0.12,0.01,0.28,2007,Strategy
+8655,Angry Birds: Star Wars,X360,Activision  ,Exient Entertainment  ,,,0.16,0.1,,0.02,0.28,2013,Puzzle
+8656,Lost Planet 3,PC,Capcom  ,Spark Unlimited  ,,,,0.04,,0.0,0.04,2013,Shooter
+8657,Guitar Hero: Van Halen,PS3,Activision  ,Neversoft Entertainment  ,6.2,,0.14,0.09,,0.04,0.28,2009,Misc
+8658,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GC,Buena Vista  ,Traveller's Tales  ,,,0.22,0.06,,0.01,0.28,2005,Adventure
+8659,NBA In The Zone,PS,Konami  ,Konami  ,,,0.16,0.11,,0.02,0.28,1995,Sports
+8660,PIGMENTUM,PC,Unknown  ,Irvin Vaush  ,,,,,,,,N/A,Action
+8661,Battleborn,XOne,2K Games  ,Gearbox Software  ,,,0.2,0.05,,0.03,0.28,2016,Shooter
+8662,Patapon 3,PSP,Sony Computer Entertainment  ,Pyramid/JAPAN Studio  ,7.4,,0.05,0.04,0.17,0.02,0.28,2011,Platform
+8663,Corvette,GBA,TDK Mediactive  ,Visual Impact  ,4.9,,0.2,0.07,,0.01,0.28,2003,Racing
+8664,Spintires: MudRunner,PS4,Focus Home Interactive  ,Saber Interactive  ,,,0.11,0.12,,0.05,0.28,2017,Simulation
+8665,F1 ROC: Race of Champions,SNES,Seta Corporation  ,Seta Corporation  ,,,,,0.28,0.0,0.28,1992,Sports
+8666,Curious George,All,Namco  ,Monkey Bar Games  ,,,,,,,,2006,Platform
+8667,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,GC,THQ  ,THQ  ,,,0.22,0.06,,0.01,0.28,2004,Adventure
+8668,Silent Hill 2: Restless Dreams,XB,Konami  ,KCET  ,,,0.21,0.06,,0.01,0.28,2001,Action
+8669,Pid,PC,Unknown  ,Might and Delight  ,,,,,,,,N/A,Platform
+8670,Monopoly Streets,X360,Electronic Arts  ,Electronic Arts  ,,,0.16,0.09,,0.02,0.28,2010,Misc
+8671,Soul Nomad & the World Eaters,PS2,NIS America  ,Nippon Ichi Software  ,,,0.14,0.11,,0.04,0.28,2007,Role-Playing
+8672,Bass Strike,PS2,THQ  ,"Pai, Inc  ",,,0.14,0.11,,0.04,0.28,2001,Sports
+8673,NHL Hitz 20-03,PS2,Midway Games  ,EA Black Box  ,,,0.14,0.11,,0.04,0.28,2002,Sports
+8674,Lego Star Wars: The Force Awakens,3DS,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.05,0.19,0.02,0.02,0.28,2016,Action-Adventure
+8675,Darksiders,PS3,THQ  ,Vigil Games  ,7.8,8.5,0.02,0.14,0.02,0.1,0.28,2010,Action
+8676,Pac-Man Fever,GC,Namco  ,Mass Media  ,5.1,,0.21,0.06,,0.01,0.28,2002,Misc
+8677,SimCity 4,PC,Electronic Arts  ,Maxis  ,8.7,,0.01,0.24,,0.02,0.28,2003,Simulation
+8678,Onechanbara Z2: Chaos,PS4,NIS America  ,Tamsoft  ,,,0.16,0.03,0.05,0.04,0.28,2015,Action
+8679,Shadow Warrior Classic Redux,PC,Unknown  ,General Arcade  ,,,,,,,,N/A,Shooter
+8680,CSI: Deadly Intent,Wii,Ubisoft  ,Telltale Games  ,,,0.12,0.13,,0.03,0.28,2009,Adventure
+8681,Real Pool,PS2,Infogrames  ,Takara  ,,,0.14,0.11,,0.04,0.28,2000,Sports
+8682,EyePet,PSP,Sony Computer Entertainment  ,SCEE London Studio  ,4.9,,0.02,0.17,,0.09,0.28,2010,Simulation
+8683,The Walking Dead - The Telltale Series: A New Frontier,PC,Unknown  ,Telltale Games  ,,,,,,,,N/A,Adventure
+8684,Mister Mosquito,PS2,Eidos Interactive  ,Zoom Inc.  ,6.6,,0.05,0.04,0.17,0.01,0.28,2002,Shooter
+8685,Kakyuusei,SAT,Elf  ,Elf  ,,,,,0.28,0.0,0.28,1997,Strategy
+8686,Rugby World Cup 2011,X360,505 Games  ,HB Studios Multimedia  ,4.8,,0.03,0.21,,0.04,0.28,2011,Sports
+8687,Virtua Fighter 5 Online,X360,Sega  ,Sega-AM2  ,9.2,,0.2,0.02,0.03,0.02,0.28,2007,Fighting
+8688,Wappy Dog,DS,Activision  ,Activision  ,,,0.26,0.0,,0.02,0.28,2011,Simulation
+8689,Civilization II,PS,Activision  ,LTI Grey Matter  ,8.2,,0.15,0.11,,0.02,0.28,1998,Strategy
+8690,Secret of Mana,PS4,Square Enix  ,Square  ,,,0.06,0.12,0.05,0.04,0.28,2018,Role-Playing
+8691,Rory McIlroy PGA Tour,XOne,Electronic Arts  ,EA Tiburon  ,,,0.16,0.09,,0.02,0.28,2015,Sports
+8692,Gundam Musou Special,PS2,Namco Bandai  ,Koei  ,,,,,0.28,,0.28,2008,Action
+8693,The Warriors,PSP,Rockstar Games  ,Rockstar Toronto / Leeds  ,8.1,,0.23,0.02,,0.03,0.28,2007,Action
+8694,Madagascar,XB,Activision  ,Toys for Bob  ,6.8,,0.21,0.06,,0.01,0.28,2005,Platform
+8695,Indiana Jones and the Staff of Kings,PS2,LucasArts  ,Artificial Mind and Movement  ,,,0.11,0.01,,0.16,0.28,2009,Action
+8696,F-1 Grand Prix,SNES,Video System  ,Video System  ,,,,,0.28,,0.28,1992,Racing
+8697,ExciteBots: Trick Racing,Wii,Nintendo  ,Monster Games  ,7.7,,0.26,,,0.02,0.28,2009,Racing
+8698,Atonement 2: Ruptured by Despair,PC,Unknown  ,Astronomic Games  ,,,,,,,,N/A,Role-Playing
+8699,The Binding of Isaac: Afterbirth+,NS,Nicalis  ,Nicalis  ,9.0,,0.17,0.08,,0.03,0.28,2017,Action
+8700,SimCity 2000,SAT,Maxis  ,Maxis  ,,,,,0.28,0.0,0.28,1995,Simulation
+8701,Deer Hunter,PS2,Atari  ,Coresoft  ,,,0.14,0.11,,0.04,0.28,2003,Sports
+8702,Avatar: The Last Airbender,Wii,THQ  ,AWE Games  ,,,0.23,0.02,,0.02,0.28,2006,Adventure
+8703,Pokémon Box: Ruby and Sapphire,GC,Nintendo  ,The Pokémon Company  ,,,,,0.27,0.01,0.28,2004,Misc
+8704,Puyo Puyo! 15th Anniversary,DS,Sega  ,Sega  ,,,,,0.28,,0.28,2006,Puzzle
+8705,Yu-Gi-Oh! Monster Capsule Breed & Battle,PS,Konami  ,Konami Computer Entertainment Shinjuku  ,,,,,0.26,0.02,0.28,1998,Role-Playing
+8706,Dave Mirra Freestyle BMX 2,GC,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",,,0.21,0.06,,0.01,0.28,2001,Sports
+8707,Gundam Versus,PS4,Namco Bandai Games  ,Namco Bandai Games  ,7.3,,0.08,,0.18,0.02,0.28,2017,Action
+8708,Warpath: Jurassic Park,PS,Electronic Arts  ,Black Ops Entertainment  ,,,0.15,0.1,,0.02,0.28,1999,Fighting
+8709,Tak and the Guardians of Gross,PS2,THQ  ,Blitz Games  ,,,0.14,0.11,,0.04,0.28,2008,Action
+8710,Domina,PC,Unknown  ,DolphinBarn  ,,,,,,,,N/A,Action
+8711,SD Gundam G Generation: Cross Drive,DS,Namco Bandai  ,Vanguard  ,,,,,0.26,,0.26,2007,Strategy
+8712,True Crime: New York City,XB,Activision  ,EXAKT Entertainment  ,,,0.21,0.06,,0.01,0.28,2005,Action
+8713,Ice Age: Dawn of the Dinosaurs,Wii,Activision  ,Eurocom Entertainment Software  ,7.2,,0.11,0.14,,0.03,0.28,2009,Platform
+8714,Summer Heat Beach Volleyball,PS2,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,,,0.14,0.11,,0.04,0.28,2003,Sports
+8715,NCAA Basketball 09,PS2,EA Sports  ,EA Canada  ,,,0.14,0.11,,0.04,0.28,2008,Sports
+8716,Etrian Mystery Dungeon,3DS,Atlus  ,Spike Chunsoft  ,7.6,,0.11,0.01,0.14,0.01,0.28,2015,Role-Playing
+8717,Power Pro Kun Pocket 3,GBA,Konami  ,Diamond Head  ,,,,,0.27,0.01,0.28,2001,Sports
+8718,Castlevania: Aria of Sorrow,GBA,Konami  ,KCET  ,8.8,,0.2,0.07,,0.0,0.28,2003,Platform
+8719,Myst III: Exile,PS2,Ubisoft  ,Presto Studios  ,,,0.14,0.11,,0.04,0.28,2002,Adventure
+8720,Omerta - City of Gangsters,PC,Unknown  ,Haemimont Games  ,,,,,,,,N/A,Simulation
+8721,Need for Speed: The Run,Wii,Electronic Arts  ,Firebrand Games  ,,,0.11,0.13,0.01,0.03,0.28,2011,Racing
+8722,Mass Effect 3,WiiU,Electronic Arts  ,BioWare  ,9.2,,0.14,0.12,,0.02,0.28,2012,Role-Playing
+8723,Mobile Suit Gundam Side Story I: Senritsu no Blue,SAT,Bandai  ,Bec  ,,,,,0.28,,0.28,1996,Shooter
+8724,Dragon Ball: Xenoverse,X360,Namco Bandai Games  ,Dimps Corporation  ,,,0.21,0.04,,0.03,0.28,2015,Fighting
+8725,Armored Core: Project Phantasma,PS,ASCII Entertainment  ,From Software  ,7.2,,0.06,0.04,0.15,0.02,0.28,1998,Simulation
+8726,Donkey Kong GB: Dinky Kong & Dixie Kong,GB,Nintendo  ,Rare Ltd.  ,,,,,0.28,0.0,0.28,2000,Platform
+8727,FIFA 07 Soccer,X360,EA Sports  ,EA Canada  ,7.1,,0.24,0.01,,0.02,0.28,2006,Sports
+8728,Kobitodzukan: Kobito Kansatsu Set,3DS,Nippon Columbia  ,Nippon Columbia  ,,,,,0.28,,0.28,2012,Misc
+8729,Over the Hedge,DS,Activision  ,Vicarious Visions  ,7.1,,0.24,0.01,,0.02,0.28,2006,Platform
+8730,Rhythm Thief & the Emperor's Treasure,3DS,Sega  ,Sega  ,7.5,,0.07,0.07,0.12,0.01,0.28,2012,Misc
+8731,Siren: Blood Curse,PS3,Sony Computer Entertainment  ,SCE Japan Studio  ,8.3,,,0.17,0.09,0.01,0.28,2008,Action-Adventure
+8732,Nichibutsu Arcade Classics,SNES,Nichibutsu  ,Nihon Bussan  ,,,,,0.28,,0.28,1995,Misc
+8733,Castle Story,PC,Zono Incorporated  ,Unknown  ,,,,,,,,2020,Misc
+8734,Sierra Pro Pilot 98: The Complete Flight Simulator,PC,Sierra Online   ,Dynamix  ,,,,,,,,1997,Simulation
+8735,Trouble In The Manor,PC,Unknown  ,Charyb Games  ,,,,,,,,N/A,Action
+8736,Hot Wheels: Track Attack,DS,THQ  ,THQ  ,,,0.17,0.08,,0.02,0.27,2010,Racing
+8737,Cabela's Trophy Bucks,PS2,Activision  ,Sand Grain Studios  ,,,0.13,0.11,,0.04,0.27,2007,Sports
+8738,Pro Evolution Soccer 2017,PS3,Konami Digital Entertainment  ,PES Productions  ,,,0.04,0.12,0.08,0.03,0.27,2016,Sports
+8739,Pinkalicious,DS,GameMill  ,GameMill Entertainment  ,,,0.25,,,0.02,0.27,2011,Misc
+8740,Moero! Nekketsu Rhythm Damashii: Osu! Tatakae! Ouendan! 2,DS,Nintendo  ,iNiS  ,,,,,0.27,,0.27,2007,Misc
+8741,Q-Ball: Billiards Master,PS2,Take-Two Interactive  ,"ASK Co. Ltd., Ornith  ",,,0.13,0.1,,0.04,0.27,2000,Sports
+8742,Mr. Do!,2600,Coleco  ,Coleco  ,,,0.26,0.02,,0.0,0.27,1983,Action
+8743,Tao Feng: Fist of the Lotus,XB,Microsoft Game Studios  ,Studio Gigante  ,,,0.21,0.06,,0.01,0.27,2003,Fighting
+8744,Assassin's Creed The Ezio Collection,XOne,Ubisoft  ,Ubisoft  ,,,0.13,0.12,,0.02,0.27,2016,Action
+8745,Tomb Raider: Legend (Weekly American and JP sales),X360,Eidos Interactive  ,Crystal Dynamics  ,,,0.24,0.0,0.01,0.02,0.27,2006,Action
+8746,Shin Nippon Pro Wrestling: Toukon Retsuden 2,PS,Tomy Corporation  ,Yuke's Media Creations  ,,,,,0.26,0.02,0.27,1996,Fighting
+8747,Dragon Ball Z: Budokai 2,GC,Atari  ,Pyramid  ,,,0.21,0.06,,0.01,0.27,2004,Fighting
+8748,LEGO The Hobbit,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.13,0.13,,0.02,0.27,2014,Action-Adventure
+8749,Sengoku Basara 4,PS3,Capcom  ,Capcom  ,,,,,0.27,,0.27,2014,Misc
+8750,NBA Live 14,PS4,EA Sports  ,EA Tiburon  ,,,0.17,0.05,,0.05,0.27,2013,Sports
+8751,iCarly 2: iJoin The Click!,DS,Activision  ,"Human Soft, Inc.  ",,,0.25,0.0,,0.02,0.27,2010,Adventure
+8752,Motocross Maniacs Advance,GBA,Konami  ,"Konami Computer Entertainment America, Inc. Honolulu Studio  ",,,0.2,0.07,,0.0,0.27,2002,Racing
+8753,Metal Gear Solid V: Ground Zeroes,XOne,Konami Digital Entertainment  ,Kojima Productions  ,7.7,,0.13,0.13,,0.02,0.27,2014,Action-Adventure
+8754,Pro Evolution Soccer 2013,PSP,Konami Digital Entertainment  ,Konami  ,,,,0.08,0.18,0.02,0.27,2012,Sports
+8755,Dynasty Warriors,PS,KOEI  ,Omega Force  ,,,0.09,0.06,0.11,0.02,0.27,1997,Action
+8756,M&M's Blast!,GBA,Majesco  ,Pipe Dream Interactive  ,,,0.2,0.07,,0.0,0.27,2001,Puzzle
+8757,Remington Super Slam Hunting: Africa,Wii,Mastiff  ,Mastiff  ,,,0.25,,,0.02,0.27,2010,Sports
+8758,Final Fantasy X International,PS2,Square Enix  ,Square Enix  ,,,,,0.27,,0.27,2004,Role-Playing
+8759,Tiny Toon Adventures: Plucky's Big Adventure,PS,Conspiracy Entertainment  ,Warthog  ,,,0.15,0.1,,0.02,0.27,2001,Action
+8760,NHL Hitz 20-02,XB,Midway Games  ,EA Black Box  ,,,0.2,0.06,,0.01,0.27,2001,Sports
+8761,Indy 500,2600,Atari  ,Atari  ,,,0.26,0.01,,0.0,0.27,2077,Racing
+8762,Dead Rising 2: Off the Record,X360,Capcom  ,Blue Castle Games  ,7.6,,0.17,0.08,,0.02,0.27,2011,Action
+8763,Sly Cooper: Thieves in Time,PSV,Sony Computer Entertainment America  ,Sanzaru Games  ,,,0.13,0.07,,0.07,0.27,2013,Misc
+8764,Trivial Pursuit,PS2,Electronic Arts  ,Adrenalin Interactive  ,,,0.09,0.01,,0.17,0.27,2009,Misc
+8765,Evil Dead: Hail to the King,PS,THQ  ,Heavy Iron Studios  ,,,0.15,0.1,,0.02,0.27,2000,Adventure
+8766,Dragon Ball GT: Final Bout,PS,Bandai  ,Bandai  ,,,0.02,0.02,0.22,0.02,0.27,1997,Fighting
+8767,Burstrick: Wake Boarding!!,PS,Natsume  ,Metro Corporation  ,,,0.15,0.1,,0.02,0.27,2001,Sports
+8768,Dave Mirra Freestyle BMX: Maximum Remix,PS,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",,,0.15,0.1,,0.02,0.27,2001,Sports
+8769,GRID 2,X360,Codemasters  ,Unknown  ,,,0.08,0.17,0.0,0.02,0.27,2013,Misc
+8770,Family Guy: Back to the Multiverse,PS3,Activision  ,Heavy Iron Studios  ,,,0.12,0.11,,0.05,0.27,2012,Action-Adventure
+8771,Batman - The Telltale Series,PC,Unknown  ,Telltale Games  ,,,,,,,,N/A,Adventure
+8772,Cat Goes Platform,PC,Unknown  ,VOiD Games  ,,,,,,,,N/A,Platform
+8773,Game of Thrones,PC,Atlus  ,Cyanide Studios  ,,,0.0,0.07,,0.01,0.08,2012,Role-Playing
+8774,Create,Wii,Electronic Arts  ,EA Bright Light  ,,,0.23,0.03,,0.02,0.27,2010,Misc
+8775,Bravo Team,PS4,Sony Interactive Entertainment  ,Supermassive Games Ltd.  ,,,0.12,0.09,0.02,0.04,0.27,2018,Shooter
+8776,Batman: Arkham Origins Blackgate,3DS,Warner Bros. Interactive Entertainment  ,Armature Studio  ,7.0,,0.16,0.09,,0.02,0.27,2013,Action-Adventure
+8777,Lightning Returns: Final Fantasy XIII,X360,Square Enix  ,Unknown  ,,,0.15,0.08,0.01,0.02,0.27,2014,Misc
+8778,Iron Man 2,X360,Sega  ,"Sega Studios, San Francisco  ",5.1,,0.15,0.1,,0.03,0.27,2010,Action
+8779,Beamrider,2600,Activision  ,Activision  ,,,0.26,0.01,,0.0,0.27,1984,Shooter
+8780,Etrian Odyssey V: Beyond the Myth,3DS,Atlus  ,Atlus  ,7.9,,0.11,0.01,0.14,0.01,0.27,2017,Role-Playing
+8781,Athens 2004,PS2,Sony Computer Entertainment  ,Eurocom Entertainment Software  ,,,0.13,0.1,,0.03,0.27,2004,Sports
+8782,Gunship,PS,Microprose  ,MicroProse  ,,,0.15,0.1,,0.02,0.27,1996,Simulation
+8783,Jikkyou Powerful Pro Yakyuu Portable 4,PSP,Konami  ,PawaPuro Productions  ,,,,,0.27,,0.27,2009,Sports
+8784,Pro Race Driver,PS2,Codemasters  ,Codemasters  ,,,0.13,0.1,,0.03,0.27,2002,Racing
+8785,Sydney 2000,PS,Eidos Interactive  ,Attention To Detail  ,,,0.15,0.1,,0.02,0.27,2000,Sports
+8786,Transformers: Cybertron Adventures,Wii,Activision  ,High Moon Studios  ,3.7,,0.14,0.1,,0.02,0.27,2010,Action
+8787,Baten Kaitos: Eternal Wings and the Lost Ocean,GC,Namco  ,tri-Crescendo / Monolith Soft  ,8.2,,0.21,0.05,,0.01,0.27,2004,Role-Playing
+8788,Shadows of the Damned,PS3,Electronic Arts  ,Grasshopper Manufacture  ,7.9,,0.11,0.09,0.04,0.03,0.27,2011,Action
+8789,Rapala Pro Bass Fishing 2010,PS3,Activision  ,FUN Labs  ,,,0.18,0.06,,0.03,0.27,2010,Sports
+8790,Bishoujo Senshi Sailormoon R,SNES,Bandai  ,Angel Studios  ,,,,,0.27,,0.27,1993,Fighting
+8791,Angry Birds: Star Wars,Wii,Activision  ,Exient Entertainment  ,,,0.15,0.1,,0.02,0.27,2013,Puzzle
+8792,Slam Dunk: Yonkyo Taiketsu!!,SNES,Bandai  ,Bandai  ,,,,,0.27,,0.27,1994,Sports
+8793,The Cave,PC,Sega  ,Unknown  ,,,,,,,,2013,Misc
+8794,Pac-Pix,DS,Namco  ,Namco  ,6.8,,0.16,0.0,0.1,0.01,0.27,2005,Puzzle
+8795,Rocky: Legends,PS2,Ubisoft  ,Unknown  ,,,0.13,0.1,,0.03,0.27,2004,Action
+8796,NickToons Racing,GBA,Infogrames  ,Crawfish Interactive  ,,,0.19,0.07,,0.0,0.27,2002,Racing
+8797,NASCAR 2011: The Game,PS3,Activision  ,Eutechnyx  ,6.0,,0.25,,,0.02,0.27,2011,Racing
+8798,Bridge,2600,Activision  ,Activision  ,,,0.25,0.02,,0.0,0.27,1980,Misc
+8799,Flag Capture,2600,Atari  ,Atari  ,,,0.25,0.02,,0.0,0.27,2078,Action
+8800,Monopoly,DS,Electronic Arts  ,Electronic Arts  ,,,0.15,0.09,,0.02,0.27,2010,Misc
+8801,Final Fantasy XI: Ultimate Collection,X360,Square Enix  ,Square Enix  ,,,0.25,,,0.02,0.27,2009,Role-Playing
+8802,Wipeout 2,X360,Activision  ,Endemol  ,,,0.25,,,0.02,0.27,2011,Misc
+8803,G-Force,PS2,Disney Interactive Studios  ,Eurocom Entertainment Software  ,,,0.12,0.01,,0.14,0.27,2009,Action
+8804,The Club,X360,Sega  ,Bizarre Creations  ,7.5,,0.15,0.1,,0.02,0.27,2008,Shooter
+8805,One Piece Unlimited Cruise 1: The Treasure Beneath the Waves,Wii,Namco Bandai  ,Ganbarion  ,,,,0.07,0.19,0.01,0.27,2009,Adventure
+8806,Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikagemura no Kaibutsu,GB,ChunSoft  ,Aquamarine  ,,,,,0.27,,0.27,1996,Role-Playing
+8807,NHL 07,X360,EA Sports  ,EA Canada  ,8.0,,0.25,0.0,,0.02,0.27,2006,Sports
+8808,NHL 2K11,Wii,2K Sports  ,Visual Concepts  ,6.3,,0.23,0.02,,0.02,0.27,2010,Sports
+8809,Over the Hedge,GBA,Activision  ,Vicarious Visions  ,,,0.19,0.07,,0.0,0.27,2006,Platform
+8810,Wave Rally,PS2,Eidos Interactive  ,Opus Studio  ,,,0.13,0.1,,0.03,0.27,2001,Racing
+8811,Disney's Chicken Little,GC,Buena Vista  ,Avalanche Software  ,7.0,,0.21,0.05,,0.01,0.27,2005,Platform
+8812,Brain Age: Concentration Training,3DS,Nintendo  ,Nintendo  ,7.5,,,,0.27,,0.27,2013,Misc
+8813,Ty the Tasmanian Tiger,GC,Electronic Arts  ,Krome Studios  ,7.1,,0.21,0.05,,0.01,0.27,2002,Platform
+8814,WWE Road to WrestleMania X8,GBA,THQ  ,Natsume  ,,,0.19,0.07,,0.0,0.27,2002,Fighting
+8815,Yu-Gi-Oh! The Sacred Cards (JP weekly sales),GBA,Konami  ,Konami  ,,,,,0.26,0.01,0.27,2003,Role-Playing
+8816,Medarot 3: Kabuto / Kuwagata Version,GB,Imagineer  ,Natsume  ,,,,,0.27,0.0,0.27,2000,Role-Playing
+8817,Tiger Woods PGA Tour 07,PSP,EA Sports  ,Team Fusion  ,7.6,,0.2,0.04,,0.03,0.27,2006,Sports
+8818,NASCAR 06: Total Team Control,XB,EA Sports  ,EA Tiburon  ,,,0.2,0.06,,0.01,0.27,2005,Racing
+8819,BloodRayne 2,PS2,Majesco  ,Terminal Reality  ,,,0.13,0.1,,0.03,0.27,2004,Shooter
+8820,Punch-Out!!,VC,Nintendo  ,Nintendo IRD  ,,,0.0,0.22,0.05,,0.27,2007,Sports
+8821,Skylanders SWAP Force,3DS,Activision  ,n-Space  ,7.7,,0.12,0.13,,0.02,0.27,2013,Platform
+8822,NHL 2002,XB,EA Sports  ,EA Canada  ,,,0.2,0.06,,0.01,0.27,2001,Sports
+8823,Rock Revolution,PS3,Konami  ,Zoe Mode / HB Studios  ,,,0.25,,,0.02,0.27,2008,Misc
+8824,Command & Conquer,N64,Nintendo  ,Looking Glass Studios  ,,,0.22,0.05,,0.0,0.27,1999,Strategy
+8825,Condemned: Criminal Origins,X360,Sega  ,Monolith Productions  ,8.2,,0.36,0.02,,0.03,0.41,2005,Action
+8826,Final Fantasy Anniversary Edition,PSP,Square Enix  ,Square Enix  ,7.4,,0.39,0.02,0.13,0.05,0.59,2007,Role-Playing
+8827,Jikkyou Powerful Pro Yakyuu 5,N64,Konami  ,Diamond Head  ,,,,,0.27,0.0,0.27,1998,Sports
+8828,Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE,PS2,Sega  ,Sammy Studios  ,,,,,0.24,,0.24,2006,Misc
+8829,NBA In The Zone '98,N64,Konami  ,Konami Computer Entertainment Osaka  ,,,0.25,0.02,,0.0,0.27,1998,Sports
+8830,NBA Jam 99,N64,Acclaim Entertainment  ,Iguana Entertainment  ,,,0.25,0.02,,0.0,0.27,1998,Sports
+8831,Okami,PS2,Capcom  ,Clover Studio  ,9.4,9.0,0.11,0.03,0.15,0.34,0.63,2006,Adventure
+8832,Red Steel 2,Wii,Ubisoft  ,Ubisoft Paris  ,7.8,8.5,0.35,0.21,0.01,0.06,0.62,2010,Shooter
+8833,Shadow Man,N64,Acclaim Entertainment  ,Acclaim Studios Teesside  ,,,0.18,0.08,,0.01,0.27,1999,Action
+8834,Shin Megami Tensei: Nocturne,PS2,Atlus  ,Atlus Co.  ,8.0,,0.07,0.05,0.25,0.02,0.38,2004,Role-Playing
+8835,Taiko no Tatsujin DS: Dororon! Youkai Daikessen!!,DS,Namco Bandai  ,Bandai Namco Games  ,,,,,0.42,,0.42,2010,Misc
+8836,Tales of VS.,PSP,Namco Bandai  ,Matrix Software  ,,,,,0.23,,0.23,2009,Fighting
+8837,The Conduit,Wii,Sega  ,High Voltage Software  ,6.6,8.2,0.28,0.23,,0.06,0.57,2009,Shooter
+8838,The Secret World,PC,Electronic Arts  ,Funcom  ,,,0.07,0.08,,0.02,0.17,2012,Role-Playing
+8839,Beyblade: Metal Masters,DS,Konami  ,Hudson Soft  ,,,0.14,0.1,,0.03,0.27,2011,Action
+8840,Gun,X360,Activision  ,Neversoft Entertainment  ,7.5,,0.24,0.01,,0.02,0.27,2005,Shooter
+8841,Shadow of Rome,PS2,Capcom  ,Capcom  ,,,0.13,0.1,,0.03,0.27,2005,Action
+8842,Killing Floor 2,PS4,Tripwire Interactive  ,Tripwire Interactive  ,,,0.19,0.03,,0.05,0.27,2016,Shooter
+8843,Harry Potter and the Order of the Phoenix,PS2,Electronic Arts  ,EA Games  ,,,0.13,0.1,,0.03,0.27,2007,Adventure
+8844,Robinson: The Journey,PS4,Sony Interactive Entertainment  ,Crytek  ,,,0.14,0.09,,0.05,0.27,2016,Action-Adventure
+8845,Driveclub VR,PS4,Sony Interactive Entertainment  ,Evolution Studios  ,,,0.12,0.09,0.01,0.04,0.27,2016,Racing
+8846,Dragon Ball Z: Tenkaichi Tag Team,PSP,Namco Bandai  ,Dimps Corporation  ,6.0,,0.11,0.04,0.09,0.03,0.27,2010,Fighting
+8847,Shenmue I & II,PS4,Sega  ,Sega  ,,,0.09,0.1,0.05,0.04,0.27,2018,Action-Adventure
+8848,Stuntman: Ignition,PS2,THQ  ,Paradigm Entertainment  ,,,0.13,0.1,,0.03,0.27,2007,Racing
+8849,Fantastic 4,XB,Activision  ,7 Studios  ,,,0.2,0.06,,0.01,0.27,2005,Action
+8850,The Amazing Spider-Man 2 (2014),PS3,Activision  ,Beenox  ,,,0.06,0.14,0.02,0.04,0.27,2014,Action-Adventure
+8851,Mat Hoffman's Pro BMX,GBA,Activision  ,HotGen Studios  ,,,0.19,0.07,,0.0,0.27,2001,Sports
+8852,Dragon Age Origins: Awakening,PS3,Electronic Arts  ,BioWare Corp.  ,8.3,,0.24,,,0.02,0.27,2010,Role-Playing
+8853,F1 Race Stars,X360,Codemasters  ,Codemasters Birmingham  ,,,0.07,0.18,,0.02,0.27,2012,Racing
+8854,NFL Street 3,PSP,EA Sports BIG   ,EA Tiburon  ,6.7,,0.24,0.0,,0.02,0.27,2006,Sports
+8855,MotoGP,PS2,Namco  ,Namco  ,,,0.06,0.05,0.14,0.02,0.27,2000,Racing
+8856,Ratatouille: Food Frenzy,DS,THQ  ,Helixe  ,,,0.25,0.0,,0.02,0.27,2007,Puzzle
+8857,Sesame Street: Cookie's Counting Carnival,DS,Warner Bros. Interactive  ,Black Lantern Studios  ,,,0.25,,,0.02,0.27,2010,Misc
+8858,Jikkyou Powerful Pro Yakyuu 2,SNES,Konami  ,Konami  ,,,,,0.27,,0.27,1995,Sports
+8859,Guitar Hero Live,WiiU,Activision  ,FreeStyleGames  ,,,0.18,0.06,,0.03,0.27,2015,Music
+8860,Megamind: The Blue Defender,DS,THQ  ,Tantalus Interactive  ,,,0.19,0.06,,0.02,0.27,2010,Adventure
+8861,Wipeout 2,DS,Activision  ,Endemol  ,,,0.25,,,0.02,0.27,2011,Misc
+8862,Thoroughbred Breeder II,SNES,Hect  ,Hector  ,,,,,0.27,0.0,0.27,1994,Simulation
+8863,Despicable Me: The Game,Wii,D3 Publisher  ,Monkey Bar Games  ,,,0.16,0.08,,0.02,0.27,2010,Platform
+8864,Shadowrun: Hong Kong,PC,Unknown  ,Harebrained Schemes  ,,,,,,,,N/A,Role-Playing
+8865,Magical Vacation,GBA,Nintendo  ,Brownie Brown  ,,,,,0.26,0.01,0.27,2001,Role-Playing
+8866,NBA Live 2004,GC,EA Sports  ,EA Canada  ,8.4,,0.21,0.05,,0.01,0.27,2003,Sports
+8867,XGIII: Extreme G Racing,PS2,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,,,0.13,0.1,,0.03,0.27,2001,Racing
+8868,NASCAR Thunder 2003,XB,EA Sports  ,EA Tiburon  ,,,0.2,0.06,,0.01,0.27,2002,Racing
+8869,Superbike 2000,PS,EA Sports  ,Milestone  ,,,0.15,0.1,,0.02,0.27,2000,Racing
+8870,Just Dance Kids 2,Wii,Ubisoft  ,Ubisoft  ,,,0.25,,,0.02,0.27,2011,Misc
+8871,LEGO Jurassic World,PSV,Warner Bros. Interactive Entertainment  ,TT Fusion  ,,,0.05,0.16,,0.06,0.27,2015,Action
+8872,Fire Emblem: Shin Monshou no Nazo Hikari to Kage no Eiyuu,DS,Nintendo  ,Intelligent Systems  ,,,,,0.27,,0.27,2010,Strategy
+8873,Connect Four / Perfection / Trouble,GBA,"Destination Software, Inc  ",Gravity-I  ,,,0.19,0.07,,0.0,0.27,2005,Misc
+8874,MotionSports: Adrenaline,X360,Ubisoft  ,Ubisoft Vancouver  ,,,0.14,0.1,,0.03,0.27,2011,Sports
+8875,Alundra 2: A New Legend Begins,PS,Activision  ,Matrix Software  ,7.1,,0.15,0.1,,0.02,0.27,2000,Role-Playing
+8876,Reign of Fire,PS2,BAM! Entertainment  ,Kuju Entertainment  ,,,0.13,0.1,,0.03,0.27,2002,Shooter
+8877,Scooby-Doo! and the Spooky Swamp,PS2,Warner Bros. Interactive  ,Torus Games  ,,,0.08,0.11,,0.08,0.27,2010,Action
+8878,Jikkyou Powerful Pro Yakyuu '98 Ketteiban,PS,Konami  ,Diamond Head  ,,,,,0.25,0.02,0.27,1998,Sports
+8879,Call of Juarez: The Cartel,X360,Ubisoft  ,Techland  ,5.2,,0.14,0.1,,0.03,0.27,2011,Shooter
+8880,Minecraft: Story Mode - Season Two,XOne,Telltale Games  ,Telltale Games  ,,,0.17,0.08,,0.02,0.27,2017,Adventure
+8881,Orbital Gear,PC,Night Node Software  ,Night Node Software  ,,,,,,,,2014,Action
+8882,Desolate Wastes: Vendor Chronicles,PC,Unknown  ,Rotatipyra  ,,,,,,,,N/A,Action
+8883,The Sims 2: Pets,GC,Electronic Arts  ,Maxis  ,6.9,,0.21,0.05,,0.01,0.27,2006,Simulation
+8884,Germ Wars,PC,Unknown  ,Svarog Studios  ,,,,,,,,N/A,Action
+8885,Littlest Pet Shop: Beach Friends,DS,Electronic Arts  ,EA Salt Lake  ,,,0.25,,,0.02,0.27,2009,Simulation
+8886,The Snack World: TreJarers,3DS,Level 5  ,Level 5  ,,,,,0.27,,0.27,2017,Role-Playing
+8887,hack_me,PC,Unknown  ,Egor Magurin  ,,,,,,,,N/A,Simulation
+8888,Skylanders Imaginators,XOne,Activision  ,Toys for Bob  ,,,0.19,0.05,,0.03,0.27,2016,Platform
+8889,The BIGS,X360,2K Sports  ,Blue Castle Games  ,,,0.18,0.08,,,0.27,2007,Sports
+8890,Initial D: Special Stage,PS2,Sega  ,Sega Rosso  ,,,,,0.27,,0.27,2003,Racing
+8891,The Bureau: XCOM Declassified,PS3,2K Games  ,2K Marin  ,,,0.08,0.14,,0.04,0.27,2013,Shooter
+8892,Summer Athletics: The Ultimate Challenge (US sales),Wii,Conspiracy Entertainment  ,49Games  ,,,0.23,0.03,,,0.27,2008,Sports
+8893,Jurassic Park: Operation Genesis,PS2,VU Games  ,Blue Tongue  ,,,0.13,0.1,,0.03,0.27,2003,Simulation
+8894,Carnival Games,NS,2K Games  ,Cat Daddy Games  ,,,0.11,0.14,,0.02,0.27,2018,Party
+8895,BIT.TRIP BEAT,PC,Gaijin Entertainment  ,Gaijin Games Inc.  ,7.5,,,,,,,2010,Misc
+8896,Final Doom,PS,GT Interactive  ,Williams Entertainment  ,,,0.15,0.1,,0.02,0.27,1995,Shooter
+8897,Home Behind,PC,Unknown  ,TPP Studio  ,,,,,,,,N/A,Adventure
+8898,Puppeteer,PS3,Sony Computer Entertainment America  ,SCE Japan Studio  ,,,0.11,0.09,0.02,0.04,0.27,2013,Platform
+8899,NBA ShootOut 2001,PS,Sony Computer Entertainment  ,989 Sports  ,,,0.15,0.1,,0.02,0.27,2000,Sports
+8900,Cabela's Big Game Hunter 2010,X360,Activision  ,Cauldron  ,,,0.25,,,0.02,0.27,2009,Sports
+8901,Knockout Kings 2002,XB,EA Sports  ,Black Ops Entertainment  ,,,0.2,0.06,,0.01,0.27,2002,Sports
+8902,Fate/Extella: The Umbral Star,PS4,Xseed Games  ,Marvelous Entertainment  ,,,0.12,,0.12,0.03,0.27,2017,Action
+8903,MLB 09: The Show,PSP,Sony Computer Entertainment  ,SCE San Diego Studio  ,8.8,,0.24,,,0.02,0.27,2009,Sports
+8904,Boogie,DS,Electronic Arts  ,EA Montreal  ,,,0.24,0.0,,0.02,0.27,2007,Misc
+8905,NBA 07,PS3,Sony Computer Entertainment  ,SCE San Diego Studio  ,,,0.24,,0.01,0.02,0.27,2006,Sports
+8906,Assassin's Creed: Altair's Chronicles,DS,Ubisoft  ,Gameloft  ,,,0.27,,,,0.27,2008,Action
+8907,Plants vs. Zombies,X360,PopCap Games  ,PopCap Games  ,8.9,,0.24,,,0.02,0.27,2010,Strategy
+8908,Battle Arena Toshinden 3,PS,Playmates  ,Takara  ,,,0.06,0.04,0.14,0.02,0.27,1997,Fighting
+8909,Reader Rabbit Kindergarten,DS,Graffiti  ,Graffiti Entertainment  ,,,0.25,,,0.02,0.27,2009,Misc
+8910,Jade Cocoon: Story of the Tamamayu,PS,Crave Entertainment  ,Genki  ,,,0.15,0.1,,0.02,0.27,1999,Role-Playing
+8911,Super Nazo Puyo: Ruruu no Ruu,SNES,Banpresto  ,Compile  ,,,,,0.27,0.0,0.27,1995,Puzzle
+8912,Marvel Super Hero Squad: The Infinity Gauntlet,Wii,THQ  ,Griptonite Games  ,,,0.21,0.04,,0.02,0.27,2010,Action
+8913,InuYasha: Feudal Combat,PS2,Bandai  ,Eighting  ,,,0.13,0.1,,0.03,0.27,2005,Fighting
+8914,AC/DC LIVE: Rock Band Track Pack,Wii,MTV Games  ,Harmonix Music Systems  ,,,0.24,0.0,,0.02,0.27,2008,Misc
+8915,Suikoden Tierkreis,DS,Konami  ,Konami  ,7.7,,0.09,0.02,0.15,0.01,0.27,2009,Role-Playing
+8916,R.U.S.E.,X360,Ubisoft  ,Eugen Systems  ,8.0,,0.12,0.11,0.0,0.02,0.27,2010,Strategy
+8917,Ratatouille,X360,THQ  ,Heavy Iron Studios  ,5.3,,0.23,0.02,,0.02,0.27,2007,Platform
+8918,Duel Masters,PS2,Atari  ,High Voltage Software  ,,,0.13,0.1,,0.03,0.27,2004,Strategy
+8919,The World Ends with You: Final Remix,NS,Nintendo  ,Square Enix  ,7.4,,0.14,0.08,0.03,0.02,0.27,2018,Role-Playing
+8920,Super Collapse! 3,DS,Mumbo Jumbo  ,Mac Play  ,,,0.25,,,0.02,0.27,2007,Puzzle
+8921,One Piece: Pirate Warriors 3,PS3,Tecmo Koei  ,Omega Force  ,,,,0.06,0.2,0.01,0.27,2015,Action
+8922,Section 8,X360,SouthPeak Interactive  ,TimeGate Studios  ,7.1,,0.15,0.09,,0.02,0.27,2009,Shooter
+8923,The Dog Island,PS2,Ubisoft  ,Yuke's Media Creations  ,,,0.13,0.1,,0.03,0.27,2008,Adventure
+8924,Need for Speed: Most Wanted,DS,Electronic Arts  ,EA Canada  ,,,0.24,0.01,,0.02,0.27,2005,Racing
+8925,Battle of Giants: Mutant Insects,DS,Ubisoft  ,Ubisoft Quebec  ,,,0.09,0.15,,0.03,0.27,2010,Strategy
+8926,Jikkyou Powerful Pro Yakyuu 2010,PS3,Konami  ,PawaPuro Production  ,,,,,0.27,,0.27,2010,Sports
+8927,Operation Armored Liberty,GBA,Majesco  ,Majesco Games  ,,,0.19,0.07,,0.0,0.27,2003,Action
+8928,Divinity: Dragon Commander,PC,Larian Studios  ,Larian Studios  ,,,,,,,,2013,Role-Playing
+8929,Hatsune Miku: Project Diva F 2nd,PS3,Sega  ,Sega  ,,,0.1,0.03,0.1,0.03,0.27,2014,Music
+8930,My Japanese Coach,DS,Ubisoft  ,Ubisoft  ,,,0.24,0.0,,0.02,0.27,2008,Misc
+8931,Are You Smarter than a 5th Grader? Game Time,Wii,THQ  ,THQ  ,,,0.25,,,0.02,0.27,2009,Puzzle
+8932,Friday the 13th: The Game,XOne,Gun Media  ,IllFonic  ,,,0.21,0.03,,0.03,0.27,2017,Action
+8933,America's Test Kitchen: Let's Get Cooking,DS,Nintendo  ,Indies Zero  ,8.5,,0.25,,,0.02,0.27,2010,Simulation
+8934,And1 Streetball,PS2,Ubisoft  ,Black Ops Entertainment  ,,,0.13,0.1,,0.03,0.27,2006,Sports
+8935,Aikatsu! 2-nin no My Princess,3DS,Namco Bandai Games  ,Bandai Namco Games  ,,,,,0.27,,0.27,2013,Simulation
+8936,Day of the Tentacle Remastered,PC,Unknown  ,Double Fine Productions  ,,,,,,,,N/A,Adventure
+8937,Sonic X: Game Boy Advance Video Volume 1,GBA,Majesco  ,Majesco Games  ,,,0.19,0.07,,0.0,0.27,2004,Misc
+8938,ESPN NBA Basketball,XB,Sega  ,Visual Concepts  ,,,0.2,0.06,,0.01,0.27,2003,Sports
+8939,Gallop Racer 2: One and Only Road to Victory,PS,Tecmo  ,Tecmo  ,,,,,0.25,0.02,0.27,1997,Sports
+8940,Mega Man Legacy Collection,XOne,Capcom  ,Digital Eclipse Software  ,,,0.0,,,0.0,0.0,2015,Platform
+8941,Project CARS 2,PC,Namco Bandai Games  ,Slightly Mad Studios  ,,,,0.02,,0.0,0.02,2017,Racing
+8942,All-Pro Football 2K8,X360,2K Sports  ,Visual Concepts  ,7.5,,0.24,,,0.02,0.26,2007,Sports
+8943,Lowrider,PS2,Jaleco  ,Pacific Century Cyber Works Japan  ,,,0.11,0.09,0.03,0.03,0.26,2003,Misc
+8944,The Adventures of Tintin: The Game,PS3,Ubisoft  ,Ubisoft  ,,,0.06,0.15,,0.05,0.26,2011,Adventure
+8945,Total War: Attila,PC,Sega  ,Creative Assembly  ,,,0.11,0.14,,0.02,0.26,2015,Strategy
+8946,Tropico 4,PC,Kalypso  ,Haemimont Games  ,7.9,,0.1,0.13,,0.03,0.26,2011,Strategy
+8947,Dungeons & Dragons: Eye of the Beholder,GBA,Atari  ,Pronto Games  ,4.8,,0.19,0.07,,0.0,0.26,2002,Role-Playing
+8948,Etrian Odyssey: Millennium Girl,3DS,Atlus  ,Atlus  ,8.1,,0.1,0.01,0.14,0.01,0.26,2013,Role-Playing
+8949,Fish Tycoon,DS,Majesco  ,Big Fish Games / LDW  ,,,0.24,0.0,,0.02,0.26,2007,Simulation
+8950,Pool of Radiance,All,Strategic Simulations  ,Strategic Simulations  ,,,,,,,,1988,Role-Playing
+8951,Camera Obscura,PC,Unknown  ,Anteater Games  ,,,,,,,,N/A,Action-Adventure
+8952,R.U.S.E.,PC,Ubisoft  ,Eugen Systems  ,8.0,,0.04,0.19,,0.03,0.26,2010,Strategy
+8953,FIFA 18,X360,EA Sports  ,EA Vancouver  ,,,0.05,0.19,,0.02,0.26,2017,Sports
+8954,Gundam Breaker,PS3,Namco Bandai Games  ,Bandai  ,,,,,0.26,,0.26,2013,Misc
+8955,The House of the Dead 2,DC,Sega  ,Wow Entertainment  ,7.5,,,,0.26,,0.26,1999,Shooter
+8956,Asura's Wrath,X360,Capcom  ,CyberConnect2  ,,,0.17,0.06,0.01,0.02,0.26,2012,Action
+8957,Take Thy Throne,PC,Unknown  ,Charyb Games  ,,,,,,,,N/A,Action-Adventure
+8958,The Incredible Hulk,PS3,Sega  ,Edge of Reality  ,5.6,,0.22,0.02,,0.02,0.26,2008,Action
+8959,The Incredible Hulk,X360,Sega  ,Edge of Reality  ,,,0.22,0.02,,0.02,0.26,2008,Action
+8960,Rune: Viking Warlord,PS2,Take-Two Interactive  ,Human Head Studios  ,,,0.13,0.1,,0.03,0.26,2001,Action
+8961,Jikkyou Powerful Pro Yakyuu 2013,PS3,Konami Digital Entertainment  ,Konami  ,,,,,0.26,,0.26,2013,Sports
+8962,Panzer Dragoon Orta,XB,Sega  ,Smilebit  ,8.8,,0.16,0.05,0.04,0.01,0.26,2003,Shooter
+8963,Jikkyou Powerful Pro Yakyuu '99 Ketteiban,PS,Konami  ,Diamond Head  ,,,,,0.25,0.02,0.26,1999,Sports
+8964,Ninja Gaiden Sigma Plus,PSV,Tecmo Koei  ,Team Ninja  ,,,0.12,0.06,0.04,0.04,0.26,2012,Action
+8965,Dead Rising 2: Off the Record,PC,Capcom  ,Blue Castle Games  ,6.8,,0.04,0.02,,0.01,0.06,2011,Action
+8966,Etrian Odyssey II: Heroes of Lagaard,DS,Atlus  ,Atlus Co. / Lancarse  ,8.4,,0.09,,0.16,0.01,0.26,2008,Role-Playing
+8967,Superman Returns,X360,Electronic Arts  ,EA Tiburon  ,5.0,,0.23,0.01,,0.02,0.26,2006,Action
+8968,King's Field II,PS,ASCII Entertainment  ,From Software  ,7.3,,0.08,0.06,0.11,0.02,0.26,1996,Role-Playing
+8969,Bit Blaster XL,PC,Unknown  ,Nickervision Studios  ,,,,,,,,N/A,Shooter
+8970,NCAA Gamebreaker,PS,Sony Computer Entertainment  ,SCEA  ,6.3,,0.15,0.1,,0.02,0.26,1996,Sports
+8971,NPPL Championship Paintball 2009,PS2,Activision  ,Sand Grain Studios  ,,,0.13,0.1,,0.03,0.26,2008,Shooter
+8972,Petz: Horsez 2,PS2,Ubisoft  ,Ubisoft  ,,,0.13,0.1,,0.03,0.26,2007,Simulation
+8973,Inazuma Eleven GO 3: Galaxy - Big Bang / Supernova,3DS,Level 5  ,Level 5  ,,,,,0.26,,0.26,2013,Role-Playing
+8974,Tomba!,PS,Sony Computer Entertainment  ,Whoopee Camp  ,8.6,,0.15,0.1,,0.02,0.26,1998,Platform
+8975,Love Plus,DS,Konami  ,Konami  ,,,,,0.26,,0.26,2009,Simulation
+8976,MLB SlugFest 2006,PS2,Midway Games  ,Blue Shift  ,,,0.13,0.1,,0.03,0.26,2006,Sports
+8977,Family Feud: 2010 Edition,DS,Ubisoft  ,Ludia Inc.  ,,,0.24,,,0.02,0.26,2009,Misc
+8978,Deadly Premonition,X360,Ignition Entertainment  ,Access Games  ,6.0,7.8,0.18,0.06,0.0,0.02,0.26,2010,Action
+8979,Angry Birds Trilogy,X360,Activision  ,Rovio Mobile  ,,,0.18,0.05,,0.03,0.26,2012,Puzzle
+8980,Rugrats: I Gotta Go Party,GBA,THQ  ,Eurocom Entertainment Software  ,,,0.19,0.07,,0.0,0.26,2002,Action
+8981,Virtua Racing,GEN,Sega  ,Sega-AM2  ,,,,,0.26,,0.26,1994,Racing
+8982,Bolt,PS2,Disney Interactive Studios  ,Avalanche Software  ,,,0.09,0.02,,0.16,0.26,2008,Adventure
+8983,DS Bungaku Zenshuu,DS,Nintendo  ,Genius Sonority Inc.  ,,,,,0.26,,0.26,2007,Misc
+8984,TV Superstars,PS3,Sony Computer Entertainment  ,SCEE Cambridge  ,6.2,,0.08,0.12,,0.05,0.26,2010,Misc
+8985,Major League Baseball 2K10,Wii,2K Sports  ,Visual Concepts  ,5.0,,0.24,,,0.02,0.26,2010,Sports
+8986,Ford Racing 3,PS2,2K Games  ,Empire Interactive  ,,,0.13,0.1,,0.03,0.26,2005,Racing
+8987,Phantasy Star Universe: Ambition of the Illuminus,PS2,Sega  ,Sonic Team  ,,,0.1,0.08,0.05,0.03,0.26,2007,Role-Playing
+8988,Ultimate Marvel vs. Capcom 3,PS4,Capcom  ,Capcom  ,,,0.19,,0.02,0.04,0.26,2017,Fighting
+8989,The Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron,GBA,THQ  ,Human Soft  ,6.0,,0.19,0.07,,0.0,0.26,2002,Action
+8990,Stella Glow,3DS,Atlus  ,imageepoch Inc.  ,7.5,8.0,0.17,0.01,0.06,0.02,0.26,2015,Role-Playing
+8991,Sengoku Basara 2,PS2,Capcom  ,Capcom  ,,,,,0.26,,0.26,2006,Action
+8992,Stealth Inc 2: A Game of Clones,PC,Unknown  ,Carbon  ,,,,,,,,N/A,Action-Adventure
+8993,Hey Arnold! The Movie,GBA,THQ  ,Altron  ,5.5,,0.19,0.07,,0.0,0.26,2002,Platform
+8994,Final Fantasy V Advance,GBA,Nintendo  ,Square Enix  ,8.2,,,,0.26,0.01,0.26,2006,Role-Playing
+8995,Need for Speed: Most Wanted,GBA,Electronic Arts  ,EA Canada  ,,,0.19,0.07,,0.0,0.26,2005,Racing
+8996,Star Trek: Invasion,PS,Activision  ,Warthog  ,,,0.15,0.1,,0.02,0.26,2000,Simulation
+8997,Wizard of Legend,PC,Unknown  ,Contingent99  ,,,,,,,,N/A,Action-Adventure
+8998,Assassin's Creed Syndicate,PC,Ubisoft  ,Ubisoft Quebec  ,,,0.15,0.09,,0.02,0.26,2015,Action
+8999,Star Wars: Bounty Hunter,GC,LucasArts  ,LucasArts  ,,,0.2,0.05,,0.01,0.26,2002,Shooter
+9000,Bratz: The Movie,Wii,THQ  ,Blitz Games  ,,,0.23,0.01,,0.02,0.26,2007,Simulation

@@ -103,3 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 .vscode/
+scrape-weekly-archives.py
+#nonsense.vb
+#nonsense.vb
+test.py
